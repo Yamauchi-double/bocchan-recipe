@@ -1,0 +1,353 @@
+{
+  "generatedAt": "2026-06-18T08:14:01.468Z",
+  "count": 6,
+  "recipes": [
+    {
+      "id": "CO001",
+      "brand": "坊っちゃん",
+      "name": "もも串",
+      "category": "調理",
+      "time": "5分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 1,
+      "ingredients": [
+        {
+          "label": "仕込み_もも串",
+          "amt": "1",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "焼き鳥のたれ",
+          "amt": "10",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "赤みそだれ",
+          "amt": "10",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [
+        "小麦",
+        "大豆"
+      ],
+      "steps": [
+        {
+          "text": "塩の場合",
+          "note": true
+        },
+        {
+          "text": "仕込んでおいた串をグリラーに乗せる",
+          "note": false
+        },
+        {
+          "text": "片面約2分前後を目安に焼く（中火推奨）",
+          "note": false
+        },
+        {
+          "text": "焼きあがったら皿に盛って提供",
+          "note": false
+        },
+        {
+          "text": "タレ・みその場合",
+          "note": true
+        },
+        {
+          "text": "焼き上げ後、タレ or みそに漬ける",
+          "note": false
+        },
+        {
+          "text": "再度グリラーで30秒〜1分焼く",
+          "note": false
+        },
+        {
+          "text": "再度タレ or みそに漬けて提供",
+          "note": false
+        }
+      ],
+      "media": [],
+      "plating": [
+        {
+          "item": "保存期間",
+          "content": "冷蔵4日"
+        },
+        {
+          "item": "保存容器",
+          "content": "2440mlタッパ"
+        }
+      ],
+      "related": []
+    },
+    {
+      "id": "SH001",
+      "brand": "坊っちゃん",
+      "name": "仕込み_釜飯だし",
+      "category": "仕込み",
+      "time": "1時間半",
+      "yieldAmt": 935,
+      "yieldUnit": "g",
+      "appOrder": 1,
+      "ingredients": [
+        {
+          "label": "仕込み_おでん出汁",
+          "amt": "900",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "昆布茶",
+          "amt": "35",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "おでん出汁900gと昆布茶35gをよく混ぜて容器で冷蔵保管",
+          "note": false
+        }
+      ],
+      "media": [],
+      "plating": [
+        {
+          "item": "保存期間",
+          "content": "冷蔵4日"
+        },
+        {
+          "item": "保存容器",
+          "content": "2440mlタッパ"
+        }
+      ],
+      "related": []
+    },
+    {
+      "id": "CO002",
+      "brand": "坊っちゃん",
+      "name": "骨付き鶏もも焼き",
+      "category": "調理",
+      "time": "1時間半",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 2,
+      "ingredients": [
+        {
+          "label": "仕込み_骨付き鶏もも焼き",
+          "amt": "1",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "キャベツ",
+          "amt": "30",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "柚子胡椒",
+          "amt": "5",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "レモン",
+          "amt": "1/8",
+          "unit": "個",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "仕込んだ骨付きもも肉をパイ皿に乗せる",
+          "note": false
+        },
+        {
+          "text": "230°のオーブンで15分焼く（皮を上に）",
+          "note": false
+        },
+        {
+          "text": "骨周りの火通りを確認、赤ければ1分刻みで追加",
+          "note": true
+        },
+        {
+          "text": "皿にキャベツを盛り、もも肉を盛って肉汁をかける",
+          "note": false
+        },
+        {
+          "text": "柚子胡椒・レモンを添えて完成",
+          "note": false
+        }
+      ],
+      "media": [],
+      "plating": [
+        {
+          "item": "保存期間",
+          "content": "冷蔵4日"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO003",
+          "reason": "同系統（味付け違い）"
+        }
+      ]
+    },
+    {
+      "id": "SH002",
+      "brand": "坊っちゃん",
+      "name": "仕込み_タケノコ味入れ",
+      "category": "仕込み",
+      "time": "1時間半",
+      "yieldAmt": 590,
+      "yieldUnit": "g",
+      "appOrder": 2,
+      "ingredients": [
+        {
+          "label": "タケノコ水煮",
+          "amt": "500",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "濃い口しょうゆ",
+          "amt": "80",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "かつお節",
+          "amt": "10",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [
+        "小麦",
+        "大豆"
+      ],
+      "steps": [
+        {
+          "text": "タケノコ水煮・濃口しょうゆ・かつお節を全て合わせる",
+          "note": false
+        }
+      ],
+      "media": [],
+      "plating": [
+        {
+          "item": "保存期間",
+          "content": "冷蔵4日"
+        },
+        {
+          "item": "保存容器",
+          "content": "2440mlタッパ"
+        }
+      ],
+      "related": []
+    },
+    {
+      "id": "CO003",
+      "brand": "坊っちゃん",
+      "name": "骨付き鶏ももスパイシー焼き",
+      "category": "調理",
+      "time": "1時間半",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 3,
+      "ingredients": [
+        {
+          "label": "仕込み_骨付きもも肉スパイシー",
+          "amt": "1",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "キャベツ",
+          "amt": "30",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "レモン",
+          "amt": "1/8",
+          "unit": "個",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "仕込んだ骨付きもも肉をパイ皿に乗せる",
+          "note": false
+        },
+        {
+          "text": "230°のオーブンで15分焼く（皮を上に）",
+          "note": false
+        },
+        {
+          "text": "火通り確認、赤ければ1分刻みで追加",
+          "note": true
+        },
+        {
+          "text": "皿にキャベツを盛り、もも肉を盛って肉汁をかける",
+          "note": false
+        },
+        {
+          "text": "レモンを添えて完成",
+          "note": false
+        }
+      ],
+      "media": [],
+      "plating": [],
+      "related": []
+    },
+    {
+      "id": "CO004",
+      "brand": "坊っちゃん",
+      "name": "麻辣タン",
+      "category": "調理",
+      "time": "",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 4,
+      "ingredients": [
+        {
+          "label": "仕込み_麻辣炊きタン",
+          "amt": "1",
+          "unit": "個",
+          "linkId": ""
+        },
+        {
+          "label": "白ネギカット",
+          "amt": "30",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [
+        "ごま"
+      ],
+      "steps": [
+        {
+          "text": "仕込んだ麻辣炊きタンと出汁50gをレンジで温める【600w/1分】",
+          "note": false
+        },
+        {
+          "text": "出汁ごと皿に移す",
+          "note": false
+        },
+        {
+          "text": "白ネギを盛って完成",
+          "note": false
+        }
+      ],
+      "media": [],
+      "plating": [],
+      "related": []
+    }
+  ]
+}
