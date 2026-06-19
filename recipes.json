@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T08:14:01.468Z",
+  "generatedAt": "2026-06-19T04:54:42.207Z",
   "count": 6,
   "recipes": [
     {
@@ -69,7 +69,16 @@
           "note": false
         }
       ],
-      "media": [],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1anF89B5YHxldvnXhA-mequBymjtZTif2/view?usp=sharing"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1iu_o0PcU1gWxYZNRXLbA1fTeTe8wciw9/view?usp=sharing"
+        }
+      ],
       "plating": [
         {
           "item": "保存期間",
@@ -183,7 +192,16 @@
           "note": false
         }
       ],
-      "media": [],
+      "media": [
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1UfBeBH0DPb0sl5AQe5pL1WoSwpWSQR2X/view?usp=sharing"
+        },
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1aDMjlMYdMHpqSkdEL--LtLd9IihSfhKw/view?usp=sharing"
+        }
+      ],
       "plating": [
         {
           "item": "保存期間",
