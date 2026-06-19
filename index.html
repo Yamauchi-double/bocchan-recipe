@@ -155,6 +155,14 @@ button{font-family:inherit}img{display:block}
 
 @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
 @keyframes fade{from{opacity:0}to{opacity:1}}
+
+/* ===== 写真メイン表示・カルーセル（案C+B）===== */
+.player .mainphoto{width:100%;height:100%;object-fit:cover;display:block;}
+.photostrip{display:flex;gap:10px;overflow-x:auto;padding:4px 0 8px;-webkit-overflow-scrolling:touch;scroll-snap-type:x mandatory;}
+.photostrip::-webkit-scrollbar{height:6px;}
+.photostrip::-webkit-scrollbar-thumb{background:#ddd;border-radius:3px;}
+.pthumb{flex:0 0 auto;scroll-snap-align:start;border-radius:10px;overflow:hidden;width:140px;height:105px;background:#f2f2f2;display:block;}
+.pthumb img{width:100%;height:100%;object-fit:cover;display:block;}
 </style>
 </head>
 <body>
@@ -465,9 +473,29 @@ function openWatch(id){
   var r=findRecipe(id); if(!r) return;
   var closeBar='<div class="closebar"><button class="wclose" onclick="closeWatch()"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>';
   var vid=mediaUrl(r,'動画'), vidId=driveId(vid);
-  player.innerHTML = vidId
-    ? '<iframe src="https://drive.google.com/file/d/'+vidId+'/preview" allow="autoplay" allowfullscreen></iframe>'+closeBar
-    : '<div class="ph"><div class="e">'+emojiFor(r)+'</div><div>動画準備中</div></div>'+closeBar;
+  // 料理写真（複数対応）
+  var photos=(r.media||[]).filter(function(m){return m.type==='料理写真'&&m.url;}).map(function(m){return driveId(m.url);}).filter(Boolean);
+
+  if(vidId){
+    // 動画あり → 動画メイン
+    player.innerHTML='<iframe src="https://drive.google.com/file/d/'+vidId+'/preview" allow="autoplay" allowfullscreen></iframe>'+closeBar;
+  } else if(photos.length){
+    // 動画なし・写真あり → 先頭写真をメイン表示
+    player.innerHTML='<img class="mainphoto" src="https://drive.google.com/thumbnail?id='+photos[0]+'&sz=w1200">'+closeBar;
+  } else {
+    // どちらも無し → 絵文字
+    player.innerHTML='<div class="ph"><div class="e">'+emojiFor(r)+'</div><div>準備中</div></div>'+closeBar;
+  }
+
+  // 写真カルーセル（横スクロール）。動画ありなら全写真、写真メイン時は2枚目以降
+  var carouselPhotos = vidId ? photos : photos.slice(1);
+  var photoStrip = carouselPhotos.length
+    ? '<div class="sec"><div class="sech">写真</div><div class="photostrip">'+
+        carouselPhotos.map(function(pid){
+          return '<a class="pthumb" href="https://drive.google.com/file/d/'+pid+'/view" target="_blank"><img src="https://drive.google.com/thumbnail?id='+pid+'&sz=w600"></a>';
+        }).join('')+
+      '</div></div>'
+    : '';
 
   // メディア欄（PDF＝画像付き調理工程）
   var pdf=mediaUrl(r,'PDF'), pdfId=driveId(pdf);
@@ -518,6 +546,7 @@ function openWatch(id){
     '<div class="wtitle">'+r.name+'</div>'+
     '<div class="wmetarow"><span class="pill cat">'+r.category+'</span><span class="pill">⏱<b>'+(r.time||'-')+'</b></span>'+
       (r.yieldAmt?'<span class="pill">上がり<b>'+r.yieldAmt+(r.yieldUnit||'')+'</b></span>':'')+'</div>'+
+    photoStrip+
     mediaSec+
     '<div class="sec"><div class="sech">アレルゲン</div><div class="allergens">'+aller+'</div><div class="auto-note">※ 材料から<b>自動判定</b></div></div>'+
     '<div class="sec"><div class="sech">材料</div><div class="ing">'+(ing||'<div class="row"><div class="l">（未登録）</div></div>')+'</div></div>'+
