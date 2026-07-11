@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-06-21T19:13:19.603Z",
+  "generatedAt": "2026-07-11T13:36:08.508Z",
   "count": 135,
   "recipes": [
     {
       "id": "SH001",
       "brand": "坊っちゃん",
       "name": "仕込み_麻辣タン",
+      "furigana": "シコミ_マーラータン",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -43,10 +44,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "解凍したムキタンのタン中～タン先とタン下を用意する",
@@ -117,6 +115,7 @@
       "id": "SH002",
       "brand": "坊っちゃん",
       "name": "仕込み_おでん出汁",
+      "furigana": "シコミ_オデンダシ",
       "category": "仕込み",
       "time": "5分",
       "yieldAmt": null,
@@ -167,6 +166,7 @@
       "id": "SH003",
       "brand": "坊っちゃん",
       "name": "仕込み_骨付き鶏もも焼き",
+      "furigana": "シコミ_ホネツキドリモモヤキ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -270,6 +270,7 @@
       "id": "SH004",
       "brand": "坊っちゃん",
       "name": "仕込み_ピリ辛メンマ",
+      "furigana": "シコミ_ピリカラメンマ",
       "category": "仕込み",
       "time": "3分",
       "yieldAmt": null,
@@ -367,6 +368,7 @@
       "id": "SH005",
       "brand": "坊っちゃん",
       "name": "仕込み_焼き鳥漬けダレ",
+      "furigana": "シコミ_ヤキトリツケダレ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -460,6 +462,7 @@
       "id": "SH006",
       "brand": "坊っちゃん",
       "name": "仕込み_もも串",
+      "furigana": "シコミ_モモクシ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -551,6 +554,7 @@
       "id": "SH007",
       "brand": "坊っちゃん",
       "name": "仕込み_ぼんじり串",
+      "furigana": "シコミ_ボンジリクシ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -642,6 +646,7 @@
       "id": "SH008",
       "brand": "坊っちゃん",
       "name": "仕込み_ハラミ串",
+      "furigana": "シコミ_ハラミクシ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -733,6 +738,7 @@
       "id": "SH009",
       "brand": "坊っちゃん",
       "name": "仕込み_砂肝串",
+      "furigana": "シコミ_スナギモクシ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -824,6 +830,7 @@
       "id": "SH010",
       "brand": "坊っちゃん",
       "name": "仕込み_みんち串",
+      "furigana": "シコミ_ミンチクシ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -935,6 +942,7 @@
       "id": "SH011",
       "brand": "坊っちゃん",
       "name": "仕込み_ココロ串",
+      "furigana": "シコミ_ココロクシ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -1026,6 +1034,7 @@
       "id": "SH012",
       "brand": "坊っちゃん",
       "name": "仕込み_ヤゲン軟骨串",
+      "furigana": "シコミ_ヤゲンナンコツクシ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -1117,6 +1126,7 @@
       "id": "SH013",
       "brand": "坊っちゃん",
       "name": "仕込み_ふりそで串",
+      "furigana": "シコミ_フリソデクシ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -1220,6 +1230,7 @@
       "id": "SH014",
       "brand": "坊っちゃん",
       "name": "仕込み_豚バラ低調",
+      "furigana": "シコミ_ブタバラテイチョウ",
       "category": "仕込み",
       "time": "2時間",
       "yieldAmt": null,
@@ -1365,6 +1376,7 @@
       "id": "SH015",
       "brand": "坊っちゃん",
       "name": "仕込み_豚タン串",
+      "furigana": "シコミ_ブタタンクシ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -1470,6 +1482,7 @@
       "id": "SH016",
       "brand": "坊っちゃん",
       "name": "仕込み_牛タンレア串",
+      "furigana": "シコミ_ギュウタンレアクシ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -1581,6 +1594,7 @@
       "id": "SH017",
       "brand": "坊っちゃん",
       "name": "仕込み_スペアリブ",
+      "furigana": "シコミ_スペアリブ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -1618,10 +1632,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "スペアリブを解凍する",
@@ -1705,6 +1716,7 @@
       "id": "SH018",
       "brand": "坊っちゃん",
       "name": "仕込み_サラダベース",
+      "furigana": "シコミ_サラダベース",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -1836,6 +1848,7 @@
       "id": "SH019",
       "brand": "坊っちゃん",
       "name": "仕込み_おでん大根",
+      "furigana": "シコミ_オデンダイコン",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -1939,6 +1952,7 @@
       "id": "SH020",
       "brand": "坊っちゃん",
       "name": "仕込み_おでんこんにゃく",
+      "furigana": "シコミ_オデンコンニャク",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -2038,6 +2052,7 @@
       "id": "SH044",
       "brand": "坊っちゃん",
       "name": "仕込み_おでん厚揚げ",
+      "furigana": "シコミ_オデンアツアゲ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -2137,6 +2152,7 @@
       "id": "SH045",
       "brand": "坊っちゃん",
       "name": "仕込み_おでん餅巾着",
+      "furigana": "シコミ_オデンモチキンチャク",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -2236,6 +2252,7 @@
       "id": "SH046",
       "brand": "坊っちゃん",
       "name": "仕込み_おでん玉子",
+      "furigana": "シコミ_オデンタマゴ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -2335,6 +2352,7 @@
       "id": "SH047",
       "brand": "坊っちゃん",
       "name": "仕込み_おでん豚みみ",
+      "furigana": "シコミ_オデンブタミミ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -2434,6 +2452,7 @@
       "id": "SH048",
       "brand": "坊っちゃん",
       "name": "仕込み_おでんロールキャベツ",
+      "furigana": "シコミ_オデンロールキャベツ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -2533,6 +2552,7 @@
       "id": "SH049",
       "brand": "坊っちゃん",
       "name": "仕込み_おでん赤棒",
+      "furigana": "シコミ_オデンアカボウ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -2640,6 +2660,7 @@
       "id": "SH050",
       "brand": "坊っちゃん",
       "name": "仕込み_おでんトッポギ",
+      "furigana": "シコミ_オデントッポギ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -2743,6 +2764,7 @@
       "id": "SH051",
       "brand": "坊っちゃん",
       "name": "仕込み_おでんみんち串",
+      "furigana": "シコミ_オデンミンチクシ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -2846,6 +2868,7 @@
       "id": "SH052",
       "brand": "坊っちゃん",
       "name": "仕込み_おでんチーズ天",
+      "furigana": "シコミ_オデンチーズテン",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -2949,6 +2972,7 @@
       "id": "SH021",
       "brand": "坊っちゃん",
       "name": "仕込み_きゅうりの浅漬け",
+      "furigana": "シコミ_キュウリノアサヅケ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -3066,6 +3090,7 @@
       "id": "SH022",
       "brand": "坊っちゃん",
       "name": "仕込み_コブクロ",
+      "furigana": "シコミ_コブクロ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -3157,6 +3182,7 @@
       "id": "SH023",
       "brand": "坊っちゃん",
       "name": "仕込み_オニオンスライス",
+      "furigana": "シコミ_オニオンスライス",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -3250,6 +3276,7 @@
       "id": "SH024",
       "brand": "坊っちゃん",
       "name": "仕込み_明太ポテサラ",
+      "furigana": "シコミ_メンタイポテサラ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -3357,6 +3384,7 @@
       "id": "SH025",
       "brand": "坊っちゃん",
       "name": "仕込み_サーモンチーズ",
+      "furigana": "シコミ_サーモンチーズ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -3464,6 +3492,7 @@
       "id": "SH026",
       "brand": "坊っちゃん",
       "name": "仕込み_鶏たたき",
+      "furigana": "シコミ_トリタタキ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -3559,6 +3588,7 @@
       "id": "SH027",
       "brand": "坊っちゃん",
       "name": "仕込み_ユッケだれ",
+      "furigana": "シコミ_ユッケダレ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -3590,10 +3620,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "保存期間：冷蔵4日",
@@ -3649,6 +3676,7 @@
       "id": "SH028",
       "brand": "坊っちゃん",
       "name": "仕込み_バケットカット",
+      "furigana": "シコミ_バケットカット",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -3734,6 +3762,7 @@
       "id": "SH029",
       "brand": "坊っちゃん",
       "name": "仕込み_鶏むねカット",
+      "furigana": "シコミ_トリムネカット",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -3827,6 +3856,7 @@
       "id": "SH030",
       "brand": "坊っちゃん",
       "name": "仕込み_マヨピザソース",
+      "furigana": "シコミ_マヨピザソース",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -3916,6 +3946,7 @@
       "id": "SH031",
       "brand": "坊っちゃん",
       "name": "仕込み_グラタンソース",
+      "furigana": "シコミ_グラタンソース",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -4011,6 +4042,7 @@
       "id": "SH032",
       "brand": "坊っちゃん",
       "name": "仕込み_炊き豆腐",
+      "furigana": "シコミ_タキトウフ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -4054,10 +4086,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "焼豆腐を１／２にカットする",
@@ -4137,6 +4166,7 @@
       "id": "SH033",
       "brand": "坊っちゃん",
       "name": "仕込み_里芋フライ",
+      "furigana": "シコミ_サトイモフライ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -4230,6 +4260,7 @@
       "id": "SH034",
       "brand": "坊っちゃん",
       "name": "仕込み_里芋煮込み",
+      "furigana": "シコミ_サトイモニコミ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -4273,10 +4304,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "里芋を解凍する",
@@ -4352,6 +4380,7 @@
       "id": "SH035",
       "brand": "坊っちゃん",
       "name": "仕込み_合わせネギ",
+      "furigana": "シコミ_アワセネギ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -4449,6 +4478,7 @@
       "id": "SH036",
       "brand": "坊っちゃん",
       "name": "仕込み_塩だれぽん酢",
+      "furigana": "シコミ_シオダレポンス",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -4528,6 +4558,7 @@
       "id": "SH037",
       "brand": "坊っちゃん",
       "name": "仕込み_米",
+      "furigana": "シコミ_コメ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -4655,6 +4686,7 @@
       "id": "SH038",
       "brand": "坊っちゃん",
       "name": "仕込み_釜飯だし",
+      "furigana": "シコミ_カマメシダシ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -4734,6 +4766,7 @@
       "id": "SH039",
       "brand": "坊っちゃん",
       "name": "仕込み_おでん鶏チャーシュー",
+      "furigana": "シコミ_オデントリチャーシュー",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -4837,6 +4870,7 @@
       "id": "SH040",
       "brand": "坊っちゃん",
       "name": "仕込み_骨付きもも肉スパイシー",
+      "furigana": "シコミ_ホネツキモモニクスパイシー",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -4940,6 +4974,7 @@
       "id": "SH041",
       "brand": "坊っちゃん",
       "name": "仕込み_骨付き豚リブ",
+      "furigana": "シコミ_ホネツキブタリブ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -5027,6 +5062,7 @@
       "id": "SH042",
       "brand": "坊っちゃん",
       "name": "仕込み_さつま芋",
+      "furigana": "シコミ_サツマイモ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -5138,6 +5174,7 @@
       "id": "SH043",
       "brand": "坊っちゃん",
       "name": "仕込み_タケノコ味入れ",
+      "furigana": "シコミ_タケノコアジイレ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -5163,10 +5200,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "上記を全て合わせる",
@@ -5226,6 +5260,7 @@
       "id": "CO001",
       "brand": "坊っちゃん",
       "name": "麻辣タン",
+      "furigana": "マーラータン",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -5245,9 +5280,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "ごま"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "仕込んでおいた麻辣炊きタンと出汁50gをレンジで温める【600w/1分】",
@@ -5278,6 +5311,7 @@
       "id": "CO002",
       "brand": "坊っちゃん",
       "name": "骨付き鶏もも焼き",
+      "furigana": "ホネツキドリモモヤキ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -5351,24 +5385,21 @@
         }
       ],
       "plating": [],
-      "related": [
-        {
-          "id": "CO003",
-          "reason": "同系統（味付け違い）"
-        }
-      ],
+      "related": [],
       "comments": [],
       "suggested": [
         "CO075",
         "CO076",
         "CO015",
-        "CO049"
+        "CO049",
+        "CO060"
       ]
     },
     {
       "id": "CO003",
       "brand": "坊っちゃん",
       "name": "もも串",
+      "furigana": "モモクシ",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -5394,10 +5425,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -5497,6 +5525,7 @@
       "id": "CO004",
       "brand": "坊っちゃん",
       "name": "ぼんじり串",
+      "furigana": "ボンジリクシ",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -5522,10 +5551,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -5625,6 +5651,7 @@
       "id": "CO005",
       "brand": "坊っちゃん",
       "name": "ハラミ串",
+      "furigana": "ハラミクシ",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -5650,10 +5677,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -5753,6 +5777,7 @@
       "id": "CO006",
       "brand": "坊っちゃん",
       "name": "砂肝串",
+      "furigana": "スナギモクシ",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -5778,10 +5803,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -5881,6 +5903,7 @@
       "id": "CO007",
       "brand": "坊っちゃん",
       "name": "皮串（塩のみ）",
+      "furigana": "カワクシ（シオノミ）",
       "category": "調理",
       "time": "3分",
       "yieldAmt": null,
@@ -5966,6 +5989,7 @@
       "id": "CO008",
       "brand": "坊っちゃん",
       "name": "みんち串",
+      "furigana": "ミンチクシ",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -5997,10 +6021,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -6092,6 +6113,7 @@
       "id": "CO009",
       "brand": "坊っちゃん",
       "name": "ココロ串",
+      "furigana": "ココロクシ",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -6117,10 +6139,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -6212,6 +6231,7 @@
       "id": "CO010",
       "brand": "坊っちゃん",
       "name": "ヤゲン軟骨串",
+      "furigana": "ヤゲンナンコツクシ",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -6237,10 +6257,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -6332,6 +6349,7 @@
       "id": "CO011",
       "brand": "坊っちゃん",
       "name": "ふりそで串",
+      "furigana": "フリソデクシ",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -6357,10 +6375,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -6452,6 +6467,7 @@
       "id": "CO012",
       "brand": "坊っちゃん",
       "name": "坊っちゃん串",
+      "furigana": "ボッチャンクシ",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -6477,10 +6493,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -6572,6 +6585,7 @@
       "id": "CO013",
       "brand": "坊っちゃん",
       "name": "豚タン串",
+      "furigana": "ブタタンクシ",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -6597,10 +6611,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -6692,6 +6703,7 @@
       "id": "CO014",
       "brand": "坊っちゃん",
       "name": "牛タンレア串（塩のみ）",
+      "furigana": "ギュウタンレアクシ（シオノミ）",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -6793,6 +6805,7 @@
       "id": "CO015",
       "brand": "坊っちゃん",
       "name": "スペアリブ（タレのみ）",
+      "furigana": "スペアリブ（タレノミ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -6890,6 +6903,7 @@
       "id": "CO016",
       "brand": "坊っちゃん",
       "name": "牛すじ串",
+      "furigana": "ギュウスジクシ",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -6921,10 +6935,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "解凍した牛すじ４０ｇを串に刺しておく（4個～5個目安）",
@@ -7020,6 +7031,7 @@
       "id": "CO017",
       "brand": "坊っちゃん",
       "name": "雲仙ハム串",
+      "furigana": "ウンゼンハムクシ",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -7051,10 +7063,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "解凍した雲仙ハムを１．５cmほどの厚みに切り1/2カットして半月型にする",
@@ -7154,6 +7163,7 @@
       "id": "CO018",
       "brand": "坊っちゃん",
       "name": "おっぱい（豚のおっぱい）",
+      "furigana": "オッパイ（ブタノオッパイ）",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -7179,10 +7189,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -7290,6 +7297,7 @@
       "id": "CO019",
       "brand": "坊っちゃん",
       "name": "牛ハツ（牛の心臓）",
+      "furigana": "ウシハツ（ウシノシンゾウ）",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -7315,10 +7323,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -7426,6 +7431,7 @@
       "id": "CO020",
       "brand": "坊っちゃん",
       "name": "アカセン（牛の4番目の胃袋）",
+      "furigana": "アカセン（ウシノ4バンメノイブクロ）",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -7451,10 +7457,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -7562,6 +7565,7 @@
       "id": "CO021",
       "brand": "坊っちゃん",
       "name": "ガツ（豚の胃袋）",
+      "furigana": "ガツ（ブタノイブクロ）",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -7587,10 +7591,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -7698,6 +7699,7 @@
       "id": "CO022",
       "brand": "坊っちゃん",
       "name": "テッポウ（豚の直腸）",
+      "furigana": "テッポウ（ブタノチョクチョウ）",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -7723,10 +7725,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -7834,6 +7833,7 @@
       "id": "CO023",
       "brand": "坊っちゃん",
       "name": "豚ハラミ（豚の横隔膜）",
+      "furigana": "ブタハラミ（ブタノオウカクマク）",
       "category": "調理",
       "time": "5分",
       "yieldAmt": null,
@@ -7859,10 +7859,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -7970,6 +7967,7 @@
       "id": "CO024",
       "brand": "坊っちゃん",
       "name": "大根（１個）",
+      "furigana": "ダイコン（１コ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -8067,6 +8065,7 @@
       "id": "CO025",
       "brand": "坊っちゃん",
       "name": "結びこんにゃく（２個）",
+      "furigana": "ムスビコンニャク（２コ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -8164,6 +8163,7 @@
       "id": "CO026",
       "brand": "坊っちゃん",
       "name": "厚揚げ（２個）",
+      "furigana": "アツアゲ（２コ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -8261,6 +8261,7 @@
       "id": "CO027",
       "brand": "坊っちゃん",
       "name": "餅巾着（１個）",
+      "furigana": "モチキンチャク（１コ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -8358,6 +8359,7 @@
       "id": "CO028",
       "brand": "坊っちゃん",
       "name": "玉子（１個）",
+      "furigana": "タマゴ（１コ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -8455,6 +8457,7 @@
       "id": "CO029",
       "brand": "坊っちゃん",
       "name": "蓮根（１個）",
+      "furigana": "レンコン（１コ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -8552,6 +8555,7 @@
       "id": "CO030",
       "brand": "坊っちゃん",
       "name": "豚みみ（２個）",
+      "furigana": "ブタミミ（２コ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -8649,6 +8653,7 @@
       "id": "CO031",
       "brand": "坊っちゃん",
       "name": "ロールキャベツ（１個）",
+      "furigana": "ロールキャベツ（１コ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -8746,6 +8751,7 @@
       "id": "CO032",
       "brand": "坊っちゃん",
       "name": "赤棒（２本）",
+      "furigana": "アカボウ（２ホン）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -8843,6 +8849,7 @@
       "id": "CO033",
       "brand": "坊っちゃん",
       "name": "トッポギ（３本）",
+      "furigana": "トッポギ（３ホン）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -8940,6 +8947,7 @@
       "id": "CO034",
       "brand": "坊っちゃん",
       "name": "里芋饅頭（１個）",
+      "furigana": "サトイモマンジュウ（１コ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -9045,6 +9053,7 @@
       "id": "CO035",
       "brand": "坊っちゃん",
       "name": "たこ焼き（２個）",
+      "furigana": "タコヤキ（２コ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -9150,6 +9159,7 @@
       "id": "CO036",
       "brand": "坊っちゃん",
       "name": "コロッケ（１個）",
+      "furigana": "コロッケ（１コ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -9255,6 +9265,7 @@
       "id": "CO037",
       "brand": "坊っちゃん",
       "name": "みんち串（１本）",
+      "furigana": "ミンチクシ（１ホン）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -9358,6 +9369,7 @@
       "id": "CO038",
       "brand": "坊っちゃん",
       "name": "チーズ天（１枚）",
+      "furigana": "チーズテン（１マイ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -9455,6 +9467,7 @@
       "id": "CO039",
       "brand": "坊っちゃん",
       "name": "出汁巻き玉子（３個）",
+      "furigana": "ダシマキキタマゴ（３コ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -9564,6 +9577,7 @@
       "id": "CO040",
       "brand": "坊っちゃん",
       "name": "枝豆食べ放題",
+      "furigana": "エダマメタベホウダイ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -9655,6 +9669,7 @@
       "id": "CO041",
       "brand": "坊っちゃん",
       "name": "きゅうりの浅漬け",
+      "furigana": "キュウリノアサヅケ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -9742,6 +9757,7 @@
       "id": "CO042",
       "brand": "坊っちゃん",
       "name": "やわらかピリ辛メンマ",
+      "furigana": "ヤワラカピリカラメンマ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -9819,6 +9835,7 @@
       "id": "CO043",
       "brand": "坊っちゃん",
       "name": "ごちゃまぜキムチ",
+      "furigana": "ゴチャマゼキムチ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -9896,6 +9913,7 @@
       "id": "CO044",
       "brand": "坊っちゃん",
       "name": "うずら玉子の燻製",
+      "furigana": "ウズラタマゴノクンセイ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -9983,6 +10001,7 @@
       "id": "CO045",
       "brand": "坊っちゃん",
       "name": "ピリ辛コブクロ",
+      "furigana": "ピリカラコブクロ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -10056,6 +10075,7 @@
       "id": "CO046",
       "brand": "坊っちゃん",
       "name": "ミニチョレギサラダ",
+      "furigana": "ミニチョレギサラダ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -10161,6 +10181,7 @@
       "id": "CO047",
       "brand": "坊っちゃん",
       "name": "明太ポテサラ",
+      "furigana": "メンタイポテサラ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -10250,6 +10271,7 @@
       "id": "CO048",
       "brand": "坊っちゃん",
       "name": "ぶつ切りサーモンと漬けチーズ",
+      "furigana": "ブツキリサーモントツケチーズ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -10343,6 +10365,7 @@
       "id": "CO049",
       "brand": "坊っちゃん",
       "name": "まずは生もの！鶏のたたき",
+      "furigana": "マズハナマモノ！トリノタタキ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -10456,6 +10479,7 @@
       "id": "CO050",
       "brand": "坊っちゃん",
       "name": "牛タルタルユッケ",
+      "furigana": "ウシタルタルユッケ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -10589,6 +10613,7 @@
       "id": "CO051",
       "brand": "坊っちゃん",
       "name": "ホルモンとゴロゴロ野菜のアヒージョ\n　～バケット２枚付き",
+      "furigana": "ホルモントゴロゴロヤサイノアヒージョ　～バケット２マイツキ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -10706,6 +10731,7 @@
       "id": "CO052",
       "brand": "坊っちゃん",
       "name": "バケット（２枚）",
+      "furigana": "バケット（２マイ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -10783,6 +10809,7 @@
       "id": "CO053",
       "brand": "坊っちゃん",
       "name": "鶏むね肉の刺身風",
+      "furigana": "トリムネニクノサシミフウ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -10896,6 +10923,7 @@
       "id": "CO054",
       "brand": "坊っちゃん",
       "name": "おつまみマヨコーンピザ",
+      "furigana": "オツマミマヨコーンピザ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -11007,6 +11035,7 @@
       "id": "CO055",
       "brand": "坊っちゃん",
       "name": "明太ポテトピザ",
+      "furigana": "メンタイポテトピザ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -11106,6 +11135,7 @@
       "id": "CO056",
       "brand": "坊っちゃん",
       "name": "鉄板餃子グラタン",
+      "furigana": "テッパンギョウザグラタン",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -11215,6 +11245,7 @@
       "id": "CO057",
       "brand": "坊っちゃん",
       "name": "すき焼き風肉豆腐",
+      "furigana": "スキヤキフウニクトウフ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -11322,6 +11353,7 @@
       "id": "CO058",
       "brand": "坊っちゃん",
       "name": "大盛り！！フライドポテト",
+      "furigana": "オオモリ！！フライドポテト",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -11427,6 +11459,7 @@
       "id": "CO059",
       "brand": "坊っちゃん",
       "name": "ほくほく里芋フライ",
+      "furigana": "ホクホクサトイモフライ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -11510,6 +11543,7 @@
       "id": "CO060",
       "brand": "坊っちゃん",
       "name": "坊っちゃんから揚げ（豚ハラミ）",
+      "furigana": "ボッチャンカラアゲ（ブタハラミ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -11603,6 +11637,7 @@
       "id": "CO061",
       "brand": "坊っちゃん",
       "name": "手羽先スパイシー揚げ（３本）",
+      "furigana": "テバサキスパイシーアゲ（３ホン）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -11634,10 +11669,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "手羽先を解凍しておく",
@@ -11713,6 +11745,7 @@
       "id": "CO062",
       "brand": "坊っちゃん",
       "name": "焼きおにぎり（２個）",
+      "furigana": "ヤキオニギリ（２コ）",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -11732,10 +11765,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "焼きおにぎりをレンジで２個解凍する",
@@ -11819,6 +11849,7 @@
       "id": "CO063",
       "brand": "坊っちゃん",
       "name": "ホルモン大葉焼きそば",
+      "furigana": "ホルモンオオバヤキソバ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -11964,6 +11995,7 @@
       "id": "CO064",
       "brand": "坊っちゃん",
       "name": "鶏チャーシュー釜飯",
+      "furigana": "トリチャーシューカマメシ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -12071,6 +12103,7 @@
       "id": "CO065",
       "brand": "坊っちゃん",
       "name": "コーン釜飯",
+      "furigana": "コーンカマメシ",
       "category": "調理",
       "time": "1時間半",
       "yieldAmt": null,
@@ -12174,6 +12207,7 @@
       "id": "CO066",
       "brand": "坊っちゃん",
       "name": "鶏チャーシュー（２個）",
+      "furigana": "トリチャーシュー（２コ）",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -12271,6 +12305,7 @@
       "id": "CO067",
       "brand": "坊っちゃん",
       "name": "うなぎ釜飯",
+      "furigana": "ウナギカマメシ",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -12390,6 +12425,7 @@
       "id": "CO068",
       "brand": "坊っちゃん",
       "name": "揚げ餅",
+      "furigana": "アゲモチ",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -12415,10 +12451,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "トッポギを１７５°に熱しておいたフライヤーに１０個入れる",
@@ -12494,6 +12527,7 @@
       "id": "CO069",
       "brand": "坊っちゃん",
       "name": "手長だこ串",
+      "furigana": "テナガダコクシ",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -12519,10 +12553,7 @@
           "linkId": ""
         }
       ],
-      "allergens": [
-        "小麦",
-        "大豆"
-      ],
+      "allergens": [],
       "steps": [
         {
           "text": "塩の場合",
@@ -12614,6 +12645,7 @@
       "id": "CO070",
       "brand": "坊っちゃん",
       "name": "かに釜飯",
+      "furigana": "カニカマメシ",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -12723,6 +12755,7 @@
       "id": "CO071",
       "brand": "坊っちゃん",
       "name": "フグの柚子ポン和え",
+      "furigana": "フグノユズポンアエ",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -12830,6 +12863,7 @@
       "id": "CO072",
       "brand": "坊っちゃん",
       "name": "真ふぐのたたき",
+      "furigana": "マフグノタタキ",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -12947,6 +12981,7 @@
       "id": "CO073",
       "brand": "坊っちゃん",
       "name": "さわらのたたき",
+      "furigana": "サワラノタタキ",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -13064,6 +13099,7 @@
       "id": "CO074",
       "brand": "坊っちゃん",
       "name": "うな玉",
+      "furigana": "ウナタマ",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -13183,6 +13219,7 @@
       "id": "CO075",
       "brand": "坊っちゃん",
       "name": "骨付き鶏ももスパイシー焼き",
+      "furigana": "ホネツキドリモモスパイシーヤキ",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -13300,6 +13337,7 @@
       "id": "CO076",
       "brand": "坊っちゃん",
       "name": "骨付き豚リブの鉄板焼き",
+      "furigana": "ホネツキブタリブノテッパンヤキ",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -13387,6 +13425,7 @@
       "id": "CO077",
       "brand": "坊っちゃん",
       "name": "ひつまぶしセット",
+      "furigana": "ヒツマブシセット",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -13476,6 +13515,7 @@
       "id": "CO078",
       "brand": "坊っちゃん",
       "name": "チーズポテト餅",
+      "furigana": "チーズポテトモチ",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -13583,6 +13623,7 @@
       "id": "CO079",
       "brand": "坊っちゃん",
       "name": "軟骨唐揚げ",
+      "furigana": "ナンコツカラアゲ",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -13670,6 +13711,7 @@
       "id": "CO080",
       "brand": "坊っちゃん",
       "name": "ミニ雪見大福（３個）",
+      "furigana": "ミニユキミダイフク（３コ）",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -13739,6 +13781,7 @@
       "id": "CO081",
       "brand": "坊っちゃん",
       "name": "柚子シャーベット",
+      "furigana": "ユズシャーベット",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -13808,6 +13851,7 @@
       "id": "CO082",
       "brand": "坊っちゃん",
       "name": "さつま芋ハニークリーム",
+      "furigana": "サツマイモハニークリーム",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
@@ -13907,6 +13951,7 @@
       "id": "CO083",
       "brand": "坊っちゃん",
       "name": "タケノコカツオ節和え",
+      "furigana": "タケノコカツオブシアエ",
       "category": "調理",
       "time": "",
       "yieldAmt": null,
