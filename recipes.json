@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T06:01:56.817Z",
+  "generatedAt": "2026-07-13T07:00:43.597Z",
   "count": 135,
   "recipes": [
     {
@@ -213,104 +213,6 @@
         "SH024",
         "SH026",
         "CO014"
-      ]
-    },
-    {
-      "id": "SH004",
-      "brand": "坊っちゃん",
-      "name": "仕込み_ピリ辛メンマ",
-      "furigana": "シコミ_ピリカラメンマ",
-      "category": "仕込み",
-      "time": "3分",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "メンマ",
-          "amt": "500",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "食べるラー油",
-          "amt": "90",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "ごま油",
-          "amt": "20",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "各種計量する",
-          "note": false
-        },
-        {
-          "text": "清潔なボウルに計量した食材を入れていく",
-          "note": false
-        },
-        {
-          "text": "全て入れたら混ぜムラの無いようにしっかりと混ぜる",
-          "note": false
-        },
-        {
-          "text": "混ぜ終わったらタッパなどの容器に移し冷蔵保存",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵7日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1LzQy7Oa-jyIeB6fOssHrdvxGQ1zj-vUg/view?usp=sharing"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1gTw6msGAUdF2K_2-1Hlj5VfqHoBaTmJk/view?usp=sharing"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1DxS7oWRXIny6T7ofD-9TVJreyvqWgWjH/view?usp=sharing"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1fG6UFOqVPDQa9jJi5fWW8vztbHs3RCMZ/view?usp=sharing"
-        },
-        {
-          "type": "PDF",
-          "url": "https://drive.google.com/file/d/1Rld9a4B3EIEioc_tSiOrjj7EHV5zchIR/view?usp=sharing"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1bb-IjcHQPW0ofV2NHTbzNalp_Rq7POZY/view?usp=sharing"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1G43CMGviACU6Z-ihKE7tV5rkpOUM8T6A/view?usp=sharing"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH027",
-        "SH001",
-        "SH003",
-        "SH005",
-        "SH006"
       ]
     },
     {
@@ -1788,9 +1690,9 @@
       "suggested": [
         "SH001",
         "SH003",
-        "SH004",
         "SH005",
-        "SH006"
+        "SH006",
+        "SH007"
       ]
     },
     {
@@ -2056,6 +1958,121 @@
         "SH010",
         "SH017",
         "SH021"
+      ]
+    },
+    {
+      "id": "SH004",
+      "brand": "坊っちゃん",
+      "name": "仕込み_ピリ辛メンマ",
+      "furigana": "シコミ_ピリカラメンマ",
+      "category": "仕込み",
+      "time": "3分",
+      "yieldAmt": 610,
+      "yieldUnit": "g",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "メンマ",
+          "amt": "500",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "食べるラー油",
+          "amt": "90",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "ごま油",
+          "amt": "20",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "各種計量する",
+          "note": false
+        },
+        {
+          "text": "清潔なボウルに計量した食材を入れていく",
+          "note": false
+        },
+        {
+          "text": "全て入れたら混ぜムラの無いようにしっかりと混ぜる",
+          "note": false
+        },
+        {
+          "text": "混ぜ終わったらタッパなどの容器に移し冷蔵保存",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵7日",
+          "note": false
+        },
+        {
+          "text": "保存推奨容器：2,440mlタッパ",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "完成写真URL貼り付けhttps://drive.google.com/file/d/15YXqEff1QH925C_0_fydx1X9V2xTxPly/view?usp=sharing"
+        },
+        {
+          "type": "お皿写真",
+          "url": "お皿写真URL貼り付けhttps://drive.google.com/file/d/1jKHyTvY-pVCiUPe6P2_BXiAR8SWlrns1/view?usp=sharing"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URLhttps://drive.google.com/file/d/1i6S0GLWXo-kyl-UAimXxUCuNhFyo6a70/view?usp=drive_link①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "動画URL貼り付けhttps://drive.google.com/file/d/1lIqfMkC2O2hhL28r84hIdNw6IX6svTkn/view?usp=drive_link"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付けhttps://drive.google.com/file/d/1rbN38jhUwuFXoIJjDtv5SaIVWTFuW3un/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼https://drive.google.com/file/d/1uYQJpZO2Q3GOnvpHNpW5PTWEUnJlh00y/view?usp=drive_linkり付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1ElYM_ifAkNdTR4pVJbU1w8G0EBEdyx9Y/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1DkXkdorLRtv-ZYeoyGhjKuCEM6V3TBa5/view?usp=drive_link"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "ハイパック：S-31/2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO042",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH027",
+        "SH001",
+        "SH003",
+        "SH005"
       ]
     },
     {
@@ -3185,7 +3202,7 @@
         "CO050",
         "SH001",
         "SH003",
-        "SH004"
+        "SH005"
       ]
     },
     {
@@ -3277,9 +3294,9 @@
       "suggested": [
         "SH001",
         "SH003",
-        "SH004",
         "SH005",
-        "SH006"
+        "SH006",
+        "SH007"
       ]
     },
     {
@@ -3495,7 +3512,7 @@
         "CO072",
         "SH001",
         "SH003",
-        "SH004"
+        "SH005"
       ]
     },
     {
@@ -3676,8 +3693,8 @@
       "comments": [],
       "suggested": [
         "SH034",
-        "SH004",
         "SH017",
+        "SH004",
         "SH032",
         "SH041"
       ]
@@ -3763,9 +3780,9 @@
       "suggested": [
         "SH001",
         "SH003",
-        "SH004",
         "SH005",
-        "SH006"
+        "SH006",
+        "SH007"
       ]
     },
     {
@@ -3857,9 +3874,9 @@
       "suggested": [
         "SH001",
         "SH003",
-        "SH004",
         "SH005",
-        "SH006"
+        "SH006",
+        "SH007"
       ]
     },
     {
@@ -4263,7 +4280,7 @@
         "CO060",
         "SH001",
         "SH003",
-        "SH004"
+        "SH005"
       ]
     },
     {
@@ -4561,7 +4578,7 @@
         "CO049",
         "SH001",
         "SH003",
-        "SH004"
+        "SH006"
       ]
     },
     {
@@ -4977,7 +4994,7 @@
         "SH014",
         "CO076",
         "SH001",
-        "SH004"
+        "SH005"
       ]
     },
     {
@@ -5175,9 +5192,9 @@
       "suggested": [
         "SH001",
         "SH003",
-        "SH004",
         "SH005",
-        "SH006"
+        "SH006",
+        "SH007"
       ]
     },
     {
@@ -5263,7 +5280,7 @@
         "SH034",
         "SH001",
         "SH003",
-        "SH004"
+        "SH005"
       ]
     },
     {
@@ -9764,84 +9781,6 @@
       ]
     },
     {
-      "id": "CO042",
-      "brand": "坊っちゃん",
-      "name": "やわらかピリ辛メンマ",
-      "furigana": "ヤワラカピリカラメンマ",
-      "category": "調理",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "仕込み_ピリ辛メンマ",
-          "amt": "40",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "仕込んだメンマ４０ｇをお皿に盛る",
-          "note": false
-        },
-        {
-          "text": "完成",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO001",
-        "CO002",
-        "CO003",
-        "CO004",
-        "CO005"
-      ]
-    },
-    {
       "id": "CO043",
       "brand": "坊っちゃん",
       "name": "ごちゃまぜキムチ",
@@ -14025,6 +13964,84 @@
         "CO002",
         "CO003",
         "CO004"
+      ]
+    },
+    {
+      "id": "CO042",
+      "brand": "坊っちゃん",
+      "name": "やわらかピリ辛メンマ",
+      "furigana": "ヤワラカピリカラメンマ",
+      "category": "調理",
+      "time": "3分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 83,
+      "ingredients": [
+        {
+          "label": "仕込み_ピリ辛メンマ",
+          "amt": "40",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "仕込んだメンマ４０ｇをお皿に盛る",
+          "note": false
+        },
+        {
+          "text": "完成",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵4日",
+          "note": false
+        },
+        {
+          "text": "保存推奨容器：2,440mlタッパ",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "完成写真URL貼り付け"
+        },
+        {
+          "type": "お皿写真",
+          "url": "お皿写真URL貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "動画URL貼り付け"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [],
+      "related": [],
+      "comments": [],
+      "suggested": [
+        "CO001",
+        "CO002",
+        "CO003",
+        "CO004",
+        "CO005"
       ]
     }
   ]
