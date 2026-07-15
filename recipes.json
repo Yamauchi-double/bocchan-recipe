@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T07:00:43.597Z",
+  "generatedAt": "2026-07-15T11:46:08.408Z",
   "count": 135,
   "recipes": [
     {
@@ -108,7 +108,7 @@
         "SH032",
         "SH005",
         "SH010",
-        "SH016"
+        "SH019"
       ]
     },
     {
@@ -1330,118 +1330,6 @@
       ]
     },
     {
-      "id": "SH016",
-      "brand": "坊っちゃん",
-      "name": "仕込み_牛タンレア串",
-      "furigana": "シコミ_ギュウタンレアクシ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "ムキタン",
-          "amt": "1",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_焼き鳥漬けダレ",
-          "amt": "850",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "ムキタンを解凍しておく",
-          "note": false
-        },
-        {
-          "text": "タン下を切り落とす",
-          "note": false
-        },
-        {
-          "text": "タン元から1つ目のエクボで切り落とす",
-          "note": false
-        },
-        {
-          "text": "タン元からタンの上をタン先に向けて軽く押さえながらなぞっていった時に軽く凹む部分が2か所あります。それの1つ目",
-          "note": true
-        },
-        {
-          "text": "③でカットしたタン元側を縦に1/2カットする",
-          "note": false
-        },
-        {
-          "text": "1/2カットした状態で計量する。",
-          "note": false
-        },
-        {
-          "text": "⑥を1人前のｇ数（50ｇ）で割り、何人前取れるかを計算しそれに合わせてカットする",
-          "note": false
-        },
-        {
-          "text": "⑦で大体8～10人前分取れると思います。7人前以下の場合元々のタンが極端に小さいか、タン下かエクボの場所でのカットが間違えてます",
-          "note": true
-        },
-        {
-          "text": "カットが出来たら漬けダレに漬ける",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵４日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：１３．５cmポット",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH001",
-        "SH006",
-        "SH007",
-        "SH008",
-        "SH009"
-      ]
-    },
-    {
       "id": "SH017",
       "brand": "坊っちゃん",
       "name": "仕込み_スペアリブ",
@@ -2073,6 +1961,114 @@
         "SH001",
         "SH003",
         "SH005"
+      ]
+    },
+    {
+      "id": "SH016",
+      "brand": "坊っちゃん",
+      "name": "仕込み_牛タンレア串",
+      "furigana": "シコミ_ギュウタンレアクシ",
+      "category": "仕込み",
+      "time": "1時間半",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "ムキタン",
+          "amt": "1",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_焼き鳥漬けダレ",
+          "amt": "850",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "ムキタンを前日に冷蔵解凍しておく",
+          "note": false
+        },
+        {
+          "text": "パックを開けて牛タンを取り出し、綺麗なダスターで軽く表面の水分と血をふき取る",
+          "note": false
+        },
+        {
+          "text": "タン下と切り分ける為に境目をハッキリとさせる",
+          "note": false
+        },
+        {
+          "text": "タン下を切り落とす",
+          "note": false
+        },
+        {
+          "text": "タンを軽く押さえながらタン元からタン先へ指を進めると軽く凹むところがあるのでそこで切り落とす",
+          "note": false
+        },
+        {
+          "text": "縦に半分に切る",
+          "note": false
+        },
+        {
+          "text": "半分にカットしたタンを計り45g～50g/個になる様にカットして上から軽く押し潰す",
+          "note": false
+        },
+        {
+          "text": "筋繊維を潰し柔らかくするためと、厚さをなるべく均一にして焼く際の時間の誤差を小さくする為",
+          "note": true
+        },
+        {
+          "text": "全て同じようにカットとタンを潰す作業をする。",
+          "note": false
+        },
+        {
+          "text": "ムキタンの大きさによりますが、目安として6～12個/本。",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵４日\n保存推奨容器：１３．５cmポット",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1ycSYcmg20XShQc_eiE-5OHMkzp-jpTfQ/view?usp=sharing"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1jKHyTvY-pVCiUPe6P2_BXiAR8SWlrns1/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1oQ6iH0M-RI_9b_-o61NmcJ1oVvPL4Qhg/view?usp=sharing"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/14p-yaDvRvEEAKb-EQd_cyK_LW0C_mNNC/view?usp=drive_link"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1bfxRClRNRxBJJEdM-UPNzvsY5D23vVEp/view?usp=sharing"
+        }
+      ],
+      "plating": [],
+      "related": [],
+      "comments": [],
+      "suggested": [
+        "SH001",
+        "SH006",
+        "SH007",
+        "SH008",
+        "SH009"
       ]
     },
     {
