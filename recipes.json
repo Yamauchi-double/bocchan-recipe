@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T12:12:06.574Z",
+  "generatedAt": "2026-07-21T12:53:58.319Z",
   "count": 135,
   "recipes": [
     {
@@ -675,8 +675,8 @@
       "suggested": [
         "SH005",
         "SH017",
-        "SH002",
         "SH001",
+        "SH002",
         "SH032"
       ]
     },
@@ -1679,67 +1679,6 @@
       ]
     },
     {
-      "id": "SH002",
-      "brand": "坊っちゃん",
-      "name": "仕込み_おでん出汁",
-      "furigana": "シコミ_オデンダシ",
-      "category": "仕込み",
-      "time": "1分",
-      "yieldAmt": 7000,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "水",
-          "amt": "6000",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "おでん出汁",
-          "amt": "1000",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "上記食材を混ぜ合わせて保存",
-          "note": false
-        },
-        {
-          "text": "保存期間：ウォーマー内：当日廃棄、冷蔵保存：４日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：19.5cmポット",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1dW3_-glukyTvlo5D8NCk3faW-JouB2ul/view?usp=sharing"
-        }
-      ],
-      "plating": [
-        {
-          "item": "ソース容器",
-          "content": "キッチンポット：19.5cm"
-        }
-      ],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH005",
-        "SH010",
-        "SH017",
-        "SH001",
-        "SH031"
-      ]
-    },
-    {
       "id": "SH004",
       "brand": "坊っちゃん",
       "name": "仕込み_ピリ辛メンマ",
@@ -2101,6 +2040,87 @@
         "SH017",
         "SH032",
         "SH005"
+      ]
+    },
+    {
+      "id": "SH002",
+      "brand": "坊っちゃん",
+      "name": "仕込み_おでん出汁",
+      "furigana": "シコミ_オデンダシ",
+      "category": "仕込み",
+      "time": "1分",
+      "yieldAmt": 7000,
+      "yieldUnit": "",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "水",
+          "amt": "6000",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "おでん出汁",
+          "amt": "1000",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "上記食材を混ぜ合わせて保存",
+          "note": false
+        },
+        {
+          "text": "保存期間：ウォーマー内：当日廃棄、冷蔵保存：４日",
+          "note": false
+        },
+        {
+          "text": "保存推奨容器：19.5cmポット",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1_T54q10ukVtRcT_cldD0K6nD5v6spd1T/view?usp=drive_link"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1Qld9fw9RZY8GCpH6ajKB4s5bL5Q96i-i/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1CkZeHF98lz9dQHs7SI3YelcFR46fCKTy/view?usp=drive_link"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1ELd-vj77Rnj_lamZiDI3an8WAsDySk3y/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1k83UfraLhnt-4vDJn5XgF9a8kXnyYCPx/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1MaQrsrrNl2oPu7qwOgPtJ5jmO4n7kuAp/view?usp=drive_link"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "キッチンポット：19.5cm"
+        }
+      ],
+      "related": [],
+      "comments": [],
+      "suggested": [
+        "SH005",
+        "SH010",
+        "SH017",
+        "SH001",
+        "SH031"
       ]
     },
     {
@@ -4615,8 +4635,8 @@
         "SH005",
         "SH010",
         "SH017",
-        "SH002",
-        "SH001"
+        "SH001",
+        "SH002"
       ]
     },
     {
@@ -5311,8 +5331,8 @@
         "SH005",
         "SH010",
         "SH017",
-        "SH002",
-        "SH001"
+        "SH001",
+        "SH002"
       ]
     },
     {
@@ -13489,7 +13509,7 @@
         "SH005",
         "SH010",
         "SH017",
-        "SH002"
+        "SH001"
       ]
     },
     {
