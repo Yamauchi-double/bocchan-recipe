@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T11:42:18.778Z",
+  "generatedAt": "2026-07-21T12:12:06.574Z",
   "count": 135,
   "recipes": [
     {
@@ -197,7 +197,7 @@
         "SH010",
         "SH017",
         "SH001",
-        "SH021"
+        "SH031"
       ]
     },
     {
@@ -677,7 +677,7 @@
         "SH017",
         "SH002",
         "SH001",
-        "SH021"
+        "SH032"
       ]
     },
     {
@@ -1736,7 +1736,7 @@
         "SH010",
         "SH017",
         "SH001",
-        "SH021"
+        "SH031"
       ]
     },
     {
@@ -3021,124 +3021,6 @@
         "SH001",
         "SH044",
         "SH045"
-      ]
-    },
-    {
-      "id": "SH021",
-      "brand": "坊っちゃん",
-      "name": "仕込み_きゅうりの浅漬け",
-      "furigana": "シコミ_キュウリノアサヅケ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 52,
-      "ingredients": [
-        {
-          "label": "きゅうり",
-          "amt": "15",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "浅漬けの素",
-          "amt": "600",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "水",
-          "amt": "100",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "浅漬けの素：600g、水：100g上記を用意する",
-          "note": false
-        },
-        {
-          "text": "きゅうり15本仕込み時",
-          "note": true
-        },
-        {
-          "text": "軽く水洗いしたきゅうりをカットする。",
-          "note": false
-        },
-        {
-          "text": "サイズにもよるが、1本12カット前後目安",
-          "note": false
-        },
-        {
-          "text": "1個：7～8gを目安にカット",
-          "note": false
-        },
-        {
-          "text": "動画、画像は10個で重量計算してます",
-          "note": true
-        },
-        {
-          "text": "最初に計量しておいた調味料と水を入れて上にラップをかぶせて落し蓋にする",
-          "note": false
-        },
-        {
-          "text": "翌日～使用可能",
-          "note": true
-        },
-        {
-          "text": "翌日完成",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH005",
-        "SH010",
-        "SH017",
-        "SH002",
-        "SH001"
       ]
     },
     {
@@ -5309,6 +5191,128 @@
         "SH003",
         "SH005",
         "SH006"
+      ]
+    },
+    {
+      "id": "SH021",
+      "brand": "坊っちゃん",
+      "name": "仕込み_きゅうりの浅漬け",
+      "furigana": "シコミ_キュウリノアサヅケ",
+      "category": "仕込み",
+      "time": "1時間半",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 52,
+      "ingredients": [
+        {
+          "label": "きゅうり",
+          "amt": "15",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "浅漬けの素",
+          "amt": "600",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "水",
+          "amt": "100",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "浅漬けの素：600g、水：100g上記を用意する",
+          "note": false
+        },
+        {
+          "text": "きゅうり15本仕込み時",
+          "note": true
+        },
+        {
+          "text": "軽く水洗いしたきゅうりをカットする。",
+          "note": false
+        },
+        {
+          "text": "サイズにもよるが、1本12カット前後目安",
+          "note": false
+        },
+        {
+          "text": "1個：7～8gを目安にカット",
+          "note": false
+        },
+        {
+          "text": "動画、画像は10個で重量計算してます",
+          "note": true
+        },
+        {
+          "text": "最初に計量しておいた調味料と水を入れて上にラップをかぶせて落し蓋にする",
+          "note": false
+        },
+        {
+          "text": "翌日～使用可能",
+          "note": true
+        },
+        {
+          "text": "翌日完成",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵4日",
+          "note": false
+        },
+        {
+          "text": "保存推奨容器：2,440mlタッパ",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "完成写真URL貼りhttps://drive.google.com/file/d/1aWQDCScNFyuR78KsxF5OZp4LclbbAYdw/view?usp=drive_link付け"
+        },
+        {
+          "type": "お皿写真",
+          "url": "お皿写真URL貼り付けhttps://drive.google.com/file/d/1aariRHerjlxBiLs4qKs5TUegeo5XAyYb/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付けhttps://drive.google.com/file/d/1eaYCVhak1x9lovRxt40PGipmsiuwJP3o/view?usp=sharing"
+        },
+        {
+          "type": "動画",
+          "url": "動画URL貼り付けhttps://drive.google.com/file/d/1MKh4k7_00VFHeHJ1jgMWZNLp_pljIVB5/view?usp=drive_link"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②https://drive.google.com/file/d/1tV3iCtsdX-kZPO0X1M3Z9m5AS3m8LmMo/view?usp=drive_link貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③https://drive.google.com/file/d/1bw4IPW122C_Xl7nwZ7SOSxj6X9Yj2l8Z/view?usp=drive_link貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1ne34yrn0BKtxE_aQQCT7ue843-eX-2vi/view?usp=drive_link"
+        }
+      ],
+      "plating": [],
+      "related": [],
+      "comments": [],
+      "suggested": [
+        "SH005",
+        "SH010",
+        "SH017",
+        "SH002",
+        "SH001"
       ]
     },
     {
