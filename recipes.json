@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T10:37:07.932Z",
+  "generatedAt": "2026-07-23T10:46:54.786Z",
   "count": 135,
   "recipes": [
     {
@@ -2112,7 +2112,12 @@
           "url": "調理工程写真URL③貼り付け"
         }
       ],
-      "plating": [],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：3,700ml"
+        }
+      ],
       "related": [
         {
           "id": "SH006",
