@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T12:26:11.403Z",
+  "generatedAt": "2026-07-23T12:27:06.939Z",
   "count": 135,
   "recipes": [
     {
@@ -5273,7 +5273,7 @@
       "name": "仕込み_骨付きもも肉スパイシー",
       "furigana": "シコミ_ホネツキモモニクスパイシー",
       "category": "仕込み",
-      "time": "1時間半",
+      "time": "5分",
       "yieldAmt": 5,
       "yieldUnit": "本分",
       "appOrder": 52,
