@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T12:53:58.319Z",
+  "generatedAt": "2026-07-23T10:37:07.932Z",
   "count": 135,
   "recipes": [
     {
@@ -104,100 +104,6 @@
         "SH024",
         "SH026",
         "CO014"
-      ]
-    },
-    {
-      "id": "SH005",
-      "brand": "坊っちゃん",
-      "name": "仕込み_焼き鳥漬けダレ",
-      "furigana": "シコミ_ヤキトリツケダレ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "水",
-          "amt": "600",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "おでん出汁",
-          "amt": "100",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "塩だれ",
-          "amt": "150",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "上記を混ぜ合わせる",
-          "note": false
-        },
-        {
-          "text": "解凍した焼き鳥各種を30本単位で①に漬け込む",
-          "note": false
-        },
-        {
-          "text": "違う種類の焼き鳥も混在OK",
-          "note": true
-        },
-        {
-          "text": "保存期間：冷蔵3日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：16cmポット",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH002",
-        "SH010",
-        "SH017",
-        "SH001",
-        "SH031"
       ]
     },
     {
@@ -673,10 +579,10 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH005",
         "SH017",
         "SH001",
         "SH002",
+        "SH005",
         "SH032"
       ]
     },
@@ -1338,8 +1244,8 @@
         "SH032",
         "SH041",
         "SH001",
-        "SH005",
-        "SH010"
+        "SH010",
+        "SH002"
       ]
     },
     {
@@ -1468,10 +1374,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH005",
         "SH006",
         "SH007",
-        "SH008"
+        "SH008",
+        "SH009"
       ]
     },
     {
@@ -1789,8 +1695,8 @@
       "suggested": [
         "SH027",
         "SH003",
-        "SH005",
-        "SH006"
+        "SH006",
+        "SH007"
       ]
     },
     {
@@ -2039,7 +1945,7 @@
       "suggested": [
         "SH017",
         "SH032",
-        "SH005"
+        "SH010"
       ]
     },
     {
@@ -2122,6 +2028,131 @@
         "SH001",
         "SH031"
       ]
+    },
+    {
+      "id": "SH005",
+      "brand": "坊っちゃん",
+      "name": "仕込み_焼き鳥漬けダレ",
+      "furigana": "シコミ_ヤキトリツケダレ",
+      "category": "仕込み",
+      "time": "1時間半",
+      "yieldAmt": 850,
+      "yieldUnit": "g",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "水",
+          "amt": "600",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "おでん出汁",
+          "amt": "100",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "塩だれ",
+          "amt": "150",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "上記を混ぜ合わせる",
+          "note": false
+        },
+        {
+          "text": "解凍した焼き鳥各種を30本単位で①に漬け込む",
+          "note": false
+        },
+        {
+          "text": "違う種類の焼き鳥も混在OK",
+          "note": true
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        },
+        {
+          "text": "保存推奨容器：16cmポット",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1ylzciBrer6sGILw-SJxpjTcoZ0IX1ip_/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1buq7f8_oFFA5M7KwE2pe4PVq0t_TRuqa/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1B1f7PqWtMx3_hEnJE3ByLWdBCI2mtvdv/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1mmTiQbSCC7ojrpRY5S55DCDwmh-heVsp/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [],
+      "related": [
+        {
+          "id": "SH006",
+          "reason": "手動"
+        },
+        {
+          "id": "SH007",
+          "reason": "手動"
+        },
+        {
+          "id": "SH008",
+          "reason": "手動"
+        },
+        {
+          "id": "SH009",
+          "reason": "手動"
+        },
+        {
+          "id": "SH011",
+          "reason": "手動"
+        },
+        {
+          "id": "SH012",
+          "reason": "手動"
+        },
+        {
+          "id": "SH013",
+          "reason": "手動"
+        },
+        {
+          "id": "SH015",
+          "reason": "手動"
+        },
+        {
+          "id": "SH016",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": []
     },
     {
       "id": "SH044",
@@ -3131,8 +3162,8 @@
         "SH035",
         "CO050",
         "SH003",
-        "SH005",
-        "SH006"
+        "SH006",
+        "SH007"
       ]
     },
     {
@@ -3223,10 +3254,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH005",
         "SH006",
         "SH007",
-        "SH008"
+        "SH008",
+        "SH009"
       ]
     },
     {
@@ -3441,8 +3472,8 @@
         "CO053",
         "CO072",
         "SH003",
-        "SH005",
-        "SH006"
+        "SH006",
+        "SH007"
       ]
     },
     {
@@ -3709,10 +3740,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH005",
         "SH006",
         "SH007",
-        "SH008"
+        "SH008",
+        "SH009"
       ]
     },
     {
@@ -3803,10 +3834,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH005",
         "SH006",
         "SH007",
-        "SH008"
+        "SH008",
+        "SH009"
       ]
     },
     {
@@ -3988,9 +4019,9 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH005",
         "SH017",
         "SH002",
+        "SH005",
         "SH030",
         "SH032"
       ]
@@ -4116,7 +4147,7 @@
         "SH001",
         "SH041",
         "CO016",
-        "SH005"
+        "SH010"
       ]
     },
     {
@@ -4209,8 +4240,8 @@
         "CO059",
         "CO060",
         "SH003",
-        "SH005",
-        "SH006"
+        "SH006",
+        "SH007"
       ]
     },
     {
@@ -4328,9 +4359,9 @@
       "suggested": [
         "SH027",
         "CO077",
-        "SH005",
         "SH010",
-        "SH017"
+        "SH017",
+        "SH001"
       ]
     },
     {
@@ -4632,11 +4663,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH005",
         "SH010",
         "SH017",
         "SH001",
-        "SH002"
+        "SH002",
+        "SH005"
       ]
     },
     {
@@ -4923,8 +4954,8 @@
         "SH003",
         "SH014",
         "CO076",
-        "SH005",
-        "SH006"
+        "SH006",
+        "SH007"
       ]
     },
     {
@@ -5121,10 +5152,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH005",
         "SH006",
         "SH007",
-        "SH008"
+        "SH008",
+        "SH009"
       ]
     },
     {
@@ -5209,8 +5240,8 @@
         "SH027",
         "SH034",
         "SH003",
-        "SH005",
-        "SH006"
+        "SH006",
+        "SH007"
       ]
     },
     {
@@ -5328,11 +5359,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH005",
         "SH010",
         "SH017",
         "SH001",
-        "SH002"
+        "SH002",
+        "SH005"
       ]
     },
     {
@@ -13506,10 +13537,10 @@
       "comments": [],
       "suggested": [
         "SH034",
-        "SH005",
         "SH010",
         "SH017",
-        "SH001"
+        "SH001",
+        "SH002"
       ]
     },
     {
