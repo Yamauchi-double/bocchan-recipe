@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T12:20:04.208Z",
+  "generatedAt": "2026-07-23T12:21:11.069Z",
   "count": 135,
   "recipes": [
     {
@@ -5274,8 +5274,8 @@
       "furigana": "シコミ_ホネツキモモニクスパイシー",
       "category": "仕込み",
       "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
+      "yieldAmt": 5,
+      "yieldUnit": "本分",
       "appOrder": 52,
       "ingredients": [
         {
