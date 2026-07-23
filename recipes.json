@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T12:23:58.008Z",
+  "generatedAt": "2026-07-23T12:26:11.403Z",
   "count": 135,
   "recipes": [
     {
@@ -2035,7 +2035,7 @@
       "name": "仕込み_焼き鳥漬けダレ",
       "furigana": "シコミ_ヤキトリツケダレ",
       "category": "仕込み",
-      "time": "1時間半",
+      "time": "3分",
       "yieldAmt": 850,
       "yieldUnit": "g",
       "appOrder": 43,
