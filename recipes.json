@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T10:17:52.007Z",
-  "count": 132,
+  "generatedAt": "2026-07-28T10:22:23.056Z",
+  "count": 127,
   "recipes": [
     {
       "id": "SH003",
@@ -3280,114 +3280,6 @@
       ]
     },
     {
-      "id": "SH025",
-      "brand": "坊っちゃん",
-      "name": "仕込み_サーモンチーズ",
-      "furigana": "シコミ_サーモンチーズ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 52,
-      "ingredients": [
-        {
-          "label": "サーモン",
-          "amt": "450",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "漬けチーズ",
-          "amt": "150",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "甘醤油",
-          "amt": "30",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "わさび",
-          "amt": "10",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "サーモンを１cm角を目安にカットする",
-          "note": false
-        },
-        {
-          "text": "漬けチーズを５mmを目安にカットする",
-          "note": false
-        },
-        {
-          "text": "②は包丁が軽く濡れた状態で切ると切りやすい",
-          "note": true
-        },
-        {
-          "text": "①、②と他の調味料をボウルで合わせる",
-          "note": false
-        },
-        {
-          "text": "混ぜきったら容器に入れて保存",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵3日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO053",
-        "CO072",
-        "SH003",
-        "SH007",
-        "SH008"
-      ]
-    },
-    {
       "id": "SH026",
       "brand": "坊っちゃん",
       "name": "仕込み_鶏たたき",
@@ -4369,8 +4261,8 @@
         "CO050",
         "SH022",
         "CO001",
-        "CO048",
-        "CO049"
+        "CO049",
+        "CO053"
       ]
     },
     {
@@ -7878,7 +7770,7 @@
         "CO026",
         "CO027",
         "CO028",
-        "CO029"
+        "CO030"
       ]
     },
     {
@@ -7976,7 +7868,7 @@
         "CO026",
         "CO027",
         "CO028",
-        "CO029"
+        "CO030"
       ]
     },
     {
@@ -8074,7 +7966,7 @@
         "CO025",
         "CO027",
         "CO028",
-        "CO029"
+        "CO030"
       ]
     },
     {
@@ -8172,7 +8064,7 @@
         "CO025",
         "CO026",
         "CO028",
-        "CO029"
+        "CO030"
       ]
     },
     {
@@ -8270,105 +8162,7 @@
         "CO025",
         "CO026",
         "CO027",
-        "CO029"
-      ]
-    },
-    {
-      "id": "CO029",
-      "brand": "坊っちゃん",
-      "name": "蓮根（１個）",
-      "furigana": "レンコン（１コ）",
-      "category": "調理",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "仕込み_おでん蓮根",
-          "amt": "1",
-          "unit": "個",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_おでん出汁",
-          "amt": "適量",
-          "unit": "",
-          "linkId": ""
-        },
-        {
-          "label": "鶏油",
-          "amt": "2",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "仕込んでおいたおでん用のれんこんをお皿に盛る",
-          "note": false
-        },
-        {
-          "text": "おでん出汁を入れる",
-          "note": false
-        },
-        {
-          "text": "鶏油を少量入れる",
-          "note": false
-        },
-        {
-          "text": "完成",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO024",
-        "CO025",
-        "CO026",
-        "CO027",
-        "CO028"
+        "CO030"
       ]
     },
     {
@@ -9916,7 +9710,7 @@
         "CO041",
         "CO044",
         "CO047",
-        "CO048"
+        "CO049"
       ]
     },
     {
@@ -10007,100 +9801,6 @@
         "CO046",
         "CO054",
         "CO058"
-      ]
-    },
-    {
-      "id": "CO048",
-      "brand": "坊っちゃん",
-      "name": "ぶつ切りサーモンと漬けチーズ",
-      "furigana": "ブツキリサーモントツケチーズ",
-      "category": "調理",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "仕込み_オニオンスライス",
-          "amt": "20",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "大葉",
-          "amt": "1",
-          "unit": "枚",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_サーモンチーズ",
-          "amt": "60",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "お皿を用意する",
-          "note": false
-        },
-        {
-          "text": "お皿にオニオンスライスを盛る",
-          "note": false
-        },
-        {
-          "text": "オニオンスライスに立てかけるように大葉を１枚盛る",
-          "note": false
-        },
-        {
-          "text": "仕込んだサーモンチーズを盛る",
-          "note": false
-        },
-        {
-          "text": "完成",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO049",
-        "CO050",
-        "CO053",
-        "CO071",
-        "CO072"
       ]
     },
     {
@@ -10210,11 +9910,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "CO048",
         "CO050",
         "CO053",
         "CO071",
-        "CO072"
+        "CO072",
+        "CO073"
       ]
     },
     {
@@ -10345,10 +10045,10 @@
       "comments": [],
       "suggested": [
         "CO046",
-        "CO048",
         "CO049",
         "CO053",
-        "CO071"
+        "CO071",
+        "CO072"
       ]
     },
     {
@@ -10655,10 +10355,10 @@
       "comments": [],
       "suggested": [
         "CO072",
-        "CO048",
         "CO049",
         "CO050",
-        "CO071"
+        "CO071",
+        "CO073"
       ]
     },
     {
@@ -10769,8 +10469,8 @@
         "CO055",
         "CO046",
         "CO047",
-        "CO048",
-        "CO049"
+        "CO049",
+        "CO050"
       ]
     },
     {
@@ -11729,220 +11429,8 @@
         "CO002",
         "CO014",
         "CO046",
-        "CO048",
-        "CO049"
-      ]
-    },
-    {
-      "id": "CO064",
-      "brand": "坊っちゃん",
-      "name": "鶏チャーシュー釜飯",
-      "furigana": "トリチャーシューカマメシ",
-      "category": "調理",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "仕込み_米",
-          "amt": "1",
-          "unit": "合",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_もも串",
-          "amt": "2",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_釜飯だし",
-          "amt": "200",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "固形燃料",
-          "amt": "1",
-          "unit": "個",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "もも串を串から外し１／２カットする",
-          "note": false
-        },
-        {
-          "text": "仕込んでおいた米が入った釜の中に①を入れる",
-          "note": false
-        },
-        {
-          "text": "仕込んでおいた釜飯の出汁を入れる",
-          "note": false
-        },
-        {
-          "text": "蓋をして台に乗せて提供",
-          "note": false
-        },
-        {
-          "text": "ホールで固形燃料をセットして客卓で着火",
-          "note": false
-        },
-        {
-          "text": "炊き時間およそ３０分",
-          "note": true
-        },
-        {
-          "text": "火が消えて５分前後蒸らしてからが食べごろ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO065",
-        "CO067",
-        "CO070",
-        "CO003",
-        "CO001"
-      ]
-    },
-    {
-      "id": "CO065",
-      "brand": "坊っちゃん",
-      "name": "コーン釜飯",
-      "furigana": "コーンカマメシ",
-      "category": "調理",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "仕込み_米",
-          "amt": "1",
-          "unit": "合",
-          "linkId": ""
-        },
-        {
-          "label": "コーン",
-          "amt": "100",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_釜飯だし",
-          "amt": "200",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "固形燃料",
-          "amt": "1",
-          "unit": "個",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "仕込んでおいた米が入った釜の中にコーンを入れる",
-          "note": false
-        },
-        {
-          "text": "仕込んでおいた釜飯の出汁を入れる",
-          "note": false
-        },
-        {
-          "text": "蓋をして台に乗せて提供",
-          "note": false
-        },
-        {
-          "text": "ホールで固形燃料をセットして客卓で着火",
-          "note": false
-        },
-        {
-          "text": "炊き時間およそ３０分",
-          "note": true
-        },
-        {
-          "text": "火が消えて５分前後蒸らしてからが食べごろ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO064",
-        "CO067",
-        "CO070",
-        "CO054",
-        "CO001"
+        "CO049",
+        "CO050"
       ]
     },
     {
@@ -12156,11 +11644,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "CO064",
-        "CO065",
         "CO070",
         "CO074",
-        "CO001"
+        "CO001",
+        "CO002",
+        "CO003"
       ]
     },
     {
@@ -12486,11 +11974,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "CO064",
-        "CO065",
         "CO067",
         "CO083",
-        "CO001"
+        "CO001",
+        "CO002",
+        "CO003"
       ]
     },
     {
@@ -12596,9 +12084,9 @@
       "suggested": [
         "CO072",
         "CO073",
-        "CO048",
         "CO049",
-        "CO050"
+        "CO050",
+        "CO053"
       ]
     },
     {
@@ -12715,8 +12203,8 @@
         "CO053",
         "CO071",
         "CO073",
-        "CO048",
-        "CO049"
+        "CO049",
+        "CO050"
       ]
     },
     {
@@ -12832,9 +12320,9 @@
       "suggested": [
         "CO071",
         "CO072",
-        "CO048",
         "CO049",
-        "CO050"
+        "CO050",
+        "CO053"
       ]
     },
     {
@@ -12952,9 +12440,9 @@
       "suggested": [
         "CO067",
         "CO039",
-        "CO048",
         "CO049",
-        "CO050"
+        "CO050",
+        "CO053"
       ]
     },
     {
