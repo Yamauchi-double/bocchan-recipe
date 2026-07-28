@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T10:15:57.548Z",
-  "count": 134,
+  "generatedAt": "2026-07-28T10:17:52.007Z",
+  "count": 132,
   "recipes": [
     {
       "id": "SH003",
@@ -4056,9 +4056,9 @@
       "suggested": [
         "SH001",
         "SH041",
-        "CO016",
         "SH010",
-        "SH002"
+        "SH002",
+        "SH005"
       ]
     },
     {
@@ -5436,9 +5436,9 @@
       "suggested": [
         "CO075",
         "CO076",
-        "CO015",
         "CO049",
-        "CO060"
+        "CO060",
+        "CO063"
       ]
     },
     {
@@ -6841,236 +6841,10 @@
       "comments": [],
       "suggested": [
         "SH014",
-        "CO016",
         "CO017",
         "CO063",
-        "SH003"
-      ]
-    },
-    {
-      "id": "CO015",
-      "brand": "坊っちゃん",
-      "name": "スペアリブ（タレのみ）",
-      "furigana": "スペアリブ（タレノミ）",
-      "category": "調理",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "仕込み_スペアリブ",
-          "amt": "1",
-          "unit": "個",
-          "linkId": ""
-        },
-        {
-          "label": "レモン",
-          "amt": "Thu Jan 08 2026 09:00:00 GMT+0900 (Japan Standard Time)",
-          "unit": "個",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_サラダベース",
-          "amt": "10",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "仕込んだスペアリブを取り出しレンジに入れる",
-          "note": false
-        },
-        {
-          "text": "600w/1分 必ずラップをする",
-          "note": true
-        },
-        {
-          "text": "タレ５０ｇと一緒にオーブンに入れる",
-          "note": false
-        },
-        {
-          "text": "２４０°/５分",
-          "note": true
-        },
-        {
-          "text": "オーブンから取り出し一緒に温めたタレを上からかける",
-          "note": false
-        },
-        {
-          "text": "サラダベース、レモンを乗せて完成",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO002",
-        "CO046",
-        "CO047",
-        "CO075",
-        "CO076"
-      ]
-    },
-    {
-      "id": "CO016",
-      "brand": "坊っちゃん",
-      "name": "牛すじ串",
-      "furigana": "ギュウスジクシ",
-      "category": "調理",
-      "time": "5分",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "牛すじ",
-          "amt": "40",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "竹串",
-          "amt": "1",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "焼き鳥のたれ",
-          "amt": "10",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "赤みそだれ",
-          "amt": "10",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "解凍した牛すじ４０ｇを串に刺しておく（4個～5個目安）",
-          "note": false
-        },
-        {
-          "text": "塩の場合",
-          "note": true
-        },
-        {
-          "text": "仕込んでおいた串をグリラーに乗せる",
-          "note": false
-        },
-        {
-          "text": "片面約2分前後を目安に焼く",
-          "note": false
-        },
-        {
-          "text": "火加減は中火を推奨",
-          "note": false
-        },
-        {
-          "text": "焼きあがったらお皿に盛って提供",
-          "note": false
-        },
-        {
-          "text": "タレ、みその場合",
-          "note": true
-        },
-        {
-          "text": "①～④までは同じ",
-          "note": false
-        },
-        {
-          "text": "焼きあがったらタレ or みそに漬ける",
-          "note": false
-        },
-        {
-          "text": "再度グリラーの上で30秒～1分ほど焼く",
-          "note": false
-        },
-        {
-          "text": "再度タレ or みそに漬ける",
-          "note": false
-        },
-        {
-          "text": "そのままお皿に乗せて提供",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO017",
-        "CO003",
-        "CO004",
-        "CO005",
-        "CO006"
+        "SH003",
+        "SH015"
       ]
     },
     {
@@ -7198,11 +6972,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "CO016",
         "CO003",
         "CO004",
         "CO005",
-        "CO006"
+        "CO006",
+        "CO008"
       ]
     },
     {
@@ -10139,10 +9913,10 @@
       "comments": [],
       "suggested": [
         "CO050",
-        "CO015",
         "CO041",
         "CO044",
-        "CO047"
+        "CO047",
+        "CO048"
       ]
     },
     {
@@ -10230,9 +10004,9 @@
       "suggested": [
         "CO055",
         "CO078",
-        "CO015",
         "CO046",
-        "CO054"
+        "CO054",
+        "CO058"
       ]
     },
     {
@@ -13296,9 +13070,9 @@
       "suggested": [
         "CO002",
         "CO076",
-        "CO015",
         "CO060",
-        "CO063"
+        "CO063",
+        "CO001"
       ]
     },
     {
@@ -13384,9 +13158,9 @@
       "suggested": [
         "CO002",
         "CO075",
-        "CO015",
         "CO060",
-        "CO063"
+        "CO063",
+        "SH040"
       ]
     },
     {
@@ -13582,9 +13356,9 @@
       "suggested": [
         "CO047",
         "CO058",
-        "CO015",
         "CO046",
-        "CO054"
+        "CO054",
+        "CO055"
       ]
     },
     {
@@ -13668,11 +13442,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "CO015",
         "CO046",
         "CO047",
         "CO078",
-        "CO001"
+        "CO001",
+        "CO002"
       ]
     },
     {
