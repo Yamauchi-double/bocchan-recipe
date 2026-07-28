@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T10:28:07.529Z",
+  "generatedAt": "2026-07-28T10:29:37.263Z",
   "count": 120,
   "recipes": [
     {
@@ -5006,16 +5006,16 @@
       "appOrder": 52,
       "ingredients": [
         {
-          "label": "仕込み_おでん出汁",
-          "amt": "1000",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
           "label": "鶏チャーシュー",
           "amt": "1",
           "unit": "PC",
           "linkId": ""
+        },
+        {
+          "label": "仕込み_おでん出汁",
+          "amt": "1000",
+          "unit": "g",
+          "linkId": "SH002"
         }
       ],
       "allergens": [],
@@ -5068,7 +5068,7 @@
         },
         {
           "type": "動画",
-          "url": "https://drive.google.com/file/d/1rjE8YM9E34h5vFfoKf2dxaLBbIc3ktAn/view?usp=drivesdk"
+          "url": "https://drive.google.com/file/d/1Gfh5QKU7lZ5Ca-pYkEEqIqX0OJRdwepX/view?usp=drivesdk"
         },
         {
           "type": "PDF",
