@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T12:26:22.342Z",
+  "generatedAt": "2026-07-28T08:18:39.975Z",
   "count": 135,
   "recipes": [
     {
@@ -2773,22 +2773,22 @@
       "name": "仕込み_おでんトッポギ",
       "furigana": "シコミ_オデントッポギ",
       "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
+      "time": "30分",
+      "yieldAmt": 5,
+      "yieldUnit": "人前",
       "appOrder": 50,
       "ingredients": [
         {
           "label": "トッポギ",
-          "amt": "Fri Jan 02 2026 09:00:00 GMT+0900 (Japan Standard Time)",
-          "unit": "PC",
+          "amt": "15",
+          "unit": "本",
           "linkId": ""
         },
         {
           "label": "仕込み_おでん出汁",
-          "amt": "1000",
+          "amt": "500",
           "unit": "g",
-          "linkId": ""
+          "linkId": "SH002"
         }
       ],
       "allergens": [],
@@ -2802,8 +2802,12 @@
           "note": false
         },
         {
-          "text": "②の中に①を入れる",
+          "text": "おでん出汁の中にトッポギを入れる",
           "note": false
+        },
+        {
+          "text": "他の物と炊くときは網に入れた方が管理が楽です",
+          "note": true
         },
         {
           "text": "火にかける",
@@ -2824,28 +2828,24 @@
         {
           "text": "保存期間：冷蔵4日",
           "note": false
-        },
-        {
-          "text": "保存推奨容器：13cmポット",
-          "note": false
         }
       ],
       "media": [
         {
           "type": "料理写真",
-          "url": "完成写真URL貼り付け"
+          "url": "https://drive.google.com/file/d/1W3zUD-c7uZZMWQVV_nASlwVMMtFGFPn5/view?usp=drivesdk"
         },
         {
           "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
+          "url": "https://drive.google.com/file/d/1y-Y4q-ji9Jt2MDk9yEoGPMjJ17y98OYY/view?usp=drivesdk"
         },
         {
           "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
+          "url": "https://drive.google.com/file/d/1jgAwVTaHySxtpyt56cwLCjdB7gRL5YFw/view?usp=drivesdk"
         },
         {
           "type": "動画",
-          "url": "動画URL貼り付け"
+          "url": "https://drive.google.com/file/d/13PS67kk5NeRS9nkDJLGSD45OU9-QzNM8/view?usp=drivesdk"
         },
         {
           "type": "PDF",
@@ -2853,22 +2853,34 @@
         },
         {
           "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
+          "url": "https://drive.google.com/file/d/1Cb3Avk1LXPwiDpfCWxjEY1djy2kj548n/view?usp=drivesdk"
         },
         {
           "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
+          "url": "https://drive.google.com/file/d/1m5o649rRIgFYOYGuxLa41tBY-gYsg4SB/view?usp=drivesdk"
         }
       ],
-      "plating": [],
-      "related": [],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：1,550ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO033",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "使用する仕込み（仕込み_おでん出汁）"
+        }
+      ],
       "comments": [],
       "suggested": [
         "SH019",
         "SH020",
-        "SH001",
-        "SH044",
-        "SH045"
+        "SH001"
       ]
     },
     {
@@ -5306,12 +5318,6 @@
           "amt": "1",
           "unit": "PC",
           "linkId": ""
-        },
-        {
-          "label": "仕込み_おでん出汁",
-          "amt": "1000",
-          "unit": "g",
-          "linkId": "SH002"
         }
       ],
       "allergens": [],
@@ -5346,10 +5352,6 @@
         },
         {
           "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：13cmポット",
           "note": false
         }
       ],
