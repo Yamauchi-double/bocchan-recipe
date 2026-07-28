@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T08:18:39.975Z",
+  "generatedAt": "2026-07-28T10:12:44.907Z",
   "count": 135,
   "recipes": [
     {
@@ -107,98 +107,6 @@
       ]
     },
     {
-      "id": "SH006",
-      "brand": "坊っちゃん",
-      "name": "仕込み_もも串",
-      "furigana": "シコミ_モモクシ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "もも串",
-          "amt": "30",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_焼き鳥漬けダレ",
-          "amt": "850",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "串を解凍する",
-          "note": false
-        },
-        {
-          "text": "漬けダレに解凍出来た①を漬ける",
-          "note": false
-        },
-        {
-          "text": "翌日～使用可能",
-          "note": false
-        },
-        {
-          "text": "液体からはみ出してる物が無いように注意",
-          "note": true
-        },
-        {
-          "text": "保存期間：冷蔵3日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：16cmポット",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH007",
-        "SH008",
-        "SH009",
-        "SH011",
-        "SH012"
-      ]
-    },
-    {
       "id": "SH007",
       "brand": "坊っちゃん",
       "name": "仕込み_ぼんじり串",
@@ -283,11 +191,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH006",
         "SH008",
         "SH009",
-        "SH011",
-        "SH012"
+        "SH012",
+        "SH013",
+        "SH015"
       ]
     },
     {
@@ -375,11 +283,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH006",
         "SH007",
         "SH009",
-        "SH011",
-        "SH012"
+        "SH012",
+        "SH013",
+        "SH015"
       ]
     },
     {
@@ -467,11 +375,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH006",
         "SH007",
         "SH008",
-        "SH011",
-        "SH012"
+        "SH012",
+        "SH013",
+        "SH015"
       ]
     },
     {
@@ -587,98 +495,6 @@
       ]
     },
     {
-      "id": "SH011",
-      "brand": "坊っちゃん",
-      "name": "仕込み_ココロ串",
-      "furigana": "シコミ_ココロクシ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "ココロ串",
-          "amt": "30",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_焼き鳥漬けダレ",
-          "amt": "850",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "串を解凍する",
-          "note": false
-        },
-        {
-          "text": "漬けダレに解凍出来た①を漬ける",
-          "note": false
-        },
-        {
-          "text": "翌日～使用可能",
-          "note": false
-        },
-        {
-          "text": "液体からはみ出してる物が無いように注意",
-          "note": true
-        },
-        {
-          "text": "保存期間：冷蔵3日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：16cmポット",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH006",
-        "SH007",
-        "SH008",
-        "SH009",
-        "SH012"
-      ]
-    },
-    {
       "id": "SH012",
       "brand": "坊っちゃん",
       "name": "仕込み_ヤゲン軟骨串",
@@ -763,11 +579,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH006",
         "SH007",
         "SH008",
         "SH009",
-        "SH011"
+        "SH013",
+        "SH015"
       ]
     },
     {
@@ -867,11 +683,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH006",
         "SH007",
         "SH008",
         "SH009",
-        "SH011"
+        "SH012",
+        "SH015"
       ]
     },
     {
@@ -1119,11 +935,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH006",
         "SH007",
         "SH008",
         "SH009",
-        "SH011"
+        "SH012",
+        "SH013"
       ]
     },
     {
@@ -1374,10 +1190,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH006",
         "SH007",
         "SH008",
-        "SH009"
+        "SH009",
+        "SH010"
       ]
     },
     {
@@ -1695,8 +1511,8 @@
       "suggested": [
         "SH027",
         "SH003",
-        "SH006",
-        "SH007"
+        "SH007",
+        "SH008"
       ]
     },
     {
@@ -1800,11 +1616,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH006",
         "SH007",
         "SH008",
         "SH009",
-        "SH011"
+        "SH012",
+        "SH013"
       ]
     },
     {
@@ -2158,6 +1974,206 @@
       ],
       "comments": [],
       "suggested": []
+    },
+    {
+      "id": "SH006",
+      "brand": "坊っちゃん",
+      "name": "仕込み_もも串",
+      "furigana": "シコミ_モモクシ",
+      "category": "仕込み",
+      "time": "5分",
+      "yieldAmt": 20,
+      "yieldUnit": "本",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "もも串",
+          "amt": "20",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_焼き鳥漬けダレ",
+          "amt": "850",
+          "unit": "g",
+          "linkId": "SH002"
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "漬けダレにもも串を漬ける",
+          "note": false
+        },
+        {
+          "text": "ラップで蓋をしてキチンと液体に浸かる様にする",
+          "note": false
+        },
+        {
+          "text": "液体からはみ出してる物が無いように注意",
+          "note": true
+        },
+        {
+          "text": "翌日～使用可能",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1lvee2jENiwcPVZjA2Mr9WIswmE-HlpCv/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1O3UfTybtnE6W4xWHcvp9s1QVKSSMDNDn/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO003",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "使用する仕込み（仕込み_焼き鳥漬けダレ）"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH007",
+        "SH008",
+        "SH009"
+      ]
+    },
+    {
+      "id": "SH011",
+      "brand": "坊っちゃん",
+      "name": "仕込み_ココロ串",
+      "furigana": "シコミ_ココロクシ",
+      "category": "仕込み",
+      "time": "1時間半",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "ココロ串",
+          "amt": "20",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_焼き鳥漬けダレ",
+          "amt": "850",
+          "unit": "g",
+          "linkId": "SH002"
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "漬けダレにココロ串を漬ける",
+          "note": false
+        },
+        {
+          "text": "ラップで蓋をして全て浸かる様にする",
+          "note": false
+        },
+        {
+          "text": "液体からはみ出してる物が無いように注意",
+          "note": true
+        },
+        {
+          "text": "翌日～使用可能",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1xtesM8UfAs6OUCVRpOVdYcAAhWoAefcl/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1m1w7MeIFdqjG9WAvmckaqdIPVb9Ekn6F/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO009",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "使用する仕込み（仕込み_焼き鳥漬けダレ）"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH007",
+        "SH008",
+        "SH009"
+      ]
     },
     {
       "id": "SH044",
@@ -3179,8 +3195,8 @@
         "SH035",
         "CO050",
         "SH003",
-        "SH006",
-        "SH007"
+        "SH007",
+        "SH008"
       ]
     },
     {
@@ -3271,10 +3287,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH006",
         "SH007",
         "SH008",
-        "SH009"
+        "SH009",
+        "SH010"
       ]
     },
     {
@@ -3489,8 +3505,8 @@
         "CO053",
         "CO072",
         "SH003",
-        "SH006",
-        "SH007"
+        "SH007",
+        "SH008"
       ]
     },
     {
@@ -3757,10 +3773,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH006",
         "SH007",
         "SH008",
-        "SH009"
+        "SH009",
+        "SH010"
       ]
     },
     {
@@ -3851,10 +3867,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH006",
         "SH007",
         "SH008",
-        "SH009"
+        "SH009",
+        "SH010"
       ]
     },
     {
@@ -4257,8 +4273,8 @@
         "CO059",
         "CO060",
         "SH003",
-        "SH006",
-        "SH007"
+        "SH007",
+        "SH008"
       ]
     },
     {
@@ -4555,8 +4571,8 @@
         "SH005",
         "CO049",
         "SH003",
-        "SH006",
-        "SH007"
+        "SH007",
+        "SH008"
       ]
     },
     {
@@ -4961,10 +4977,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH006",
         "SH007",
         "SH008",
-        "SH009"
+        "SH009",
+        "SH010"
       ]
     },
     {
@@ -5049,8 +5065,8 @@
         "SH027",
         "SH034",
         "SH003",
-        "SH006",
-        "SH007"
+        "SH007",
+        "SH008"
       ]
     },
     {
@@ -5293,7 +5309,7 @@
         "SH003",
         "SH014",
         "CO076",
-        "SH006"
+        "SH007"
       ]
     },
     {
