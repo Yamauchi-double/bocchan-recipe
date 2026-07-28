@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T10:12:44.907Z",
-  "count": 135,
+  "generatedAt": "2026-07-28T10:15:57.548Z",
+  "count": 134,
   "recipes": [
     {
       "id": "SH003",
@@ -487,11 +487,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH017",
         "SH001",
         "SH002",
         "SH005",
-        "SH032"
+        "SH032",
+        "SH034"
       ]
     },
     {
@@ -940,128 +940,6 @@
         "SH009",
         "SH012",
         "SH013"
-      ]
-    },
-    {
-      "id": "SH017",
-      "brand": "坊っちゃん",
-      "name": "仕込み_スペアリブ",
-      "furigana": "シコミ_スペアリブ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "スペアリブ",
-          "amt": "3",
-          "unit": "個",
-          "linkId": ""
-        },
-        {
-          "label": "水",
-          "amt": "500",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "焼き鳥のたれ",
-          "amt": "500",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "おろしにんにく",
-          "amt": "50",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "おろし生姜",
-          "amt": "25",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "スペアリブを解凍する",
-          "note": false
-        },
-        {
-          "text": "解凍出来た①を骨に沿って切り分ける",
-          "note": false
-        },
-        {
-          "text": "１ブロックにつき大体３本骨が入ってます。",
-          "note": true
-        },
-        {
-          "text": "全て切り分けたら上記食材を全て圧力鍋に入れて圧力調理",
-          "note": false
-        },
-        {
-          "text": "圧力30分",
-          "note": false
-        },
-        {
-          "text": "圧力調理が完了したら粗熱を取ってタレごと容器に移す",
-          "note": false
-        },
-        {
-          "text": "冷蔵保存",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵5日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH032",
-        "SH041",
-        "SH001",
-        "SH010",
-        "SH002"
       ]
     },
     {
@@ -1759,9 +1637,9 @@
       ],
       "comments": [],
       "suggested": [
-        "SH017",
         "SH032",
-        "SH010"
+        "SH010",
+        "SH019"
       ]
     },
     {
@@ -1840,9 +1718,9 @@
       "suggested": [
         "SH005",
         "SH010",
-        "SH017",
         "SH001",
-        "SH031"
+        "SH031",
+        "SH032"
       ]
     },
     {
@@ -3687,10 +3565,10 @@
       "comments": [],
       "suggested": [
         "SH034",
-        "SH017",
         "SH004",
         "SH032",
-        "SH041"
+        "SH041",
+        "SH043"
       ]
     },
     {
@@ -3956,11 +3834,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH017",
         "SH024",
         "SH031",
         "SH032",
-        "SH041"
+        "SH041",
+        "CO051"
       ]
     },
     {
@@ -4052,11 +3930,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH017",
         "SH002",
         "SH005",
         "SH030",
-        "SH032"
+        "SH032",
+        "SH041"
       ]
     },
     {
@@ -4176,11 +4054,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH017",
         "SH001",
         "SH041",
         "CO016",
-        "SH010"
+        "SH010",
+        "SH002"
       ]
     },
     {
@@ -4393,8 +4271,8 @@
         "SH027",
         "CO077",
         "SH010",
-        "SH017",
-        "SH001"
+        "SH001",
+        "SH002"
       ]
     },
     {
@@ -4697,10 +4575,10 @@
       "comments": [],
       "suggested": [
         "SH010",
-        "SH017",
         "SH001",
         "SH002",
-        "SH005"
+        "SH005",
+        "SH032"
       ]
     },
     {
@@ -4864,11 +4742,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH017",
         "SH032",
         "SH019",
         "SH020",
-        "SH001"
+        "SH001",
+        "SH044"
       ]
     },
     {
@@ -5185,10 +5063,10 @@
       "comments": [],
       "suggested": [
         "SH010",
-        "SH017",
         "SH001",
         "SH002",
-        "SH005"
+        "SH005",
+        "SH032"
       ]
     },
     {
@@ -13596,9 +13474,9 @@
       "suggested": [
         "SH034",
         "SH010",
-        "SH017",
         "SH001",
-        "SH002"
+        "SH002",
+        "SH005"
       ]
     },
     {
