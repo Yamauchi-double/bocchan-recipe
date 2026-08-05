@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T10:40:23.635Z",
+  "generatedAt": "2026-08-05T10:16:03.670Z",
   "count": 120,
   "recipes": [
     {
@@ -5247,7 +5247,7 @@
         },
         {
           "label": "レモン",
-          "amt": "Thu Jan 08 2026 09:00:00 GMT+0900 (Japan Standard Time)",
+          "amt": "1/8",
           "unit": "個",
           "linkId": ""
         }
@@ -11877,7 +11877,7 @@
         },
         {
           "label": "レモン",
-          "amt": "Thu Jan 08 2026 09:00:00 GMT+0900 (Japan Standard Time)",
+          "amt": "1/8",
           "unit": "個",
           "linkId": ""
         }
