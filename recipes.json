@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T10:16:03.670Z",
+  "generatedAt": "2026-08-06T12:17:25.905Z",
   "count": 120,
   "recipes": [
     {
@@ -1075,110 +1075,6 @@
       ]
     },
     {
-      "id": "SH019",
-      "brand": "坊っちゃん",
-      "name": "仕込み_おでん大根",
-      "furigana": "シコミ_オデンダイコン",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "OEM大根",
-          "amt": "20",
-          "unit": "個",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_おでん出汁",
-          "amt": "1000",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "大根を解凍する",
-          "note": false
-        },
-        {
-          "text": "おでん出汁を用意する",
-          "note": false
-        },
-        {
-          "text": "②の中に①を入れる",
-          "note": false
-        },
-        {
-          "text": "火にかける",
-          "note": false
-        },
-        {
-          "text": "沸いたら中～弱火でコトコト炊く",
-          "note": false
-        },
-        {
-          "text": "沸いてから３０分経過したら火を止めて放置",
-          "note": false
-        },
-        {
-          "text": "粗熱が取れたら容器に入れて保存",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：13cmポット",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH020",
-        "SH001",
-        "SH044",
-        "SH045",
-        "SH046"
-      ]
-    },
-    {
       "id": "SH020",
       "brand": "坊っちゃん",
       "name": "仕込み_おでんこんにゃく",
@@ -1271,8 +1167,8 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH019",
         "SH001",
+        "SH019",
         "SH044",
         "SH045",
         "SH046"
@@ -1639,7 +1535,7 @@
       "suggested": [
         "SH032",
         "SH010",
-        "SH019"
+        "SH020"
       ]
     },
     {
@@ -2109,6 +2005,119 @@
       "suggested": []
     },
     {
+      "id": "SH019",
+      "brand": "坊っちゃん",
+      "name": "仕込み_おでん大根",
+      "furigana": "シコミ_オデンダイコン",
+      "category": "仕込み",
+      "time": "30分",
+      "yieldAmt": 20,
+      "yieldUnit": "人前",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "OEM大根",
+          "amt": "20",
+          "unit": "個",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_おでん出汁",
+          "amt": "1000",
+          "unit": "g",
+          "linkId": "SH002"
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "前日に大根を冷蔵解凍しておく",
+          "note": false
+        },
+        {
+          "text": "パックの中の大根の汁気を切る",
+          "note": false
+        },
+        {
+          "text": "汁は捨てていいです",
+          "note": true
+        },
+        {
+          "text": "おでん出汁を用意して出汁の中に大根を入れる",
+          "note": false
+        },
+        {
+          "text": "火にかける",
+          "note": false
+        },
+        {
+          "text": "沸いたら中～弱火でコトコト炊く",
+          "note": false
+        },
+        {
+          "text": "沸いてから３０分経過したら火を止めて放置",
+          "note": false
+        },
+        {
+          "text": "粗熱が取れたら容器に入れて保存",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵4日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/16t2nQKr6nTpbOFf_AfKV5hAOSquphK91/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1G1OPjRsR5gDekNeGjh_ddoNNE02J5hr8/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1nVk8ISzI2Jio72fXYDQoTMYl2n5BQaaD/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "動画URL貼り付け"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1__EpTMWXr19F4SKfX62Nqv3UV-BYeJyI/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1pQgfMqYIp1cwtOaE3M1HXazoBwcQmFjH/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：3,700ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH002",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH020",
+        "SH001",
+        "SH044",
+        "SH045"
+      ]
+    },
+    {
       "id": "SH044",
       "brand": "坊っちゃん",
       "name": "仕込み_おでん厚揚げ",
@@ -2201,9 +2210,9 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH019",
         "SH020",
         "SH001",
+        "SH019",
         "SH045",
         "SH046"
       ]
@@ -2301,9 +2310,9 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH019",
         "SH020",
         "SH001",
+        "SH019",
         "SH044",
         "SH046"
       ]
@@ -2401,9 +2410,9 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH019",
         "SH020",
         "SH001",
+        "SH019",
         "SH044",
         "SH045"
       ]
@@ -2501,9 +2510,9 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH019",
         "SH020",
         "SH001",
+        "SH019",
         "SH044",
         "SH045"
       ]
@@ -2601,9 +2610,9 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH019",
         "SH020",
         "SH001",
+        "SH019",
         "SH044",
         "SH045"
       ]
@@ -2715,9 +2724,9 @@
       ],
       "comments": [],
       "suggested": [
-        "SH019",
         "SH020",
-        "SH001"
+        "SH001",
+        "SH019"
       ]
     },
     {
@@ -2831,9 +2840,9 @@
       ],
       "comments": [],
       "suggested": [
-        "SH019",
         "SH020",
-        "SH001"
+        "SH001",
+        "SH019"
       ]
     },
     {
@@ -2933,9 +2942,9 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH019",
         "SH020",
         "SH001",
+        "SH019",
         "SH044",
         "SH045"
       ]
@@ -3037,9 +3046,9 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH019",
         "SH020",
         "SH001",
+        "SH019",
         "SH044",
         "SH045"
       ]
@@ -4605,9 +4614,9 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH019",
         "SH020",
         "SH001",
+        "SH019",
         "SH044",
         "SH045"
       ]
@@ -5160,9 +5169,9 @@
       ],
       "comments": [],
       "suggested": [
-        "SH019",
         "SH020",
-        "SH001"
+        "SH001",
+        "SH019"
       ]
     },
     {
