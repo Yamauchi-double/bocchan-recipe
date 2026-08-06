@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T13:02:55.490Z",
+  "generatedAt": "2026-08-06T13:13:42.291Z",
   "count": 121,
   "recipes": [
     {
@@ -191,103 +191,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH009",
         "SH013",
         "SH015",
         "SH016",
-        "SH006"
-      ]
-    },
-    {
-      "id": "SH009",
-      "brand": "坊っちゃん",
-      "name": "仕込み_砂肝串",
-      "furigana": "シコミ_スナギモクシ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "砂肝串",
-          "amt": "30",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_焼き鳥漬けダレ",
-          "amt": "850",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "串を解凍する",
-          "note": false
-        },
-        {
-          "text": "漬けダレに解凍出来た①を漬ける",
-          "note": false
-        },
-        {
-          "text": "翌日～使用可能",
-          "note": false
-        },
-        {
-          "text": "液体からはみ出してる物が無いように注意",
-          "note": true
-        },
-        {
-          "text": "保存期間：冷蔵3日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：16cmポット",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH007",
-        "SH013",
-        "SH015",
-        "SH016",
-        "SH006"
+        "SH006",
+        "SH011"
       ]
     },
     {
@@ -500,10 +408,10 @@
       "comments": [],
       "suggested": [
         "SH007",
-        "SH009",
         "SH015",
         "SH016",
-        "SH006"
+        "SH006",
+        "SH011"
       ]
     },
     {
@@ -752,10 +660,10 @@
       "comments": [],
       "suggested": [
         "SH007",
-        "SH009",
         "SH013",
         "SH014",
-        "SH016"
+        "SH016",
+        "SH006"
       ]
     },
     {
@@ -885,9 +793,9 @@
       "suggested": [
         "SH003",
         "SH007",
-        "SH009",
         "SH010",
-        "SH013"
+        "SH013",
+        "SH014"
       ]
     },
     {
@@ -1102,7 +1010,7 @@
         "SH027",
         "SH003",
         "SH007",
-        "SH009"
+        "SH010"
       ]
     },
     {
@@ -1207,10 +1115,10 @@
       "comments": [],
       "suggested": [
         "SH007",
-        "SH009",
         "SH013",
         "SH015",
-        "SH001"
+        "SH001",
+        "SH006"
       ]
     },
     {
@@ -1580,8 +1488,8 @@
       "comments": [],
       "suggested": [
         "SH007",
-        "SH009",
-        "SH013"
+        "SH013",
+        "SH015"
       ]
     },
     {
@@ -1680,8 +1588,8 @@
       "comments": [],
       "suggested": [
         "SH007",
-        "SH009",
-        "SH013"
+        "SH013",
+        "SH015"
       ]
     },
     {
@@ -2025,9 +1933,9 @@
       "comments": [],
       "suggested": [
         "SH007",
-        "SH009",
         "SH013",
-        "SH015"
+        "SH015",
+        "SH016"
       ]
     },
     {
@@ -2118,7 +2026,107 @@
       "comments": [],
       "suggested": [
         "SH007",
-        "SH009",
+        "SH013",
+        "SH015",
+        "SH016"
+      ]
+    },
+    {
+      "id": "SH009",
+      "brand": "坊っちゃん",
+      "name": "仕込み_砂肝串",
+      "furigana": "シコミ_スナギモクシ",
+      "category": "仕込み",
+      "time": "5分",
+      "yieldAmt": 30,
+      "yieldUnit": "人前",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "砂肝串",
+          "amt": "30",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_焼き鳥漬けダレ",
+          "amt": "850",
+          "unit": "g",
+          "linkId": "SH009"
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "漬けダレに砂肝串を漬ける",
+          "note": false
+        },
+        {
+          "text": "ラップで蓋をしてキチンと液体に浸かる様にする",
+          "note": false
+        },
+        {
+          "text": "液体からはみ出してる物が無いように注意",
+          "note": true
+        },
+        {
+          "text": "翌日～使用可能",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1aqipcHbcELIi1W3xZRruNzDxCOBy0xUO/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1oyLAWyYAWyMCkRdZBSmnLhmFKmmdbMWA/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH005",
+          "reason": "手動"
+        },
+        {
+          "id": "SH009",
+          "reason": "使用する仕込み（仕込み_焼き鳥漬けダレ）"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH007",
         "SH013",
         "SH015"
       ]
@@ -3149,7 +3157,7 @@
         "CO050",
         "SH003",
         "SH007",
-        "SH009"
+        "SH010"
       ]
     },
     {
@@ -3241,9 +3249,9 @@
       "suggested": [
         "SH003",
         "SH007",
-        "SH009",
         "SH010",
-        "SH013"
+        "SH013",
+        "SH014"
       ]
     },
     {
@@ -3619,9 +3627,9 @@
       "suggested": [
         "SH003",
         "SH007",
-        "SH009",
         "SH010",
-        "SH013"
+        "SH013",
+        "SH014"
       ]
     },
     {
@@ -3713,9 +3721,9 @@
       "suggested": [
         "SH003",
         "SH007",
-        "SH009",
         "SH010",
-        "SH013"
+        "SH013",
+        "SH014"
       ]
     },
     {
@@ -4119,7 +4127,7 @@
         "CO060",
         "SH003",
         "SH007",
-        "SH009"
+        "SH010"
       ]
     },
     {
@@ -4417,7 +4425,7 @@
         "CO049",
         "SH003",
         "SH007",
-        "SH009"
+        "SH010"
       ]
     },
     {
@@ -4735,9 +4743,9 @@
       "suggested": [
         "SH003",
         "SH007",
-        "SH009",
         "SH010",
-        "SH013"
+        "SH013",
+        "SH014"
       ]
     },
     {
@@ -4823,7 +4831,7 @@
         "SH034",
         "SH003",
         "SH007",
-        "SH009"
+        "SH010"
       ]
     },
     {
@@ -5066,7 +5074,7 @@
         "SH003",
         "SH014",
         "SH007",
-        "SH009"
+        "SH010"
       ]
     },
     {
