@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T12:50:12.760Z",
-  "count": 120,
+  "generatedAt": "2026-08-06T13:02:55.490Z",
+  "count": 121,
   "recipes": [
     {
       "id": "SH003",
@@ -12658,6 +12658,111 @@
         "CO003",
         "CO004",
         "CO005"
+      ]
+    },
+    {
+      "id": "SH053",
+      "brand": "坊っちゃん",
+      "name": "仕込み_雲仙ハム",
+      "furigana": "しこみ",
+      "category": "仕込み",
+      "time": "10分",
+      "yieldAmt": 25,
+      "yieldUnit": "人前前後",
+      "appOrder": 100,
+      "ingredients": [
+        {
+          "label": "雲仙ハム",
+          "amt": "800",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "竹串",
+          "amt": "25",
+          "unit": "本前後",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "雲仙ハムのパックを開けてハムを取り出す",
+          "note": false
+        },
+        {
+          "text": "必要分以外はカットせずにぴったりとラップをして冷凍保存",
+          "note": true
+        },
+        {
+          "text": "1.5cm幅を目安にカットする",
+          "note": false
+        },
+        {
+          "text": "30g目安",
+          "note": true
+        },
+        {
+          "text": "カットしたハムを半分に切り半月型にする",
+          "note": false
+        },
+        {
+          "text": "串に刺す",
+          "note": false
+        },
+        {
+          "text": "容器に入れて保存",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵4日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/12OA6w_sfE78C41w3JWIGHX1rdhCeKmUB/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1jGLTdNt9e4KoXiXMpLto8RphtDFSYFW3/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1w_PD2jRvWD2R4CG64j-yM-d4uWDJi_ZM/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1GMu86SbRyplkW6LXhb_DTyijqP8hpheV/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1QSeMWtIb4zRyyLZtucSSSYNubOcXJMlz/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO017",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH014",
+        "SH015",
+        "CO014",
+        "SH003"
       ]
     }
   ]
