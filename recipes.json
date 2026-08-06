@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T13:16:21.745Z",
+  "generatedAt": "2026-08-06T13:31:33.230Z",
   "count": 121,
   "recipes": [
     {
@@ -306,8 +306,8 @@
         "SH001",
         "SH005",
         "SH002",
-        "SH032",
-        "SH034"
+        "SH034",
+        "SH037"
       ]
     },
     {
@@ -3541,8 +3541,8 @@
       "suggested": [
         "SH034",
         "SH004",
-        "SH032",
         "SH043",
+        "SH032",
         "SH003"
       ]
     },
@@ -3910,130 +3910,6 @@
         "SH030",
         "SH032",
         "SH003"
-      ]
-    },
-    {
-      "id": "SH032",
-      "brand": "坊っちゃん",
-      "name": "仕込み_炊き豆腐",
-      "furigana": "シコミ_タキトウフ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 52,
-      "ingredients": [
-        {
-          "label": "焼豆腐",
-          "amt": "4",
-          "unit": "PC",
-          "linkId": ""
-        },
-        {
-          "label": "牛すじ",
-          "amt": "200",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "焼き鳥のたれ",
-          "amt": "600",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "水",
-          "amt": "600",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "おろしにんにく",
-          "amt": "60",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "おろし生姜",
-          "amt": "30",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "焼豆腐を１／２にカットする",
-          "note": false
-        },
-        {
-          "text": "全て圧力鍋に入れる",
-          "note": false
-        },
-        {
-          "text": "蓋をして蓋の中央のつまみを密封に合わせる",
-          "note": false
-        },
-        {
-          "text": "圧力鍋の調理設定【手動メニュー】→【圧力調理】→【30分】→【スタート】約1時間半で炊きあがり",
-          "note": false
-        },
-        {
-          "text": "⑨が炊き上がって粗熱が取れたら鍋に移し弱火で30分ほど炊いて完成",
-          "note": false
-        },
-        {
-          "text": "粗熱が取れたら容器に出汁ごと移し冷蔵保存",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH001",
-        "SH010",
-        "SH005",
-        "SH002",
-        "SH027"
       ]
     },
     {
@@ -4553,7 +4429,7 @@
         "SH001",
         "SH005",
         "SH002",
-        "SH032"
+        "SH034"
       ]
     },
     {
@@ -4953,7 +4829,7 @@
         "SH001",
         "SH005",
         "SH002",
-        "SH032"
+        "SH034"
       ]
     },
     {
@@ -5187,6 +5063,137 @@
         "SH020",
         "SH001",
         "SH019"
+      ]
+    },
+    {
+      "id": "SH032",
+      "brand": "坊っちゃん",
+      "name": "仕込み_炊き豆腐",
+      "furigana": "シコミ_タキトウフ",
+      "category": "仕込み",
+      "time": "1時間半",
+      "yieldAmt": 8,
+      "yieldUnit": "人前",
+      "appOrder": 52,
+      "ingredients": [
+        {
+          "label": "焼豆腐",
+          "amt": "4",
+          "unit": "PC",
+          "linkId": ""
+        },
+        {
+          "label": "焼き鳥のたれ",
+          "amt": "600",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "水",
+          "amt": "600",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "おろしにんにく",
+          "amt": "60",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "おろし生姜",
+          "amt": "30",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "焼豆腐を１／２にカットする",
+          "note": false
+        },
+        {
+          "text": "全て圧力鍋に入れる",
+          "note": false
+        },
+        {
+          "text": "水分量が圧力鍋に記載してる最大水位を超えていないかを確認\n超えていたら吹きこぼれる為、2回に分けて炊く",
+          "note": true
+        },
+        {
+          "text": "蓋をして蓋の中央のつまみを密封に合わせる",
+          "note": false
+        },
+        {
+          "text": "圧力鍋の調理設定【手動メニュー】→【圧力調理】→【30分】→【スタート】約1時間半で炊きあがり",
+          "note": false
+        },
+        {
+          "text": "粗熱が取れたら容器に出汁ごと容器に移し冷蔵保存",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵4日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1gtPwcZdpqtHQ568xrlpoSoNP-ZqQO4aw/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1qOJ2NPsgJUTmHdY1hEJPzhnoCYjwvndE/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1jFBIWxoLMADH2d-DbnA_Yk5_qaUczJf4/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1Z2n34sIBbCyA9v661fX_tZd-zeVd-HR5/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1POEL7sfwkYI5Jes7i8ymB5L98hAt_fDA/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1Dsur7Gq3NtN1_jTlK-vrK6OS7dtjW3_i/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1pBAgLH2sHsXSMGpvN0Zgd-jM94PDyYcQ/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO057",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH001",
+        "SH010",
+        "SH005",
+        "SH002"
       ]
     },
     {
