@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T13:31:33.230Z",
+  "generatedAt": "2026-08-07T06:56:58.619Z",
   "count": 121,
   "recipes": [
     {
@@ -8772,112 +8772,6 @@
       ]
     },
     {
-      "id": "CO036",
-      "brand": "坊っちゃん",
-      "name": "コロッケ（１個）",
-      "furigana": "コロッケ（１コ）",
-      "category": "調理",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "コロッケ",
-          "amt": "1",
-          "unit": "個",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_おでん出汁",
-          "amt": "適量",
-          "unit": "",
-          "linkId": ""
-        },
-        {
-          "label": "鶏油",
-          "amt": "2",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "コロッケを１個揚げる",
-          "note": false
-        },
-        {
-          "text": "揚げ時間目安：４分",
-          "note": true
-        },
-        {
-          "text": "お皿にコロッケを入れる",
-          "note": false
-        },
-        {
-          "text": "おでん出汁を入れる",
-          "note": false
-        },
-        {
-          "text": "鶏油を少量入れる",
-          "note": false
-        },
-        {
-          "text": "完成",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO024",
-        "CO025",
-        "CO026",
-        "CO027",
-        "CO028"
-      ]
-    },
-    {
       "id": "CO037",
       "brand": "坊っちゃん",
       "name": "みんち串（１本）",
@@ -12673,6 +12567,116 @@
         "CO003",
         "CO004",
         "CO005"
+      ]
+    },
+    {
+      "id": "CO036",
+      "brand": "坊っちゃん",
+      "name": "コロッケ（１個）",
+      "furigana": "コロッケ（１コ）",
+      "category": "調理",
+      "time": "6分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 83,
+      "ingredients": [
+        {
+          "label": "コロッケ",
+          "amt": "1",
+          "unit": "個",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_おでん出汁",
+          "amt": "適量",
+          "unit": "",
+          "linkId": "SH002"
+        },
+        {
+          "label": "鶏油",
+          "amt": "2",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "170～175°のフライヤーでコロッケを１個揚げる",
+          "note": false
+        },
+        {
+          "text": "揚げ時間目安：４分",
+          "note": true
+        },
+        {
+          "text": "お皿にコロッケを入れる",
+          "note": false
+        },
+        {
+          "text": "おでん出汁を入れる",
+          "note": false
+        },
+        {
+          "text": "鶏油を少量入れる",
+          "note": false
+        },
+        {
+          "text": "完成",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1uwpFBGQZpG94_s2DrqdN4CiQK2AgBohK/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1uwpFBGQZpG94_s2DrqdN4CiQK2AgBohK/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/11o9EkoDUD0BS9mVE3otwrMzG4Wrpn2K4/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1TnNMIIreJN4WUGjz8WvQDVz9Z883fO3P/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "ホルモン皿"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO036",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "使用する仕込み（仕込み_おでん出汁）"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CO024",
+        "CO025",
+        "CO026"
       ]
     },
     {
