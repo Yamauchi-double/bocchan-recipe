@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T09:20:48.556Z",
-  "count": 122,
+  "generatedAt": "2026-08-11T09:34:10.406Z",
+  "count": 123,
   "recipes": [
     {
       "id": "SH003",
@@ -3252,11 +3252,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "CU002",
         "SH003",
         "SH010",
         "SH013",
-        "SH014",
-        "SH015"
+        "SH014"
       ]
     },
     {
@@ -12885,7 +12885,149 @@
         }
       ],
       "comments": [],
-      "suggested": []
+      "suggested": [
+        "CU002"
+      ]
+    },
+    {
+      "id": "CU002",
+      "brand": "坊っちゃん",
+      "name": "切り物_玉ネギスライス",
+      "furigana": "キリモノ_タマネギスライス_オニオン",
+      "category": "切り物",
+      "time": "5分",
+      "yieldAmt": "200～250",
+      "yieldUnit": "g前後",
+      "appOrder": 103,
+      "ingredients": [
+        {
+          "label": "むき玉葱",
+          "amt": "1",
+          "unit": "個",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "玉葱の上と下を軽く切り落とす",
+          "note": false
+        },
+        {
+          "text": "半分に切る",
+          "note": false
+        },
+        {
+          "text": "軽く濡らしたダスターの上にボウルとザルを置く",
+          "note": false
+        },
+        {
+          "text": "その上に厚み調整をしたスライサーを乗せて少し揺らして安定性を確かめる",
+          "note": false
+        },
+        {
+          "text": "スライサーとザルの間にも軽く濡らしたダスターをかますとより安定性が高まります",
+          "note": true
+        },
+        {
+          "text": "1、2回スライスして厚みを確かめる",
+          "note": false
+        },
+        {
+          "text": "1mm～2mm幅ほどになる様に",
+          "note": true
+        },
+        {
+          "text": "正しい厚みに調整出来ればスライサーの上で玉ねぎを前後させスライスしていく",
+          "note": false
+        },
+        {
+          "text": "スライスできないほどの厚みになった玉ねぎは後程包丁でなるべく薄くカットしてザルの中に入れる",
+          "note": true
+        },
+        {
+          "text": "全てスライス出来たら流水にさらす",
+          "note": false
+        },
+        {
+          "text": "約30分（チョロチョロとした勢いで）",
+          "note": true
+        },
+        {
+          "text": "30分経過で水を捨てよく水気を切る",
+          "note": false
+        },
+        {
+          "text": "タッパにリードを敷きその上にスライスした玉ねぎを入れる",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵2日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1MepgTrRymtezjw-hX_ijYwwlsNym6P4i/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1qpgr6kkPYHwfpybtFjq_x8pDuOL9AqtS/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1VDw3MUi5nBor0Vt6h7I2F9_CTKbRYJIb/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1VGCJOAU0Ct0oWfr1cwnk_oBe0AXbkf4b/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1oGOEeXFzgvT32XGX_xwEBeGq5NUei8zC/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1GeEl5NS5WqIDU_tRg9tuyNsgAXu0PG0t/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1l7_gfc8WpuQXW6DtuqVVEU9spi7hkVwE/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO049",
+          "reason": "手動"
+        },
+        {
+          "id": "CO050",
+          "reason": "手動"
+        },
+        {
+          "id": "CO054",
+          "reason": "手動"
+        },
+        {
+          "id": "CO063",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH023"
+      ]
     }
   ]
 }
