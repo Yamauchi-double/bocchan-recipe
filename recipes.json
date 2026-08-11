@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T10:16:07.482Z",
+  "generatedAt": "2026-08-11T10:34:59.944Z",
   "count": 122,
   "recipes": [
     {
@@ -6646,142 +6646,10 @@
       "comments": [],
       "suggested": [
         "SH014",
-        "CO017",
         "CO063",
+        "CO017",
         "SH003",
         "SH015"
-      ]
-    },
-    {
-      "id": "CO017",
-      "brand": "坊っちゃん",
-      "name": "雲仙ハム串",
-      "furigana": "ウンゼンハムクシ",
-      "category": "調理",
-      "time": "5分",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "雲仙ハム",
-          "amt": "30",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "竹串",
-          "amt": "1",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "焼き鳥のたれ",
-          "amt": "10",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "赤みそだれ",
-          "amt": "10",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "解凍した雲仙ハムを１．５cmほどの厚みに切り1/2カットして半月型にする",
-          "note": false
-        },
-        {
-          "text": "串に刺して焼いていく",
-          "note": false
-        },
-        {
-          "text": "塩の場合",
-          "note": true
-        },
-        {
-          "text": "仕込んでおいた串をグリラーに乗せる",
-          "note": false
-        },
-        {
-          "text": "片面約2分前後を目安に焼く",
-          "note": false
-        },
-        {
-          "text": "火加減は中火を推奨",
-          "note": false
-        },
-        {
-          "text": "焼きあがったらお皿に盛って提供",
-          "note": false
-        },
-        {
-          "text": "タレ、みその場合",
-          "note": true
-        },
-        {
-          "text": "①～④までは同じ",
-          "note": false
-        },
-        {
-          "text": "焼きあがったらタレ or みそに漬ける",
-          "note": false
-        },
-        {
-          "text": "再度グリラーの上で30秒～1分ほど焼く",
-          "note": false
-        },
-        {
-          "text": "再度タレ or みそに漬ける",
-          "note": false
-        },
-        {
-          "text": "そのままお皿に乗せて提供",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO003",
-        "CO004",
-        "CO005",
-        "CO006",
-        "CO008"
       ]
     },
     {
@@ -8422,112 +8290,6 @@
       "steps": [
         {
           "text": "仕込んでおいたおでん用の赤棒をお皿に盛る",
-          "note": false
-        },
-        {
-          "text": "おでん出汁を入れる",
-          "note": false
-        },
-        {
-          "text": "鶏油を少量入れる",
-          "note": false
-        },
-        {
-          "text": "完成",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO024",
-        "CO025",
-        "CO026",
-        "CO027",
-        "CO028"
-      ]
-    },
-    {
-      "id": "CO034",
-      "brand": "坊っちゃん",
-      "name": "里芋饅頭（１個）",
-      "furigana": "サトイモマンジュウ（１コ）",
-      "category": "調理",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "里芋饅頭",
-          "amt": "1",
-          "unit": "個",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_おでん出汁",
-          "amt": "適量",
-          "unit": "",
-          "linkId": ""
-        },
-        {
-          "label": "鶏油",
-          "amt": "2",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "里芋饅頭を１個揚げる",
-          "note": false
-        },
-        {
-          "text": "揚げ時間目安：４分",
-          "note": true
-        },
-        {
-          "text": "お皿に里芋饅頭を入れる",
           "note": false
         },
         {
@@ -12545,19 +12307,31 @@
       ]
     },
     {
-      "id": "CO083",
+      "id": "CO034",
       "brand": "坊っちゃん",
-      "name": "タケノコカツオ節和え",
-      "furigana": "タケノコカツオブシアエ",
+      "name": "里芋饅頭（１個）",
+      "furigana": "サトイモマンジュウ（１コ）",
       "category": "調理",
-      "time": "",
+      "time": "6分",
       "yieldAmt": null,
       "yieldUnit": "",
       "appOrder": 83,
       "ingredients": [
         {
-          "label": "仕込み_タケノコ味入れ",
-          "amt": "40",
+          "label": "里芋饅頭",
+          "amt": "1",
+          "unit": "個",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_おでん出汁",
+          "amt": "適量",
+          "unit": "",
+          "linkId": "SH002"
+        },
+        {
+          "label": "鶏油",
+          "amt": "2",
           "unit": "g",
           "linkId": ""
         }
@@ -12565,7 +12339,23 @@
       "allergens": [],
       "steps": [
         {
-          "text": "お皿に仕込んでおいたタケノコを盛る",
+          "text": "里芋饅頭を１個揚げる",
+          "note": false
+        },
+        {
+          "text": "揚げ時間目安：４分",
+          "note": true
+        },
+        {
+          "text": "お皿に里芋饅頭を入れる",
+          "note": false
+        },
+        {
+          "text": "おでん出汁を入れる",
+          "note": false
+        },
+        {
+          "text": "鶏油を少量入れる",
           "note": false
         },
         {
@@ -12576,19 +12366,19 @@
       "media": [
         {
           "type": "料理写真",
-          "url": "完成写真URL貼り付け"
+          "url": "https://drive.google.com/file/d/1LoFDXrGg2xwOVbcoBJzt2b3vEFCnesuH/view?usp=drivesdk"
         },
         {
           "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
+          "url": "https://drive.google.com/file/d/1P0Qv27mwvXfhy2Zuinwwu3IQVaX63K6t/view?usp=drivesdk"
         },
         {
           "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
+          "url": "https://drive.google.com/file/d/1NncrtR1_zJjWHNIubVMOccr31Cy7y3Dl/view?usp=drivesdk"
         },
         {
           "type": "動画",
-          "url": "動画URL貼り付け"
+          "url": "https://drive.google.com/file/d/1FtuyyefYyRJktD_F5GFmEXFc-Htt6RB2/view?usp=drivesdk"
         },
         {
           "type": "PDF",
@@ -12603,15 +12393,236 @@
           "url": "調理工程写真URL③貼り付け"
         }
       ],
-      "plating": [],
-      "related": [],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "呑水"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH002",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CO024",
+        "CO025",
+        "CO026",
+        "CO027"
+      ]
+    },
+    {
+      "id": "CO083",
+      "brand": "坊っちゃん",
+      "name": "タケノコカツオ節和え",
+      "furigana": "タケノコカツオブシアエ",
+      "category": "調理",
+      "time": "2分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 83,
+      "ingredients": [
+        {
+          "label": "仕込み_タケノコ味入れ",
+          "amt": "40",
+          "unit": "g",
+          "linkId": "SH043"
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "お皿に仕込んでおいたタケノコを40g盛る",
+          "note": false
+        },
+        {
+          "text": "完成",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/14TqA3qMk2J17rhUxNfyLW6ZfQjost1iD/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1ZSUgsqmye1Uazh0WexCVjtB_CmMfh6Po/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1OMFa1M0EP5IA9ZRlRMJwWje4w0TDoq3s/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1OMcmix-fDktz4M5qAB5GZfXD39APDHjk/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "珍味皿"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH043",
+          "reason": "手動"
+        }
+      ],
       "comments": [],
       "suggested": [
         "CO070",
         "CO001",
         "CO002",
+        "CO003"
+      ]
+    },
+    {
+      "id": "CO017",
+      "brand": "坊っちゃん",
+      "name": "雲仙ハム串",
+      "furigana": "ウンゼンハムクシ",
+      "category": "調理",
+      "time": "5分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 83,
+      "ingredients": [
+        {
+          "label": "仕込み_雲仙ハム",
+          "amt": "1",
+          "unit": "本",
+          "linkId": "SH053"
+        },
+        {
+          "label": "竹串",
+          "amt": "1",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "焼き鳥のたれ",
+          "amt": "10",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "赤みそだれ",
+          "amt": "10",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "仕込んでおいた雲仙ハムを必要本数グリラーに並べて乗せて焼く",
+          "note": false
+        },
+        {
+          "text": "塩の場合",
+          "note": true
+        },
+        {
+          "text": "片面約2分前後を目安に焼く",
+          "note": false
+        },
+        {
+          "text": "火加減は中火を推奨",
+          "note": false
+        },
+        {
+          "text": "焼きあがったらお皿に盛って提供",
+          "note": false
+        },
+        {
+          "text": "タレ、みその場合",
+          "note": true
+        },
+        {
+          "text": "焼き上がりまでは上記と同じ",
+          "note": false
+        },
+        {
+          "text": "焼きあがったらタレ or みそに漬ける",
+          "note": false
+        },
+        {
+          "text": "再度グリラーの上で30秒～1分ほど焼く",
+          "note": false
+        },
+        {
+          "text": "再度タレ or みそに漬ける",
+          "note": false
+        },
+        {
+          "text": "そのままお皿に乗せて提供",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1uFjGXEETG6XoPx_o_7F8kgvXoQo6AOW_/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1hvgH2mey-Li4CoHPHrMj8fpYTRz2jhAP/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1WUG2-5YrcAqyDN3uF3zWC-BeeaxqP8zG/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "柄皿"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH053",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
         "CO003",
-        "CO004"
+        "CO004",
+        "CO005",
+        "CO006"
       ]
     },
     {
