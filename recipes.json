@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T06:56:58.619Z",
+  "generatedAt": "2026-08-11T09:15:12.283Z",
   "count": 121,
   "recipes": [
     {
@@ -104,98 +104,6 @@
         "SH024",
         "SH026",
         "CO014"
-      ]
-    },
-    {
-      "id": "SH007",
-      "brand": "坊っちゃん",
-      "name": "仕込み_ぼんじり串",
-      "furigana": "シコミ_ボンジリクシ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "ぼんじり串",
-          "amt": "30",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_焼き鳥漬けダレ",
-          "amt": "850",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "串を解凍する",
-          "note": false
-        },
-        {
-          "text": "漬けダレに解凍出来た①を漬ける",
-          "note": false
-        },
-        {
-          "text": "翌日～使用可能",
-          "note": false
-        },
-        {
-          "text": "液体からはみ出してる物が無いように注意",
-          "note": true
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH013",
-        "SH015",
-        "SH016",
-        "SH006",
-        "SH011"
       ]
     },
     {
@@ -407,11 +315,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH007",
         "SH015",
         "SH016",
         "SH006",
-        "SH011"
+        "SH011",
+        "SH008"
       ]
     },
     {
@@ -659,11 +567,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH007",
         "SH013",
         "SH014",
         "SH016",
-        "SH006"
+        "SH006",
+        "SH011"
       ]
     },
     {
@@ -792,10 +700,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH007",
         "SH010",
         "SH013",
-        "SH014"
+        "SH014",
+        "SH015"
       ]
     },
     {
@@ -1009,8 +917,8 @@
       "suggested": [
         "SH027",
         "SH003",
-        "SH007",
-        "SH010"
+        "SH010",
+        "SH013"
       ]
     },
     {
@@ -1114,11 +1022,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH007",
         "SH013",
         "SH015",
         "SH001",
-        "SH006"
+        "SH006",
+        "SH011"
       ]
     },
     {
@@ -1487,9 +1395,9 @@
       ],
       "comments": [],
       "suggested": [
-        "SH007",
         "SH013",
-        "SH015"
+        "SH015",
+        "SH016"
       ]
     },
     {
@@ -1587,9 +1495,9 @@
       ],
       "comments": [],
       "suggested": [
-        "SH007",
         "SH013",
-        "SH015"
+        "SH015",
+        "SH016"
       ]
     },
     {
@@ -1932,10 +1840,10 @@
       ],
       "comments": [],
       "suggested": [
-        "SH007",
         "SH013",
         "SH015",
-        "SH016"
+        "SH016",
+        "SH006"
       ]
     },
     {
@@ -2025,10 +1933,10 @@
       ],
       "comments": [],
       "suggested": [
-        "SH007",
         "SH013",
         "SH015",
-        "SH016"
+        "SH016",
+        "SH006"
       ]
     },
     {
@@ -2126,9 +2034,106 @@
       ],
       "comments": [],
       "suggested": [
-        "SH007",
         "SH013",
-        "SH015"
+        "SH015",
+        "SH016"
+      ]
+    },
+    {
+      "id": "SH007",
+      "brand": "坊っちゃん",
+      "name": "仕込み_ぼんじり串",
+      "furigana": "シコミ_ボンジリクシ",
+      "category": "仕込み",
+      "time": "5分",
+      "yieldAmt": 30,
+      "yieldUnit": "人前",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "ぼんじり串",
+          "amt": "30",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_焼き鳥漬けダレ",
+          "amt": "850",
+          "unit": "g",
+          "linkId": "SH002"
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "漬けダレにぼんじり串を漬ける",
+          "note": false
+        },
+        {
+          "text": "ラップで蓋をしてキチンと液体に浸かる様にする",
+          "note": false
+        },
+        {
+          "text": "液体からはみ出してる物が無いように注意",
+          "note": true
+        },
+        {
+          "text": "翌日～使用可能",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1I9Qn7XK2TTo2HMG18hO3IWi0YbjglBcn/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1mBK0MkUR93wc3mqpz3RQG7Q1rrGX3moe/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH002",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH013",
+        "SH015",
+        "SH016",
+        "SH006"
       ]
     },
     {
@@ -3156,8 +3161,8 @@
         "SH035",
         "CO050",
         "SH003",
-        "SH007",
-        "SH010"
+        "SH010",
+        "SH013"
       ]
     },
     {
@@ -3248,10 +3253,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH007",
         "SH010",
         "SH013",
-        "SH014"
+        "SH014",
+        "SH015"
       ]
     },
     {
@@ -3626,10 +3631,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH007",
         "SH010",
         "SH013",
-        "SH014"
+        "SH014",
+        "SH015"
       ]
     },
     {
@@ -3720,10 +3725,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH007",
         "SH010",
         "SH013",
-        "SH014"
+        "SH014",
+        "SH015"
       ]
     },
     {
@@ -4002,8 +4007,8 @@
         "CO059",
         "CO060",
         "SH003",
-        "SH007",
-        "SH010"
+        "SH010",
+        "SH013"
       ]
     },
     {
@@ -4300,8 +4305,8 @@
         "SH005",
         "CO049",
         "SH003",
-        "SH007",
-        "SH010"
+        "SH010",
+        "SH013"
       ]
     },
     {
@@ -4618,10 +4623,10 @@
       "comments": [],
       "suggested": [
         "SH003",
-        "SH007",
         "SH010",
         "SH013",
-        "SH014"
+        "SH014",
+        "SH015"
       ]
     },
     {
@@ -4706,8 +4711,8 @@
         "SH027",
         "SH034",
         "SH003",
-        "SH007",
-        "SH010"
+        "SH010",
+        "SH013"
       ]
     },
     {
@@ -4949,8 +4954,8 @@
       "suggested": [
         "SH003",
         "SH014",
-        "SH007",
-        "SH010"
+        "SH010",
+        "SH013"
       ]
     },
     {
@@ -11330,104 +11335,6 @@
       ]
     },
     {
-      "id": "CO066",
-      "brand": "坊っちゃん",
-      "name": "鶏チャーシュー（２個）",
-      "furigana": "トリチャーシュー（２コ）",
-      "category": "調理",
-      "time": "",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "仕込み_おでん鶏チャーシュー",
-          "amt": "2",
-          "unit": "個",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_おでん出汁",
-          "amt": "適量",
-          "unit": "",
-          "linkId": ""
-        },
-        {
-          "label": "鶏油",
-          "amt": "2",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "仕込んでおいたおでん用のこんにゃくをお皿に盛る",
-          "note": false
-        },
-        {
-          "text": "おでん出汁を入れる",
-          "note": false
-        },
-        {
-          "text": "鶏油を少量入れる",
-          "note": false
-        },
-        {
-          "text": "完成",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO024",
-        "CO025",
-        "CO026",
-        "CO027",
-        "CO028"
-      ]
-    },
-    {
       "id": "CO067",
       "brand": "坊っちゃん",
       "name": "うなぎ釜飯",
@@ -12670,6 +12577,112 @@
         {
           "id": "SH002",
           "reason": "使用する仕込み（仕込み_おでん出汁）"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CO024",
+        "CO025",
+        "CO026"
+      ]
+    },
+    {
+      "id": "CO066",
+      "brand": "坊っちゃん",
+      "name": "鶏チャーシュー（２個）",
+      "furigana": "トリチャーシュー（２コ）",
+      "category": "調理",
+      "time": "3分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 83,
+      "ingredients": [
+        {
+          "label": "仕込み_おでん鶏チャーシュー",
+          "amt": "2",
+          "unit": "個",
+          "linkId": "SH039"
+        },
+        {
+          "label": "仕込み_おでん出汁",
+          "amt": "適量",
+          "unit": "",
+          "linkId": "SH002"
+        },
+        {
+          "label": "鶏油",
+          "amt": "2",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "仕込んでおいた鶏チャーシューを2個お皿に盛る",
+          "note": false
+        },
+        {
+          "text": "おでん出汁を入れる",
+          "note": false
+        },
+        {
+          "text": "鶏油を少量入れる",
+          "note": false
+        },
+        {
+          "text": "完成",
+          "note": false
+        },
+        {
+          "text": "おでんウォーマーに入れていると煮崩れるなら仕込んだチャーシューの保管は出汁に漬けて冷蔵庫でもいいです。\nその場合はオーダーが通れば出汁と一緒にレンジにかけるか、お鍋で温めて提供してください",
+          "note": true
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1Y0ycTXmKqSrcomsC7EzD8_04rOiOZku7/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1P0Qv27mwvXfhy2Zuinwwu3IQVaX63K6t/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1Hk45FVUmFUL-B55MTzyeT7nGN7OSgCa3/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "呑水"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH039",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "手動"
         }
       ],
       "comments": [],
