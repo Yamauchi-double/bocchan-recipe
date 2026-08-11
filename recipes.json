@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T09:15:12.283Z",
-  "count": 121,
+  "generatedAt": "2026-08-11T09:20:48.556Z",
+  "count": 122,
   "recipes": [
     {
       "id": "SH003",
@@ -12796,6 +12796,96 @@
         "CO014",
         "SH003"
       ]
+    },
+    {
+      "id": "CU001",
+      "brand": "坊っちゃん",
+      "name": "切り物_出汁巻き玉子",
+      "furigana": "キリモノ_ダシマキタマゴ",
+      "category": "切り物",
+      "time": "5分",
+      "yieldAmt": 12,
+      "yieldUnit": "個",
+      "appOrder": 101,
+      "ingredients": [
+        {
+          "label": "出汁巻き玉子",
+          "amt": "1",
+          "unit": "PC",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "パックを開けて出汁巻き玉子を取り出す",
+          "note": false
+        },
+        {
+          "text": "取り出すときに型崩れしないように注意",
+          "note": true
+        },
+        {
+          "text": "半分に切る",
+          "note": false
+        },
+        {
+          "text": "半分に切ったものを6等分する",
+          "note": false
+        },
+        {
+          "text": "12個になればOK",
+          "note": true
+        },
+        {
+          "text": "容器に移して保管",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1_usDeila-9Lzf0VW45DrWHopfDTtUc1b/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1jxhqZNf3j5zZ2Q7Qs0QZiZqxjXQhucS-/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/17duw-lD1mEQ1BVNGj3-qdYrzCxMC3FDq/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/19XO8eXrnrYdg61Ti5E36y7FOWAuxH4zP/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1pssaMC1LiZxPqSv9Ti2Ka95lf8zOxSoX/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO074",
+          "reason": "手動"
+        },
+        {
+          "id": "CO039",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": []
     }
   ]
 }
