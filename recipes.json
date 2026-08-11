@@ -1,7 +1,284 @@
 {
-  "generatedAt": "2026-08-11T10:06:01.315Z",
+  "generatedAt": "2026-08-11T10:15:40.149Z",
   "count": 122,
   "recipes": [
+    {
+      "id": "SH001",
+      "brand": "坊っちゃん",
+      "name": "仕込み_麻辣タン",
+      "furigana": "シコミ_マーラータン",
+      "category": "仕込み",
+      "time": "1時間半",
+      "yieldAmt": 10,
+      "yieldUnit": "人前前後",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "ムキタン",
+          "amt": "1",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "水",
+          "amt": "3000",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_おでん出汁",
+          "amt": "1400",
+          "unit": "g",
+          "linkId": "SH002"
+        },
+        {
+          "label": "焼き鳥のたれ",
+          "amt": "30",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "麻辣だれ",
+          "amt": "70",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "解凍したムキタンのタン中～タン先とタン下を用意する",
+          "note": false
+        },
+        {
+          "text": "それぞれ裏表に切り込みを入れて、1/3~1/4ほどにカットする",
+          "note": false
+        },
+        {
+          "text": "大き目の鍋にたっぷりと水を入れて①でカットしたタンを全て入れる",
+          "note": false
+        },
+        {
+          "text": "レシピの分量に書いている水3,000gは②でタンを茹でる様の分です",
+          "note": true
+        },
+        {
+          "text": "火にかけてしばらく放置",
+          "note": false
+        },
+        {
+          "text": "沸きそうになれば水を捨ててタンを軽く洗います",
+          "note": false
+        },
+        {
+          "text": "アクと血抜きの為の工程です",
+          "note": true
+        },
+        {
+          "text": "洗ったタンを圧力鍋に入れて調味料を入れます。",
+          "note": false
+        },
+        {
+          "text": "【仕込んだおでん出汁：1,400g】【麻辣調味料：70g】【焼き鳥のたれ：30g】全て入れる",
+          "note": false
+        },
+        {
+          "text": "鍋の中の最大水位の表示を越えなければ2本分で圧力鍋にかけてもいいです。",
+          "note": true
+        },
+        {
+          "text": "蓋に【パッキン】【圧力ピン】【圧力ピンのパッキン】【おもり】の4つ全てついてることを確認したら蓋をします。",
+          "note": false
+        },
+        {
+          "text": "圧力鍋の調理設定【手動メニュー】→【圧力調理】→【30分】→【スタート】約1時間半で炊きあがり",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵4日\n保存推奨容器：2,440mlタッパ",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1oZnbeppoSw0F1yfZzzSAoWQa6Jcg4XLO/view?usp=sharing"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1UbN6c7Tfue68IumDumIG58s1mZrs3Jc_/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/152B1DTZpwEJBB5dT8XaGdLpdVm2Tf_fJ/view?usp=sharing"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1HuzeaiHWNrrVWfA2EYuP1Reae6yWyciI/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1eFsc37HUf5YlxkTJMsGuEi4jXSeWs2PD/view?usp=sharing"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1Y7OfNme0zLG7reYwapvosJ7eEzgj9Iul/view?usp=sharing"
+        }
+      ],
+      "plating": [],
+      "related": [
+        {
+          "id": "CO001",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "使用する仕込み（仕込み_おでん出汁）"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH032",
+        "SH005",
+        "SH010"
+      ]
+    },
+    {
+      "id": "SH002",
+      "brand": "坊っちゃん",
+      "name": "仕込み_おでん出汁",
+      "furigana": "シコミ_オデンダシ",
+      "category": "仕込み",
+      "time": "1分",
+      "yieldAmt": 7000,
+      "yieldUnit": "",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "水",
+          "amt": "6000",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "おでん出汁",
+          "amt": "1000",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "上記食材を混ぜ合わせて保存",
+          "note": false
+        },
+        {
+          "text": "保存期間：ウォーマー内：当日廃棄、冷蔵保存：４日",
+          "note": false
+        },
+        {
+          "text": "保存推奨容器：19.5cmポット",
+          "note": false
+        },
+        {
+          "text": "おでん出汁の発注は中1日かかり、使用する商品が多いのでストックとして1ケース（8本）以上在庫があるようにして置く。\n土日祝の発送が出来ないので週末や連休の発注は注意する",
+          "note": true
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1_T54q10ukVtRcT_cldD0K6nD5v6spd1T/view?usp=drive_link"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1Qld9fw9RZY8GCpH6ajKB4s5bL5Q96i-i/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1CkZeHF98lz9dQHs7SI3YelcFR46fCKTy/view?usp=drive_link"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1ELd-vj77Rnj_lamZiDI3an8WAsDySk3y/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1k83UfraLhnt-4vDJn5XgF9a8kXnyYCPx/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1MaQrsrrNl2oPu7qwOgPtJ5jmO4n7kuAp/view?usp=drive_link"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "キッチンポット：19.5cm"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH019",
+          "reason": "手動"
+        },
+        {
+          "id": "SH020",
+          "reason": "手動"
+        },
+        {
+          "id": "SH044",
+          "reason": "手動"
+        },
+        {
+          "id": "SH045",
+          "reason": "手動"
+        },
+        {
+          "id": "SH046",
+          "reason": "手動"
+        },
+        {
+          "id": "SH047",
+          "reason": "手動"
+        },
+        {
+          "id": "SH048",
+          "reason": "手動"
+        },
+        {
+          "id": "SH049",
+          "reason": "手動"
+        },
+        {
+          "id": "SH050",
+          "reason": "手動"
+        },
+        {
+          "id": "SH051",
+          "reason": "手動"
+        },
+        {
+          "id": "SH052",
+          "reason": "手動"
+        },
+        {
+          "id": "SH039",
+          "reason": "手動"
+        },
+        {
+          "id": "SH038",
+          "reason": "手動"
+        },
+        {
+          "id": "SH005",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": []
+    },
     {
       "id": "SH003",
       "brand": "坊っちゃん",
@@ -104,6 +381,645 @@
         "SH024",
         "SH026",
         "CO014"
+      ]
+    },
+    {
+      "id": "SH004",
+      "brand": "坊っちゃん",
+      "name": "仕込み_ピリ辛メンマ",
+      "furigana": "シコミ_ピリカラメンマ",
+      "category": "仕込み",
+      "time": "3分",
+      "yieldAmt": 610,
+      "yieldUnit": "g",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "メンマ",
+          "amt": "500",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "食べるラー油",
+          "amt": "90",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "ごま油",
+          "amt": "20",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "各種計量する",
+          "note": false
+        },
+        {
+          "text": "清潔なボウルに計量した食材を入れていく",
+          "note": false
+        },
+        {
+          "text": "全て入れたら混ぜムラの無いようにしっかりと混ぜる",
+          "note": false
+        },
+        {
+          "text": "混ぜ終わったらタッパなどの容器に移し冷蔵保存",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵7日",
+          "note": false
+        },
+        {
+          "text": "保存推奨容器：2,440mlタッパ",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "完成写真URL貼り付けhttps://drive.google.com/file/d/15YXqEff1QH925C_0_fydx1X9V2xTxPly/view?usp=sharing"
+        },
+        {
+          "type": "お皿写真",
+          "url": "お皿写真URL貼り付けhttps://drive.google.com/file/d/1jKHyTvY-pVCiUPe6P2_BXiAR8SWlrns1/view?usp=sharing"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URLhttps://drive.google.com/file/d/1i6S0GLWXo-kyl-UAimXxUCuNhFyo6a70/view?usp=drive_link①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "動画URL貼り付けhttps://drive.google.com/file/d/1lIqfMkC2O2hhL28r84hIdNw6IX6svTkn/view?usp=drive_link"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付けhttps://drive.google.com/file/d/1rbN38jhUwuFXoIJjDtv5SaIVWTFuW3un/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼https://drive.google.com/file/d/1uYQJpZO2Q3GOnvpHNpW5PTWEUnJlh00y/view?usp=drive_linkり付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1ElYM_ifAkNdTR4pVJbU1w8G0EBEdyx9Y/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1DkXkdorLRtv-ZYeoyGhjKuCEM6V3TBa5/view?usp=drive_link"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "ハイパック：S-31/2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO042",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH027",
+        "SH001",
+        "SH002",
+        "SH003"
+      ]
+    },
+    {
+      "id": "SH005",
+      "brand": "坊っちゃん",
+      "name": "仕込み_焼き鳥漬けダレ",
+      "furigana": "シコミ_ヤキトリツケダレ",
+      "category": "仕込み",
+      "time": "3分",
+      "yieldAmt": 850,
+      "yieldUnit": "g",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "水",
+          "amt": "600",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "おでん出汁",
+          "amt": "100",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "塩だれ",
+          "amt": "150",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "上記を混ぜ合わせる",
+          "note": false
+        },
+        {
+          "text": "解凍した焼き鳥各種を30本単位で①に漬け込む",
+          "note": false
+        },
+        {
+          "text": "違う種類の焼き鳥も混在OK",
+          "note": true
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        },
+        {
+          "text": "保存推奨容器：19.5cmポット",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1imfD79lkLBoNuM_zv_ZTv2DJKbq4FU88/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1buq7f8_oFFA5M7KwE2pe4PVq0t_TRuqa/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1GIzcECck9a6AAzwU3OVWRNdziad0X-T6/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1NWY4I8SyttyNFd5dlQW8rMvZ3o6Bi3vu/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1JJJNCdSI6pRPv9RQcQ_xk9gBIk9EsygL/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1ETr57030p1_YYp-JfCCGtrQ-2sTuYwIy/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：3,700ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH006",
+          "reason": "手動"
+        },
+        {
+          "id": "SH007",
+          "reason": "手動"
+        },
+        {
+          "id": "SH008",
+          "reason": "手動"
+        },
+        {
+          "id": "SH009",
+          "reason": "手動"
+        },
+        {
+          "id": "SH011",
+          "reason": "手動"
+        },
+        {
+          "id": "SH012",
+          "reason": "手動"
+        },
+        {
+          "id": "SH013",
+          "reason": "手動"
+        },
+        {
+          "id": "SH015",
+          "reason": "手動"
+        },
+        {
+          "id": "SH016",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": []
+    },
+    {
+      "id": "SH006",
+      "brand": "坊っちゃん",
+      "name": "仕込み_もも串",
+      "furigana": "シコミ_モモクシ",
+      "category": "仕込み",
+      "time": "5分",
+      "yieldAmt": 20,
+      "yieldUnit": "本",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "もも串",
+          "amt": "20",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_焼き鳥漬けダレ",
+          "amt": "850",
+          "unit": "g",
+          "linkId": "SH002"
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "漬けダレにもも串を漬ける",
+          "note": false
+        },
+        {
+          "text": "ラップで蓋をしてキチンと液体に浸かる様にする",
+          "note": false
+        },
+        {
+          "text": "液体からはみ出してる物が無いように注意",
+          "note": true
+        },
+        {
+          "text": "翌日～使用可能",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1lvee2jENiwcPVZjA2Mr9WIswmE-HlpCv/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1O3UfTybtnE6W4xWHcvp9s1QVKSSMDNDn/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO003",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "使用する仕込み（仕込み_焼き鳥漬けダレ）"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH007",
+        "SH008",
+        "SH009"
+      ]
+    },
+    {
+      "id": "SH007",
+      "brand": "坊っちゃん",
+      "name": "仕込み_ぼんじり串",
+      "furigana": "シコミ_ボンジリクシ",
+      "category": "仕込み",
+      "time": "5分",
+      "yieldAmt": 30,
+      "yieldUnit": "人前",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "ぼんじり串",
+          "amt": "30",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_焼き鳥漬けダレ",
+          "amt": "850",
+          "unit": "g",
+          "linkId": "SH002"
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "漬けダレにぼんじり串を漬ける",
+          "note": false
+        },
+        {
+          "text": "ラップで蓋をしてキチンと液体に浸かる様にする",
+          "note": false
+        },
+        {
+          "text": "液体からはみ出してる物が無いように注意",
+          "note": true
+        },
+        {
+          "text": "翌日～使用可能",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1I9Qn7XK2TTo2HMG18hO3IWi0YbjglBcn/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1mBK0MkUR93wc3mqpz3RQG7Q1rrGX3moe/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH002",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH006",
+        "SH008",
+        "SH009",
+        "SH011"
+      ]
+    },
+    {
+      "id": "SH008",
+      "brand": "坊っちゃん",
+      "name": "仕込み_ハラミ串",
+      "furigana": "シコミ_ハラミクシ",
+      "category": "仕込み",
+      "time": "5分",
+      "yieldAmt": 30,
+      "yieldUnit": "人前",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "ハラミ串",
+          "amt": "30",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_焼き鳥漬けダレ",
+          "amt": "850",
+          "unit": "g",
+          "linkId": "SH005"
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "漬けダレにハラミ串を漬ける",
+          "note": false
+        },
+        {
+          "text": "ラップで蓋をしてキチンと液体に浸かる様にする",
+          "note": false
+        },
+        {
+          "text": "液体からはみ出してる物が無いように注意",
+          "note": true
+        },
+        {
+          "text": "翌日～使用可能",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1UWnKFsejc_FsTvzEUHvgkw79i4npifdG/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1yFwv00xkKhKc-WdfJ3x4eBX8SqqUG859/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH005",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH006",
+        "SH007",
+        "SH009",
+        "SH011"
+      ]
+    },
+    {
+      "id": "SH009",
+      "brand": "坊っちゃん",
+      "name": "仕込み_砂肝串",
+      "furigana": "シコミ_スナギモクシ",
+      "category": "仕込み",
+      "time": "5分",
+      "yieldAmt": 30,
+      "yieldUnit": "人前",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "砂肝串",
+          "amt": "30",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_焼き鳥漬けダレ",
+          "amt": "850",
+          "unit": "g",
+          "linkId": "SH009"
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "漬けダレに砂肝串を漬ける",
+          "note": false
+        },
+        {
+          "text": "ラップで蓋をしてキチンと液体に浸かる様にする",
+          "note": false
+        },
+        {
+          "text": "液体からはみ出してる物が無いように注意",
+          "note": true
+        },
+        {
+          "text": "翌日～使用可能",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1aqipcHbcELIi1W3xZRruNzDxCOBy0xUO/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1oyLAWyYAWyMCkRdZBSmnLhmFKmmdbMWA/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH005",
+          "reason": "手動"
+        },
+        {
+          "id": "SH009",
+          "reason": "使用する仕込み（仕込み_焼き鳥漬けダレ）"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH006",
+        "SH007",
+        "SH008"
       ]
     },
     {
@@ -212,10 +1128,203 @@
       "comments": [],
       "suggested": [
         "SH001",
-        "SH005",
         "SH002",
-        "SH034",
-        "SH037"
+        "SH005",
+        "SH021",
+        "SH032"
+      ]
+    },
+    {
+      "id": "SH011",
+      "brand": "坊っちゃん",
+      "name": "仕込み_ココロ串",
+      "furigana": "シコミ_ココロクシ",
+      "category": "仕込み",
+      "time": "1時間半",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "ココロ串",
+          "amt": "20",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_焼き鳥漬けダレ",
+          "amt": "850",
+          "unit": "g",
+          "linkId": "SH002"
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "漬けダレにココロ串を漬ける",
+          "note": false
+        },
+        {
+          "text": "ラップで蓋をして全て浸かる様にする",
+          "note": false
+        },
+        {
+          "text": "液体からはみ出してる物が無いように注意",
+          "note": true
+        },
+        {
+          "text": "翌日～使用可能",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1xtesM8UfAs6OUCVRpOVdYcAAhWoAefcl/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1m1w7MeIFdqjG9WAvmckaqdIPVb9Ekn6F/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO009",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "使用する仕込み（仕込み_焼き鳥漬けダレ）"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH006",
+        "SH007",
+        "SH008"
+      ]
+    },
+    {
+      "id": "SH012",
+      "brand": "坊っちゃん",
+      "name": "仕込み_ヤゲン軟骨串",
+      "furigana": "シコミ_ヤゲンナンコツクシ",
+      "category": "仕込み",
+      "time": "5分",
+      "yieldAmt": 30,
+      "yieldUnit": "人前",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "ヤゲン軟骨串",
+          "amt": "30",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_焼き鳥漬けダレ",
+          "amt": "850",
+          "unit": "g",
+          "linkId": "SH005"
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "漬けダレにヤゲン軟骨串を漬ける",
+          "note": false
+        },
+        {
+          "text": "ラップで蓋をしてキチンと液体に浸かる様にする",
+          "note": false
+        },
+        {
+          "text": "翌日～使用可能",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1hdHpegZ2qCKVoYRt8HrqSxbLzR7J1JiK/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1vIkS85TexTIcBDuSWOz2UWJOfmv5AJnh/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH005",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH006",
+        "SH007",
+        "SH008",
+        "SH009"
       ]
     },
     {
@@ -315,11 +1424,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH015",
-        "SH016",
         "SH006",
-        "SH011",
-        "SH008"
+        "SH007",
+        "SH008",
+        "SH009",
+        "SH011"
       ]
     },
     {
@@ -567,11 +1676,119 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH013",
-        "SH014",
-        "SH016",
         "SH006",
+        "SH007",
+        "SH008",
+        "SH009",
         "SH011"
+      ]
+    },
+    {
+      "id": "SH016",
+      "brand": "坊っちゃん",
+      "name": "仕込み_牛タンレア串",
+      "furigana": "シコミ_ギュウタンレアクシ",
+      "category": "仕込み",
+      "time": "1時間半",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "ムキタン",
+          "amt": "1",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_焼き鳥漬けダレ",
+          "amt": "850",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "ムキタンを前日に冷蔵解凍しておく",
+          "note": false
+        },
+        {
+          "text": "パックを開けて牛タンを取り出し、綺麗なダスターで軽く表面の水分と血をふき取る",
+          "note": false
+        },
+        {
+          "text": "タン下と切り分ける為に境目をハッキリとさせる",
+          "note": false
+        },
+        {
+          "text": "タン下を切り落とす",
+          "note": false
+        },
+        {
+          "text": "タンを軽く押さえながらタン元からタン先へ指を進めると軽く凹むところがあるのでそこで切り落とす",
+          "note": false
+        },
+        {
+          "text": "縦に半分に切る",
+          "note": false
+        },
+        {
+          "text": "半分にカットしたタンを計り45g～50g/個になる様にカットして上から軽く押し潰す",
+          "note": false
+        },
+        {
+          "text": "筋繊維を潰し柔らかくするためと、厚さをなるべく均一にして焼く際の時間の誤差を小さくする為",
+          "note": true
+        },
+        {
+          "text": "全て同じようにカットとタンを潰す作業をする。",
+          "note": false
+        },
+        {
+          "text": "ムキタンの大きさによりますが、目安として6～12個/本。",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵４日\n保存推奨容器：１３．５cmポット",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1ycSYcmg20XShQc_eiE-5OHMkzp-jpTfQ/view?usp=sharing"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1jKHyTvY-pVCiUPe6P2_BXiAR8SWlrns1/view?usp=drive_link"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1oQ6iH0M-RI_9b_-o61NmcJ1oVvPL4Qhg/view?usp=sharing"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/14p-yaDvRvEEAKb-EQd_cyK_LW0C_mNNC/view?usp=drive_link"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1bfxRClRNRxBJJEdM-UPNzvsY5D23vVEp/view?usp=sharing"
+        }
+      ],
+      "plating": [],
+      "related": [],
+      "comments": [],
+      "suggested": [
+        "SH001",
+        "SH006",
+        "SH007",
+        "SH008",
+        "SH009"
       ]
     },
     {
@@ -699,942 +1916,12 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH003",
-        "SH010",
-        "SH013",
-        "SH014",
-        "SH015"
-      ]
-    },
-    {
-      "id": "SH020",
-      "brand": "坊っちゃん",
-      "name": "仕込み_おでんこんにゃく",
-      "furigana": "シコミ_オデンコンニャク",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "おでんこんにゃく",
-          "amt": "40",
-          "unit": "個",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_おでん出汁",
-          "amt": "1000",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "おでん出汁を用意する",
-          "note": false
-        },
-        {
-          "text": "②の中に①を入れる",
-          "note": false
-        },
-        {
-          "text": "火にかける",
-          "note": false
-        },
-        {
-          "text": "沸いたら中～弱火でコトコト炊く",
-          "note": false
-        },
-        {
-          "text": "沸いてから３０分経過したら火を止めて放置",
-          "note": false
-        },
-        {
-          "text": "粗熱が取れたら容器に入れて保存",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：13cmポット",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
         "SH001",
-        "SH019",
-        "SH044",
-        "SH045",
-        "SH046"
-      ]
-    },
-    {
-      "id": "SH004",
-      "brand": "坊っちゃん",
-      "name": "仕込み_ピリ辛メンマ",
-      "furigana": "シコミ_ピリカラメンマ",
-      "category": "仕込み",
-      "time": "3分",
-      "yieldAmt": 610,
-      "yieldUnit": "g",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "メンマ",
-          "amt": "500",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "食べるラー油",
-          "amt": "90",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "ごま油",
-          "amt": "20",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "各種計量する",
-          "note": false
-        },
-        {
-          "text": "清潔なボウルに計量した食材を入れていく",
-          "note": false
-        },
-        {
-          "text": "全て入れたら混ぜムラの無いようにしっかりと混ぜる",
-          "note": false
-        },
-        {
-          "text": "混ぜ終わったらタッパなどの容器に移し冷蔵保存",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵7日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付けhttps://drive.google.com/file/d/15YXqEff1QH925C_0_fydx1X9V2xTxPly/view?usp=sharing"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付けhttps://drive.google.com/file/d/1jKHyTvY-pVCiUPe6P2_BXiAR8SWlrns1/view?usp=sharing"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URLhttps://drive.google.com/file/d/1i6S0GLWXo-kyl-UAimXxUCuNhFyo6a70/view?usp=drive_link①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付けhttps://drive.google.com/file/d/1lIqfMkC2O2hhL28r84hIdNw6IX6svTkn/view?usp=drive_link"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付けhttps://drive.google.com/file/d/1rbN38jhUwuFXoIJjDtv5SaIVWTFuW3un/view?usp=drive_link"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼https://drive.google.com/file/d/1uYQJpZO2Q3GOnvpHNpW5PTWEUnJlh00y/view?usp=drive_linkり付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1ElYM_ifAkNdTR4pVJbU1w8G0EBEdyx9Y/view?usp=drive_link"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1DkXkdorLRtv-ZYeoyGhjKuCEM6V3TBa5/view?usp=drive_link"
-        }
-      ],
-      "plating": [
-        {
-          "item": "ソース容器",
-          "content": "ハイパック：S-31/2,440ml"
-        }
-      ],
-      "related": [
-        {
-          "id": "CO042",
-          "reason": "手動"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "SH027",
+        "SH002",
         "SH003",
-        "SH010",
-        "SH013"
+        "SH004",
+        "SH005"
       ]
-    },
-    {
-      "id": "SH016",
-      "brand": "坊っちゃん",
-      "name": "仕込み_牛タンレア串",
-      "furigana": "シコミ_ギュウタンレアクシ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "ムキタン",
-          "amt": "1",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_焼き鳥漬けダレ",
-          "amt": "850",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "ムキタンを前日に冷蔵解凍しておく",
-          "note": false
-        },
-        {
-          "text": "パックを開けて牛タンを取り出し、綺麗なダスターで軽く表面の水分と血をふき取る",
-          "note": false
-        },
-        {
-          "text": "タン下と切り分ける為に境目をハッキリとさせる",
-          "note": false
-        },
-        {
-          "text": "タン下を切り落とす",
-          "note": false
-        },
-        {
-          "text": "タンを軽く押さえながらタン元からタン先へ指を進めると軽く凹むところがあるのでそこで切り落とす",
-          "note": false
-        },
-        {
-          "text": "縦に半分に切る",
-          "note": false
-        },
-        {
-          "text": "半分にカットしたタンを計り45g～50g/個になる様にカットして上から軽く押し潰す",
-          "note": false
-        },
-        {
-          "text": "筋繊維を潰し柔らかくするためと、厚さをなるべく均一にして焼く際の時間の誤差を小さくする為",
-          "note": true
-        },
-        {
-          "text": "全て同じようにカットとタンを潰す作業をする。",
-          "note": false
-        },
-        {
-          "text": "ムキタンの大きさによりますが、目安として6～12個/本。",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵４日\n保存推奨容器：１３．５cmポット",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1ycSYcmg20XShQc_eiE-5OHMkzp-jpTfQ/view?usp=sharing"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1jKHyTvY-pVCiUPe6P2_BXiAR8SWlrns1/view?usp=drive_link"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1oQ6iH0M-RI_9b_-o61NmcJ1oVvPL4Qhg/view?usp=sharing"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/14p-yaDvRvEEAKb-EQd_cyK_LW0C_mNNC/view?usp=drive_link"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1bfxRClRNRxBJJEdM-UPNzvsY5D23vVEp/view?usp=sharing"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH013",
-        "SH015",
-        "SH001",
-        "SH006",
-        "SH011"
-      ]
-    },
-    {
-      "id": "SH001",
-      "brand": "坊っちゃん",
-      "name": "仕込み_麻辣タン",
-      "furigana": "シコミ_マーラータン",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": 10,
-      "yieldUnit": "人前前後",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "ムキタン",
-          "amt": "1",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "水",
-          "amt": "3000",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_おでん出汁",
-          "amt": "1400",
-          "unit": "g",
-          "linkId": "SH002"
-        },
-        {
-          "label": "焼き鳥のたれ",
-          "amt": "30",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "麻辣だれ",
-          "amt": "70",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "解凍したムキタンのタン中～タン先とタン下を用意する",
-          "note": false
-        },
-        {
-          "text": "それぞれ裏表に切り込みを入れて、1/3~1/4ほどにカットする",
-          "note": false
-        },
-        {
-          "text": "大き目の鍋にたっぷりと水を入れて①でカットしたタンを全て入れる",
-          "note": false
-        },
-        {
-          "text": "レシピの分量に書いている水3,000gは②でタンを茹でる様の分です",
-          "note": true
-        },
-        {
-          "text": "火にかけてしばらく放置",
-          "note": false
-        },
-        {
-          "text": "沸きそうになれば水を捨ててタンを軽く洗います",
-          "note": false
-        },
-        {
-          "text": "アクと血抜きの為の工程です",
-          "note": true
-        },
-        {
-          "text": "洗ったタンを圧力鍋に入れて調味料を入れます。",
-          "note": false
-        },
-        {
-          "text": "【仕込んだおでん出汁：1,400g】【麻辣調味料：70g】【焼き鳥のたれ：30g】全て入れる",
-          "note": false
-        },
-        {
-          "text": "鍋の中の最大水位の表示を越えなければ2本分で圧力鍋にかけてもいいです。",
-          "note": true
-        },
-        {
-          "text": "蓋に【パッキン】【圧力ピン】【圧力ピンのパッキン】【おもり】の4つ全てついてることを確認したら蓋をします。",
-          "note": false
-        },
-        {
-          "text": "圧力鍋の調理設定【手動メニュー】→【圧力調理】→【30分】→【スタート】約1時間半で炊きあがり",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日\n保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1oZnbeppoSw0F1yfZzzSAoWQa6Jcg4XLO/view?usp=sharing"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1UbN6c7Tfue68IumDumIG58s1mZrs3Jc_/view?usp=drive_link"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/152B1DTZpwEJBB5dT8XaGdLpdVm2Tf_fJ/view?usp=sharing"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1HuzeaiHWNrrVWfA2EYuP1Reae6yWyciI/view?usp=drive_link"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1eFsc37HUf5YlxkTJMsGuEi4jXSeWs2PD/view?usp=sharing"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1Y7OfNme0zLG7reYwapvosJ7eEzgj9Iul/view?usp=sharing"
-        }
-      ],
-      "plating": [],
-      "related": [
-        {
-          "id": "CO001",
-          "reason": "手動"
-        },
-        {
-          "id": "SH002",
-          "reason": "使用する仕込み（仕込み_おでん出汁）"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "SH032",
-        "SH010",
-        "SH020"
-      ]
-    },
-    {
-      "id": "SH005",
-      "brand": "坊っちゃん",
-      "name": "仕込み_焼き鳥漬けダレ",
-      "furigana": "シコミ_ヤキトリツケダレ",
-      "category": "仕込み",
-      "time": "3分",
-      "yieldAmt": 850,
-      "yieldUnit": "g",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "水",
-          "amt": "600",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "おでん出汁",
-          "amt": "100",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "塩だれ",
-          "amt": "150",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "上記を混ぜ合わせる",
-          "note": false
-        },
-        {
-          "text": "解凍した焼き鳥各種を30本単位で①に漬け込む",
-          "note": false
-        },
-        {
-          "text": "違う種類の焼き鳥も混在OK",
-          "note": true
-        },
-        {
-          "text": "保存期間：冷蔵3日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：19.5cmポット",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1imfD79lkLBoNuM_zv_ZTv2DJKbq4FU88/view?usp=drivesdk"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1buq7f8_oFFA5M7KwE2pe4PVq0t_TRuqa/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1GIzcECck9a6AAzwU3OVWRNdziad0X-T6/view?usp=drivesdk"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1NWY4I8SyttyNFd5dlQW8rMvZ3o6Bi3vu/view?usp=drivesdk"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1JJJNCdSI6pRPv9RQcQ_xk9gBIk9EsygL/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1ETr57030p1_YYp-JfCCGtrQ-2sTuYwIy/view?usp=drivesdk"
-        }
-      ],
-      "plating": [
-        {
-          "item": "ソース容器",
-          "content": "タッパ：3,700ml"
-        }
-      ],
-      "related": [
-        {
-          "id": "SH006",
-          "reason": "手動"
-        },
-        {
-          "id": "SH007",
-          "reason": "手動"
-        },
-        {
-          "id": "SH008",
-          "reason": "手動"
-        },
-        {
-          "id": "SH009",
-          "reason": "手動"
-        },
-        {
-          "id": "SH011",
-          "reason": "手動"
-        },
-        {
-          "id": "SH012",
-          "reason": "手動"
-        },
-        {
-          "id": "SH013",
-          "reason": "手動"
-        },
-        {
-          "id": "SH015",
-          "reason": "手動"
-        },
-        {
-          "id": "SH016",
-          "reason": "手動"
-        }
-      ],
-      "comments": [],
-      "suggested": []
-    },
-    {
-      "id": "SH006",
-      "brand": "坊っちゃん",
-      "name": "仕込み_もも串",
-      "furigana": "シコミ_モモクシ",
-      "category": "仕込み",
-      "time": "5分",
-      "yieldAmt": 20,
-      "yieldUnit": "本",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "もも串",
-          "amt": "20",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_焼き鳥漬けダレ",
-          "amt": "850",
-          "unit": "g",
-          "linkId": "SH002"
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "漬けダレにもも串を漬ける",
-          "note": false
-        },
-        {
-          "text": "ラップで蓋をしてキチンと液体に浸かる様にする",
-          "note": false
-        },
-        {
-          "text": "液体からはみ出してる物が無いように注意",
-          "note": true
-        },
-        {
-          "text": "翌日～使用可能",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵3日",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1lvee2jENiwcPVZjA2Mr9WIswmE-HlpCv/view?usp=drivesdk"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1O3UfTybtnE6W4xWHcvp9s1QVKSSMDNDn/view?usp=drivesdk"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [
-        {
-          "item": "ソース容器",
-          "content": "タッパ：2,440ml"
-        }
-      ],
-      "related": [
-        {
-          "id": "CO003",
-          "reason": "手動"
-        },
-        {
-          "id": "SH002",
-          "reason": "使用する仕込み（仕込み_焼き鳥漬けダレ）"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "SH013",
-        "SH015",
-        "SH016"
-      ]
-    },
-    {
-      "id": "SH011",
-      "brand": "坊っちゃん",
-      "name": "仕込み_ココロ串",
-      "furigana": "シコミ_ココロクシ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "ココロ串",
-          "amt": "20",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_焼き鳥漬けダレ",
-          "amt": "850",
-          "unit": "g",
-          "linkId": "SH002"
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "漬けダレにココロ串を漬ける",
-          "note": false
-        },
-        {
-          "text": "ラップで蓋をして全て浸かる様にする",
-          "note": false
-        },
-        {
-          "text": "液体からはみ出してる物が無いように注意",
-          "note": true
-        },
-        {
-          "text": "翌日～使用可能",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵3日",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1xtesM8UfAs6OUCVRpOVdYcAAhWoAefcl/view?usp=drivesdk"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1m1w7MeIFdqjG9WAvmckaqdIPVb9Ekn6F/view?usp=drivesdk"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [
-        {
-          "item": "ソース容器",
-          "content": "タッパ：2,440ml"
-        }
-      ],
-      "related": [
-        {
-          "id": "CO009",
-          "reason": "手動"
-        },
-        {
-          "id": "SH002",
-          "reason": "使用する仕込み（仕込み_焼き鳥漬けダレ）"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "SH013",
-        "SH015",
-        "SH016"
-      ]
-    },
-    {
-      "id": "SH002",
-      "brand": "坊っちゃん",
-      "name": "仕込み_おでん出汁",
-      "furigana": "シコミ_オデンダシ",
-      "category": "仕込み",
-      "time": "1分",
-      "yieldAmt": 7000,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "水",
-          "amt": "6000",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "おでん出汁",
-          "amt": "1000",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "上記食材を混ぜ合わせて保存",
-          "note": false
-        },
-        {
-          "text": "保存期間：ウォーマー内：当日廃棄、冷蔵保存：４日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：19.5cmポット",
-          "note": false
-        },
-        {
-          "text": "おでん出汁の発注は中1日かかり、使用する商品が多いのでストックとして1ケース（8本）以上在庫があるようにして置く。\n土日祝の発送が出来ないので週末や連休の発注は注意する",
-          "note": true
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1_T54q10ukVtRcT_cldD0K6nD5v6spd1T/view?usp=drive_link"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1Qld9fw9RZY8GCpH6ajKB4s5bL5Q96i-i/view?usp=drive_link"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1CkZeHF98lz9dQHs7SI3YelcFR46fCKTy/view?usp=drive_link"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1ELd-vj77Rnj_lamZiDI3an8WAsDySk3y/view?usp=drive_link"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1k83UfraLhnt-4vDJn5XgF9a8kXnyYCPx/view?usp=drive_link"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1MaQrsrrNl2oPu7qwOgPtJ5jmO4n7kuAp/view?usp=drive_link"
-        }
-      ],
-      "plating": [
-        {
-          "item": "ソース容器",
-          "content": "キッチンポット：19.5cm"
-        }
-      ],
-      "related": [
-        {
-          "id": "SH019",
-          "reason": "手動"
-        },
-        {
-          "id": "SH020",
-          "reason": "手動"
-        },
-        {
-          "id": "SH044",
-          "reason": "手動"
-        },
-        {
-          "id": "SH045",
-          "reason": "手動"
-        },
-        {
-          "id": "SH046",
-          "reason": "手動"
-        },
-        {
-          "id": "SH047",
-          "reason": "手動"
-        },
-        {
-          "id": "SH048",
-          "reason": "手動"
-        },
-        {
-          "id": "SH049",
-          "reason": "手動"
-        },
-        {
-          "id": "SH050",
-          "reason": "手動"
-        },
-        {
-          "id": "SH051",
-          "reason": "手動"
-        },
-        {
-          "id": "SH052",
-          "reason": "手動"
-        },
-        {
-          "id": "SH039",
-          "reason": "手動"
-        },
-        {
-          "id": "SH038",
-          "reason": "手動"
-        },
-        {
-          "id": "SH005",
-          "reason": "手動"
-        }
-      ],
-      "comments": [],
-      "suggested": []
     },
     {
       "id": "SH019",
@@ -1743,67 +2030,79 @@
       ],
       "comments": [],
       "suggested": [
-        "SH020",
         "SH001",
+        "SH020",
         "SH044",
         "SH045"
       ]
     },
     {
-      "id": "SH008",
+      "id": "SH020",
       "brand": "坊っちゃん",
-      "name": "仕込み_ハラミ串",
-      "furigana": "シコミ_ハラミクシ",
+      "name": "仕込み_おでんこんにゃく",
+      "furigana": "シコミ_オデンコンニャク",
       "category": "仕込み",
-      "time": "5分",
-      "yieldAmt": 30,
-      "yieldUnit": "人前",
+      "time": "1時間半",
+      "yieldAmt": null,
+      "yieldUnit": "",
       "appOrder": 43,
       "ingredients": [
         {
-          "label": "ハラミ串",
-          "amt": "30",
-          "unit": "本",
+          "label": "おでんこんにゃく",
+          "amt": "40",
+          "unit": "個",
           "linkId": ""
         },
         {
-          "label": "仕込み_焼き鳥漬けダレ",
-          "amt": "850",
+          "label": "仕込み_おでん出汁",
+          "amt": "1000",
           "unit": "g",
-          "linkId": "SH005"
+          "linkId": ""
         }
       ],
       "allergens": [],
       "steps": [
         {
-          "text": "漬けダレにハラミ串を漬ける",
+          "text": "おでん出汁を用意する",
           "note": false
         },
         {
-          "text": "ラップで蓋をしてキチンと液体に浸かる様にする",
+          "text": "②の中に①を入れる",
           "note": false
         },
         {
-          "text": "液体からはみ出してる物が無いように注意",
-          "note": true
-        },
-        {
-          "text": "翌日～使用可能",
+          "text": "火にかける",
           "note": false
         },
         {
-          "text": "保存期間：冷蔵3日",
+          "text": "沸いたら中～弱火でコトコト炊く",
+          "note": false
+        },
+        {
+          "text": "沸いてから３０分経過したら火を止めて放置",
+          "note": false
+        },
+        {
+          "text": "粗熱が取れたら容器に入れて保存",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵4日",
+          "note": false
+        },
+        {
+          "text": "保存推奨容器：13cmポット",
           "note": false
         }
       ],
       "media": [
         {
           "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1UWnKFsejc_FsTvzEUHvgkw79i4npifdG/view?usp=drivesdk"
+          "url": "完成写真URL貼り付け"
         },
         {
           "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+          "url": "お皿写真URL貼り付け"
         },
         {
           "type": "工程写真",
@@ -1811,7 +2110,7 @@
         },
         {
           "type": "動画",
-          "url": "https://drive.google.com/file/d/1yFwv00xkKhKc-WdfJ3x4eBX8SqqUG859/view?usp=drivesdk"
+          "url": "動画URL貼り付け"
         },
         {
           "type": "PDF",
@@ -1826,314 +2125,15 @@
           "url": "調理工程写真URL③貼り付け"
         }
       ],
-      "plating": [
-        {
-          "item": "ソース容器",
-          "content": "タッパ：2,440ml"
-        }
-      ],
-      "related": [
-        {
-          "id": "SH005",
-          "reason": "手動"
-        }
-      ],
+      "plating": [],
+      "related": [],
       "comments": [],
       "suggested": [
-        "SH013",
-        "SH015",
-        "SH016",
-        "SH006"
-      ]
-    },
-    {
-      "id": "SH012",
-      "brand": "坊っちゃん",
-      "name": "仕込み_ヤゲン軟骨串",
-      "furigana": "シコミ_ヤゲンナンコツクシ",
-      "category": "仕込み",
-      "time": "5分",
-      "yieldAmt": 30,
-      "yieldUnit": "人前",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "ヤゲン軟骨串",
-          "amt": "30",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_焼き鳥漬けダレ",
-          "amt": "850",
-          "unit": "g",
-          "linkId": "SH005"
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "漬けダレにヤゲン軟骨串を漬ける",
-          "note": false
-        },
-        {
-          "text": "ラップで蓋をしてキチンと液体に浸かる様にする",
-          "note": false
-        },
-        {
-          "text": "翌日～使用可能",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵3日",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1hdHpegZ2qCKVoYRt8HrqSxbLzR7J1JiK/view?usp=drivesdk"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1vIkS85TexTIcBDuSWOz2UWJOfmv5AJnh/view?usp=drivesdk"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [
-        {
-          "item": "ソース容器",
-          "content": "タッパ：2,440ml"
-        }
-      ],
-      "related": [
-        {
-          "id": "SH005",
-          "reason": "手動"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "SH013",
-        "SH015",
-        "SH016",
-        "SH006"
-      ]
-    },
-    {
-      "id": "SH009",
-      "brand": "坊っちゃん",
-      "name": "仕込み_砂肝串",
-      "furigana": "シコミ_スナギモクシ",
-      "category": "仕込み",
-      "time": "5分",
-      "yieldAmt": 30,
-      "yieldUnit": "人前",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "砂肝串",
-          "amt": "30",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_焼き鳥漬けダレ",
-          "amt": "850",
-          "unit": "g",
-          "linkId": "SH009"
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "漬けダレに砂肝串を漬ける",
-          "note": false
-        },
-        {
-          "text": "ラップで蓋をしてキチンと液体に浸かる様にする",
-          "note": false
-        },
-        {
-          "text": "液体からはみ出してる物が無いように注意",
-          "note": true
-        },
-        {
-          "text": "翌日～使用可能",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵3日",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1aqipcHbcELIi1W3xZRruNzDxCOBy0xUO/view?usp=drivesdk"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1oyLAWyYAWyMCkRdZBSmnLhmFKmmdbMWA/view?usp=drivesdk"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [
-        {
-          "item": "ソース容器",
-          "content": "タッパ：2,440ml"
-        }
-      ],
-      "related": [
-        {
-          "id": "SH005",
-          "reason": "手動"
-        },
-        {
-          "id": "SH009",
-          "reason": "使用する仕込み（仕込み_焼き鳥漬けダレ）"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "SH013",
-        "SH015",
-        "SH016"
-      ]
-    },
-    {
-      "id": "SH007",
-      "brand": "坊っちゃん",
-      "name": "仕込み_ぼんじり串",
-      "furigana": "シコミ_ボンジリクシ",
-      "category": "仕込み",
-      "time": "5分",
-      "yieldAmt": 30,
-      "yieldUnit": "人前",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "ぼんじり串",
-          "amt": "30",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_焼き鳥漬けダレ",
-          "amt": "850",
-          "unit": "g",
-          "linkId": "SH002"
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "漬けダレにぼんじり串を漬ける",
-          "note": false
-        },
-        {
-          "text": "ラップで蓋をしてキチンと液体に浸かる様にする",
-          "note": false
-        },
-        {
-          "text": "液体からはみ出してる物が無いように注意",
-          "note": true
-        },
-        {
-          "text": "翌日～使用可能",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵3日",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1I9Qn7XK2TTo2HMG18hO3IWi0YbjglBcn/view?usp=drivesdk"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1mBK0MkUR93wc3mqpz3RQG7Q1rrGX3moe/view?usp=drivesdk"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [
-        {
-          "item": "ソース容器",
-          "content": "タッパ：2,440ml"
-        }
-      ],
-      "related": [
-        {
-          "id": "SH002",
-          "reason": "手動"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "SH013",
-        "SH015",
-        "SH016",
-        "SH006"
+        "SH001",
+        "SH019",
+        "SH044",
+        "SH045",
+        "SH046"
       ]
     },
     {
@@ -2229,9 +2229,9 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH020",
         "SH001",
         "SH019",
+        "SH020",
         "SH045",
         "SH046"
       ]
@@ -2329,9 +2329,9 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH020",
         "SH001",
         "SH019",
+        "SH020",
         "SH044",
         "SH046"
       ]
@@ -2429,9 +2429,9 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH020",
         "SH001",
         "SH019",
+        "SH020",
         "SH044",
         "SH045"
       ]
@@ -2443,8 +2443,8 @@
       "furigana": "シコミ_オデンブタミミ",
       "category": "仕込み",
       "time": "30分",
-      "yieldAmt": 13,
-      "yieldUnit": "人前前後",
+      "yieldAmt": 26,
+      "yieldUnit": "個前後",
       "appOrder": 47,
       "ingredients": [
         {
@@ -2531,9 +2531,9 @@
       ],
       "comments": [],
       "suggested": [
-        "SH020",
         "SH001",
         "SH019",
+        "SH020",
         "SH044"
       ]
     },
@@ -2630,9 +2630,9 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH020",
         "SH001",
         "SH019",
+        "SH020",
         "SH044",
         "SH045"
       ]
@@ -2744,9 +2744,9 @@
       ],
       "comments": [],
       "suggested": [
-        "SH020",
         "SH001",
-        "SH019"
+        "SH019",
+        "SH020"
       ]
     },
     {
@@ -2860,9 +2860,9 @@
       ],
       "comments": [],
       "suggested": [
-        "SH020",
         "SH001",
-        "SH019"
+        "SH019",
+        "SH020"
       ]
     },
     {
@@ -2962,18 +2962,18 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH020",
         "SH001",
         "SH019",
+        "SH020",
         "SH044",
         "SH045"
       ]
     },
     {
-      "id": "SH052",
+      "id": "SH021",
       "brand": "坊っちゃん",
-      "name": "仕込み_おでんチーズ天",
-      "furigana": "シコミ_オデンチーズテン",
+      "name": "仕込み_きゅうりの浅漬け",
+      "furigana": "シコミ_キュウリノアサヅケ",
       "category": "仕込み",
       "time": "1時間半",
       "yieldAmt": null,
@@ -2981,14 +2981,20 @@
       "appOrder": 52,
       "ingredients": [
         {
-          "label": "チーズ天",
-          "amt": "1",
-          "unit": "PC",
+          "label": "きゅうり",
+          "amt": "15",
+          "unit": "本",
           "linkId": ""
         },
         {
-          "label": "仕込み_おでん出汁",
-          "amt": "1000",
+          "label": "浅漬けの素",
+          "amt": "600",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "水",
+          "amt": "100",
           "unit": "g",
           "linkId": ""
         }
@@ -2996,31 +3002,39 @@
       "allergens": [],
       "steps": [
         {
-          "text": "仕込んでおいたみんちを用意する",
+          "text": "浅漬けの素：600g、水：100g上記を用意する",
           "note": false
         },
         {
-          "text": "おでん出汁を用意する",
+          "text": "きゅうり15本仕込み時",
+          "note": true
+        },
+        {
+          "text": "軽く水洗いしたきゅうりをカットする。",
           "note": false
         },
         {
-          "text": "②の中に①を入れる",
+          "text": "サイズにもよるが、1本12カット前後目安",
           "note": false
         },
         {
-          "text": "火にかける",
+          "text": "1個：7～8gを目安にカット",
           "note": false
         },
         {
-          "text": "沸いたら中～弱火でコトコト炊く",
+          "text": "動画、画像は10個で重量計算してます",
+          "note": true
+        },
+        {
+          "text": "最初に計量しておいた調味料と水を入れて上にラップをかぶせて落し蓋にする",
           "note": false
         },
         {
-          "text": "沸いてから３０分経過したら火を止めて放置",
-          "note": false
+          "text": "翌日～使用可能",
+          "note": true
         },
         {
-          "text": "粗熱が取れたら容器に入れて保存",
+          "text": "翌日完成",
           "note": false
         },
         {
@@ -3028,26 +3042,26 @@
           "note": false
         },
         {
-          "text": "保存推奨容器：13cmポット",
+          "text": "保存推奨容器：2,440mlタッパ",
           "note": false
         }
       ],
       "media": [
         {
           "type": "料理写真",
-          "url": "完成写真URL貼り付け"
+          "url": "完成写真URL貼りhttps://drive.google.com/file/d/1aWQDCScNFyuR78KsxF5OZp4LclbbAYdw/view?usp=drive_link付け"
         },
         {
           "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
+          "url": "お皿写真URL貼り付けhttps://drive.google.com/file/d/1aariRHerjlxBiLs4qKs5TUegeo5XAyYb/view?usp=drive_link"
         },
         {
           "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
+          "url": "調理工程写真URL①貼り付けhttps://drive.google.com/file/d/1eaYCVhak1x9lovRxt40PGipmsiuwJP3o/view?usp=sharing"
         },
         {
           "type": "動画",
-          "url": "動画URL貼り付け"
+          "url": "動画URL貼り付けhttps://drive.google.com/file/d/1MKh4k7_00VFHeHJ1jgMWZNLp_pljIVB5/view?usp=drive_link"
         },
         {
           "type": "PDF",
@@ -3055,22 +3069,26 @@
         },
         {
           "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
+          "url": "調理工程写真URL②https://drive.google.com/file/d/1tV3iCtsdX-kZPO0X1M3Z9m5AS3m8LmMo/view?usp=drive_link貼り付け"
         },
         {
           "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
+          "url": "調理工程写真URL③https://drive.google.com/file/d/1bw4IPW122C_Xl7nwZ7SOSxj6X9Yj2l8Z/view?usp=drive_link貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1ne34yrn0BKtxE_aQQCT7ue843-eX-2vi/view?usp=drive_link"
         }
       ],
       "plating": [],
       "related": [],
       "comments": [],
       "suggested": [
-        "SH020",
         "SH001",
-        "SH019",
-        "SH044",
-        "SH045"
+        "SH002",
+        "SH005",
+        "SH010",
+        "SH032"
       ]
     },
     {
@@ -3160,9 +3178,9 @@
       "suggested": [
         "SH035",
         "CO050",
-        "SH003",
-        "SH010",
-        "SH013"
+        "SH001",
+        "SH002",
+        "SH003"
       ]
     },
     {
@@ -3452,9 +3470,9 @@
       "suggested": [
         "SH034",
         "SH004",
-        "SH043",
         "SH032",
-        "SH003"
+        "SH043",
+        "SH001"
       ]
     },
     {
@@ -3536,11 +3554,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "SH001",
+        "SH002",
         "SH003",
-        "SH010",
-        "SH013",
-        "SH014",
-        "SH015"
+        "SH004",
+        "SH005"
       ]
     },
     {
@@ -3630,11 +3648,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "SH001",
+        "SH002",
         "SH003",
-        "SH010",
-        "SH013",
-        "SH014",
-        "SH015"
+        "SH004",
+        "SH005"
       ]
     },
     {
@@ -3724,7 +3742,7 @@
         "SH031",
         "SH032",
         "CO051",
-        "SH003"
+        "SH001"
       ]
     },
     {
@@ -3816,11 +3834,142 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH005",
         "SH002",
+        "SH005",
         "SH030",
         "SH032",
-        "SH003"
+        "SH001"
+      ]
+    },
+    {
+      "id": "SH032",
+      "brand": "坊っちゃん",
+      "name": "仕込み_炊き豆腐",
+      "furigana": "シコミ_タキトウフ",
+      "category": "仕込み",
+      "time": "1時間半",
+      "yieldAmt": 8,
+      "yieldUnit": "人前",
+      "appOrder": 52,
+      "ingredients": [
+        {
+          "label": "焼豆腐",
+          "amt": "4",
+          "unit": "PC",
+          "linkId": ""
+        },
+        {
+          "label": "焼き鳥のたれ",
+          "amt": "600",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "水",
+          "amt": "600",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "おろしにんにく",
+          "amt": "60",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "おろし生姜",
+          "amt": "30",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "焼豆腐を１／２にカットする",
+          "note": false
+        },
+        {
+          "text": "全て圧力鍋に入れる",
+          "note": false
+        },
+        {
+          "text": "水分量が圧力鍋に記載してる最大水位を超えていないかを確認\n超えていたら吹きこぼれる為、2回に分けて炊く",
+          "note": true
+        },
+        {
+          "text": "蓋をして蓋の中央のつまみを密封に合わせる",
+          "note": false
+        },
+        {
+          "text": "圧力鍋の調理設定【手動メニュー】→【圧力調理】→【30分】→【スタート】約1時間半で炊きあがり",
+          "note": false
+        },
+        {
+          "text": "粗熱が取れたら容器に出汁ごと容器に移し冷蔵保存",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵4日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1gtPwcZdpqtHQ568xrlpoSoNP-ZqQO4aw/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1qOJ2NPsgJUTmHdY1hEJPzhnoCYjwvndE/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1jFBIWxoLMADH2d-DbnA_Yk5_qaUczJf4/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1Z2n34sIBbCyA9v661fX_tZd-zeVd-HR5/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1POEL7sfwkYI5Jes7i8ymB5L98hAt_fDA/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1Dsur7Gq3NtN1_jTlK-vrK6OS7dtjW3_i/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1pBAgLH2sHsXSMGpvN0Zgd-jM94PDyYcQ/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO057",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH001",
+        "SH002",
+        "SH005",
+        "SH010"
       ]
     },
     {
@@ -3912,9 +4061,9 @@
       "suggested": [
         "CO059",
         "CO060",
-        "SH003",
-        "SH010",
-        "SH013"
+        "SH001",
+        "SH002",
+        "SH003"
       ]
     },
     {
@@ -4032,8 +4181,8 @@
       "suggested": [
         "SH027",
         "CO077",
-        "SH010",
         "SH001",
+        "SH002",
         "SH005"
       ]
     },
@@ -4210,9 +4359,9 @@
       "suggested": [
         "SH005",
         "CO049",
-        "SH003",
-        "SH010",
-        "SH013"
+        "SH001",
+        "SH002",
+        "SH003"
       ]
     },
     {
@@ -4336,11 +4485,11 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH010",
         "SH001",
-        "SH005",
         "SH002",
-        "SH034"
+        "SH005",
+        "SH010",
+        "SH021"
       ]
     },
     {
@@ -4416,186 +4565,88 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "SH020",
         "SH001",
         "SH019",
+        "SH020",
         "SH044",
         "SH045"
       ]
     },
     {
-      "id": "SH042",
+      "id": "SH039",
       "brand": "坊っちゃん",
-      "name": "仕込み_さつま芋",
-      "furigana": "シコミ_サツマイモ",
+      "name": "仕込み_おでん鶏チャーシュー",
+      "furigana": "シコミ_オデントリチャーシュー",
       "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
+      "time": "30分",
+      "yieldAmt": 10,
+      "yieldUnit": "人前",
       "appOrder": 52,
       "ingredients": [
         {
-          "label": "さつま芋",
-          "amt": "適量",
-          "unit": "",
+          "label": "鶏チャーシュー",
+          "amt": "1",
+          "unit": "PC",
           "linkId": ""
         },
         {
-          "label": "アルミホイル",
-          "amt": "適量",
-          "unit": "",
-          "linkId": ""
+          "label": "仕込み_おでん出汁",
+          "amt": "1000",
+          "unit": "g",
+          "linkId": "SH002"
         }
       ],
       "allergens": [],
       "steps": [
         {
-          "text": "さつま芋を流水でこすりながらよく洗う",
+          "text": "鶏チャーシューを解凍する",
           "note": false
         },
         {
-          "text": "軽く水気を切ってアルミホイルで完全にくるむ",
+          "text": "１個を１／４カットする（２個／１人前）",
           "note": false
         },
         {
-          "text": "２３０°のオーブンに入れて約３０分放置",
+          "text": "おでん出汁を用意する",
           "note": false
         },
         {
-          "text": "３０分経過したらさつま芋の一番太い辺りをアルミのまま竹串で刺す",
+          "text": "おでん出汁の中にカットしたチャーシューを入れる",
           "note": false
         },
         {
-          "text": "スッと通れば火が通ってるのでオーブンから取り出し常温放置で粗熱を取る",
+          "text": "火にかける",
           "note": false
         },
         {
-          "text": "粗熱が取れたら１０ｃｍほどの長さにカットする",
+          "text": "沸いたら中～弱火でコトコト炊く",
           "note": false
         },
         {
-          "text": "⑥を１ｃｍ角にカットして１００ｇ分で１人前ポーションする",
-          "note": false
-        },
-        {
-          "text": "冷凍庫に入れて保存",
-          "note": false
-        },
-        {
-          "text": "⑤の段階で串が通らなければ５分ずつ延長して串が通るまでオーブンに入れておく",
-          "note": true
-        },
-        {
-          "text": "保存期間：冷凍３０日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：ポリティッシュ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH003",
-        "SH010",
-        "SH013",
-        "SH014",
-        "SH015"
-      ]
-    },
-    {
-      "id": "SH043",
-      "brand": "坊っちゃん",
-      "name": "仕込み_タケノコ味入れ",
-      "furigana": "シコミ_タケノコアジイレ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 52,
-      "ingredients": [
-        {
-          "label": "タケノコ水煮",
-          "amt": "500",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "濃い口しょうゆ",
-          "amt": "80",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "かつお節",
-          "amt": "10",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "上記を全て合わせる",
+          "text": "沸いてから３０分経過したら火を止めて放置",
           "note": false
         },
         {
           "text": "保存期間：冷蔵4日",
           "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
         }
       ],
       "media": [
         {
           "type": "料理写真",
-          "url": "完成写真URL貼り付け"
+          "url": "https://drive.google.com/file/d/1Hb7RZcOWGdze1FwFUYnDvGshTtwzcmeN/view?usp=drivesdk"
         },
         {
           "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
         },
         {
           "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
+          "url": "https://drive.google.com/file/d/1b4b22-67-8mKSLEild3JmTIlzwaMa9jT/view?usp=drivesdk"
         },
         {
           "type": "動画",
-          "url": "動画URL貼り付け"
+          "url": "https://drive.google.com/file/d/1Gfh5QKU7lZ5Ca-pYkEEqIqX0OJRdwepX/view?usp=drivesdk"
         },
         {
           "type": "PDF",
@@ -4603,144 +4654,34 @@
         },
         {
           "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
+          "url": "https://drive.google.com/file/d/1Xxd-MdtCPAGZUIfMjNgI2JOcDRNoRnt5/view?usp=drivesdk"
         },
         {
           "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
+          "url": "https://drive.google.com/file/d/1uFkaueTVMbzY2qnhREQGq_zesNtri8eQ/view?usp=drivesdk"
         }
       ],
-      "plating": [],
-      "related": [],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "2,440mlタッパ"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO066",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "手動"
+        }
+      ],
       "comments": [],
       "suggested": [
-        "SH027",
-        "SH034",
-        "SH003",
-        "SH010",
-        "SH013"
-      ]
-    },
-    {
-      "id": "SH021",
-      "brand": "坊っちゃん",
-      "name": "仕込み_きゅうりの浅漬け",
-      "furigana": "シコミ_キュウリノアサヅケ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 52,
-      "ingredients": [
-        {
-          "label": "きゅうり",
-          "amt": "15",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "浅漬けの素",
-          "amt": "600",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "水",
-          "amt": "100",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "浅漬けの素：600g、水：100g上記を用意する",
-          "note": false
-        },
-        {
-          "text": "きゅうり15本仕込み時",
-          "note": true
-        },
-        {
-          "text": "軽く水洗いしたきゅうりをカットする。",
-          "note": false
-        },
-        {
-          "text": "サイズにもよるが、1本12カット前後目安",
-          "note": false
-        },
-        {
-          "text": "1個：7～8gを目安にカット",
-          "note": false
-        },
-        {
-          "text": "動画、画像は10個で重量計算してます",
-          "note": true
-        },
-        {
-          "text": "最初に計量しておいた調味料と水を入れて上にラップをかぶせて落し蓋にする",
-          "note": false
-        },
-        {
-          "text": "翌日～使用可能",
-          "note": true
-        },
-        {
-          "text": "翌日完成",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼りhttps://drive.google.com/file/d/1aWQDCScNFyuR78KsxF5OZp4LclbbAYdw/view?usp=drive_link付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付けhttps://drive.google.com/file/d/1aariRHerjlxBiLs4qKs5TUegeo5XAyYb/view?usp=drive_link"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付けhttps://drive.google.com/file/d/1eaYCVhak1x9lovRxt40PGipmsiuwJP3o/view?usp=sharing"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付けhttps://drive.google.com/file/d/1MKh4k7_00VFHeHJ1jgMWZNLp_pljIVB5/view?usp=drive_link"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②https://drive.google.com/file/d/1tV3iCtsdX-kZPO0X1M3Z9m5AS3m8LmMo/view?usp=drive_link貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③https://drive.google.com/file/d/1bw4IPW122C_Xl7nwZ7SOSxj6X9Yj2l8Z/view?usp=drive_link貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1ne34yrn0BKtxE_aQQCT7ue843-eX-2vi/view?usp=drive_link"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH010",
         "SH001",
-        "SH005",
-        "SH002",
-        "SH034"
+        "SH019",
+        "SH020"
       ]
     },
     {
@@ -4860,23 +4801,221 @@
       "suggested": [
         "SH003",
         "SH014",
-        "SH010",
-        "SH013"
+        "SH001",
+        "SH002"
       ]
     },
     {
-      "id": "SH039",
+      "id": "SH042",
       "brand": "坊っちゃん",
-      "name": "仕込み_おでん鶏チャーシュー",
-      "furigana": "シコミ_オデントリチャーシュー",
+      "name": "仕込み_さつま芋",
+      "furigana": "シコミ_サツマイモ",
       "category": "仕込み",
-      "time": "30分",
-      "yieldAmt": 10,
-      "yieldUnit": "人前",
+      "time": "1時間半",
+      "yieldAmt": null,
+      "yieldUnit": "",
       "appOrder": 52,
       "ingredients": [
         {
-          "label": "鶏チャーシュー",
+          "label": "さつま芋",
+          "amt": "適量",
+          "unit": "",
+          "linkId": ""
+        },
+        {
+          "label": "アルミホイル",
+          "amt": "適量",
+          "unit": "",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "さつま芋を流水でこすりながらよく洗う",
+          "note": false
+        },
+        {
+          "text": "軽く水気を切ってアルミホイルで完全にくるむ",
+          "note": false
+        },
+        {
+          "text": "２３０°のオーブンに入れて約３０分放置",
+          "note": false
+        },
+        {
+          "text": "３０分経過したらさつま芋の一番太い辺りをアルミのまま竹串で刺す",
+          "note": false
+        },
+        {
+          "text": "スッと通れば火が通ってるのでオーブンから取り出し常温放置で粗熱を取る",
+          "note": false
+        },
+        {
+          "text": "粗熱が取れたら１０ｃｍほどの長さにカットする",
+          "note": false
+        },
+        {
+          "text": "⑥を１ｃｍ角にカットして１００ｇ分で１人前ポーションする",
+          "note": false
+        },
+        {
+          "text": "冷凍庫に入れて保存",
+          "note": false
+        },
+        {
+          "text": "⑤の段階で串が通らなければ５分ずつ延長して串が通るまでオーブンに入れておく",
+          "note": true
+        },
+        {
+          "text": "保存期間：冷凍３０日",
+          "note": false
+        },
+        {
+          "text": "保存推奨容器：ポリティッシュ",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "完成写真URL貼り付け"
+        },
+        {
+          "type": "お皿写真",
+          "url": "お皿写真URL貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "動画URL貼り付け"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [],
+      "related": [],
+      "comments": [],
+      "suggested": [
+        "SH001",
+        "SH002",
+        "SH003",
+        "SH004",
+        "SH005"
+      ]
+    },
+    {
+      "id": "SH043",
+      "brand": "坊っちゃん",
+      "name": "仕込み_タケノコ味入れ",
+      "furigana": "シコミ_タケノコアジイレ",
+      "category": "仕込み",
+      "time": "1時間半",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 52,
+      "ingredients": [
+        {
+          "label": "タケノコ水煮",
+          "amt": "500",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "濃い口しょうゆ",
+          "amt": "80",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "かつお節",
+          "amt": "10",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "上記を全て合わせる",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵4日",
+          "note": false
+        },
+        {
+          "text": "保存推奨容器：2,440mlタッパ",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "完成写真URL貼り付け"
+        },
+        {
+          "type": "お皿写真",
+          "url": "お皿写真URL貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "動画URL貼り付け"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [],
+      "related": [],
+      "comments": [],
+      "suggested": [
+        "SH027",
+        "SH034",
+        "SH001",
+        "SH002",
+        "SH003"
+      ]
+    },
+    {
+      "id": "SH052",
+      "brand": "坊っちゃん",
+      "name": "仕込み_おでんチーズ天",
+      "furigana": "シコミ_オデンチーズテン",
+      "category": "仕込み",
+      "time": "1時間半",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 52,
+      "ingredients": [
+        {
+          "label": "チーズ天",
           "amt": "1",
           "unit": "PC",
           "linkId": ""
@@ -4885,17 +5024,13 @@
           "label": "仕込み_おでん出汁",
           "amt": "1000",
           "unit": "g",
-          "linkId": "SH002"
+          "linkId": ""
         }
       ],
       "allergens": [],
       "steps": [
         {
-          "text": "鶏チャーシューを解凍する",
-          "note": false
-        },
-        {
-          "text": "１個を１／４カットする（２個／１人前）",
+          "text": "仕込んでおいたみんちを用意する",
           "note": false
         },
         {
@@ -4903,7 +5038,7 @@
           "note": false
         },
         {
-          "text": "おでん出汁の中にカットしたチャーシューを入れる",
+          "text": "②の中に①を入れる",
           "note": false
         },
         {
@@ -4919,26 +5054,34 @@
           "note": false
         },
         {
+          "text": "粗熱が取れたら容器に入れて保存",
+          "note": false
+        },
+        {
           "text": "保存期間：冷蔵4日",
+          "note": false
+        },
+        {
+          "text": "保存推奨容器：13cmポット",
           "note": false
         }
       ],
       "media": [
         {
           "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1Hb7RZcOWGdze1FwFUYnDvGshTtwzcmeN/view?usp=drivesdk"
+          "url": "完成写真URL貼り付け"
         },
         {
           "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+          "url": "お皿写真URL貼り付け"
         },
         {
           "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1b4b22-67-8mKSLEild3JmTIlzwaMa9jT/view?usp=drivesdk"
+          "url": "調理工程写真URL①貼り付け"
         },
         {
           "type": "動画",
-          "url": "https://drive.google.com/file/d/1Gfh5QKU7lZ5Ca-pYkEEqIqX0OJRdwepX/view?usp=drivesdk"
+          "url": "動画URL貼り付け"
         },
         {
           "type": "PDF",
@@ -4946,165 +5089,22 @@
         },
         {
           "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1Xxd-MdtCPAGZUIfMjNgI2JOcDRNoRnt5/view?usp=drivesdk"
+          "url": "調理工程写真URL②貼り付け"
         },
         {
           "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1uFkaueTVMbzY2qnhREQGq_zesNtri8eQ/view?usp=drivesdk"
+          "url": "調理工程写真URL③貼り付け"
         }
       ],
-      "plating": [
-        {
-          "item": "ソース容器",
-          "content": "2,440mlタッパ"
-        }
-      ],
-      "related": [
-        {
-          "id": "CO066",
-          "reason": "手動"
-        },
-        {
-          "id": "SH002",
-          "reason": "手動"
-        }
-      ],
+      "plating": [],
+      "related": [],
       "comments": [],
       "suggested": [
+        "SH001",
+        "SH019",
         "SH020",
-        "SH001",
-        "SH019"
-      ]
-    },
-    {
-      "id": "SH032",
-      "brand": "坊っちゃん",
-      "name": "仕込み_炊き豆腐",
-      "furigana": "シコミ_タキトウフ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": 8,
-      "yieldUnit": "人前",
-      "appOrder": 52,
-      "ingredients": [
-        {
-          "label": "焼豆腐",
-          "amt": "4",
-          "unit": "PC",
-          "linkId": ""
-        },
-        {
-          "label": "焼き鳥のたれ",
-          "amt": "600",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "水",
-          "amt": "600",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "おろしにんにく",
-          "amt": "60",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "おろし生姜",
-          "amt": "30",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "焼豆腐を１／２にカットする",
-          "note": false
-        },
-        {
-          "text": "全て圧力鍋に入れる",
-          "note": false
-        },
-        {
-          "text": "水分量が圧力鍋に記載してる最大水位を超えていないかを確認\n超えていたら吹きこぼれる為、2回に分けて炊く",
-          "note": true
-        },
-        {
-          "text": "蓋をして蓋の中央のつまみを密封に合わせる",
-          "note": false
-        },
-        {
-          "text": "圧力鍋の調理設定【手動メニュー】→【圧力調理】→【30分】→【スタート】約1時間半で炊きあがり",
-          "note": false
-        },
-        {
-          "text": "粗熱が取れたら容器に出汁ごと容器に移し冷蔵保存",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1gtPwcZdpqtHQ568xrlpoSoNP-ZqQO4aw/view?usp=drivesdk"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1qOJ2NPsgJUTmHdY1hEJPzhnoCYjwvndE/view?usp=drivesdk"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1jFBIWxoLMADH2d-DbnA_Yk5_qaUczJf4/view?usp=drivesdk"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1Z2n34sIBbCyA9v661fX_tZd-zeVd-HR5/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1POEL7sfwkYI5Jes7i8ymB5L98hAt_fDA/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1Dsur7Gq3NtN1_jTlK-vrK6OS7dtjW3_i/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1pBAgLH2sHsXSMGpvN0Zgd-jM94PDyYcQ/view?usp=drivesdk"
-        }
-      ],
-      "plating": [
-        {
-          "item": "ソース容器",
-          "content": "タッパ：2,440ml"
-        }
-      ],
-      "related": [
-        {
-          "id": "CO057",
-          "reason": "手動"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "SH001",
-        "SH010",
-        "SH005",
-        "SH002"
+        "SH044",
+        "SH045"
       ]
     },
     {
@@ -7589,6 +7589,108 @@
       ]
     },
     {
+      "id": "CO024",
+      "brand": "坊っちゃん",
+      "name": "大根（１個）",
+      "furigana": "ダイコン（１コ）",
+      "category": "調理",
+      "time": "5分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 83,
+      "ingredients": [
+        {
+          "label": "仕込み_おでん大根",
+          "amt": "1",
+          "unit": "個",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_おでん出汁",
+          "amt": "適量",
+          "unit": "",
+          "linkId": "SH002"
+        },
+        {
+          "label": "鶏油",
+          "amt": "2",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "仕込んでおいたおでん用の大根を1個お皿に盛る",
+          "note": false
+        },
+        {
+          "text": "おでん出汁を入れる",
+          "note": false
+        },
+        {
+          "text": "鶏油を少量入れる",
+          "note": false
+        },
+        {
+          "text": "完成",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1en_uTux9-5ZU_geQKgobizg159Y13NJI/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1P0Qv27mwvXfhy2Zuinwwu3IQVaX63K6t/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1OPcwzY-ZTQ6ugGY3YFQXrx8vffNwyEut/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "呑水"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH019",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CO025",
+        "CO026",
+        "CO027"
+      ]
+    },
+    {
       "id": "CO025",
       "brand": "坊っちゃん",
       "name": "結びこんにゃく（２個）",
@@ -7679,11 +7781,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "CO024",
         "CO026",
         "CO027",
         "CO028",
-        "CO030",
-        "CO031"
+        "CO030"
       ]
     },
     {
@@ -7777,11 +7879,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "CO024",
         "CO025",
         "CO027",
         "CO028",
-        "CO030",
-        "CO031"
+        "CO030"
       ]
     },
     {
@@ -7875,11 +7977,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "CO024",
         "CO025",
         "CO026",
         "CO028",
-        "CO030",
-        "CO031"
+        "CO030"
       ]
     },
     {
@@ -7973,11 +8075,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "CO024",
         "CO025",
         "CO026",
         "CO027",
-        "CO030",
-        "CO031"
+        "CO030"
       ]
     },
     {
@@ -7986,7 +8088,7 @@
       "name": "豚みみ（２個）",
       "furigana": "ブタミミ（２コ）",
       "category": "調理",
-      "time": "1時間半",
+      "time": "5分",
       "yieldAmt": null,
       "yieldUnit": "",
       "appOrder": 83,
@@ -7995,13 +8097,13 @@
           "label": "仕込み_おでん豚みみ",
           "amt": "2",
           "unit": "個",
-          "linkId": ""
+          "linkId": "SH047"
         },
         {
           "label": "仕込み_おでん出汁",
           "amt": "適量",
           "unit": "",
-          "linkId": ""
+          "linkId": "SH002"
         },
         {
           "label": "鶏油",
@@ -8013,8 +8115,12 @@
       "allergens": [],
       "steps": [
         {
-          "text": "仕込んでおいたおでん用の豚みみをお皿に盛る",
+          "text": "仕込んでおいたおでん用の豚みみを2個お皿に盛る",
           "note": false
+        },
+        {
+          "text": "小さい場合は3個入れる",
+          "note": true
         },
         {
           "text": "おでん出汁を入れる",
@@ -8027,24 +8133,16 @@
         {
           "text": "完成",
           "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
         }
       ],
       "media": [
         {
           "type": "料理写真",
-          "url": "完成写真URL貼り付け"
+          "url": "https://drive.google.com/file/d/1ErPbRAQwY9bmp4d66xucBPDvKUnN8HMP/view?usp=drivesdk"
         },
         {
           "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
+          "url": "https://drive.google.com/file/d/1P0Qv27mwvXfhy2Zuinwwu3IQVaX63K6t/view?usp=drivesdk"
         },
         {
           "type": "工程写真",
@@ -8052,7 +8150,7 @@
         },
         {
           "type": "動画",
-          "url": "動画URL貼り付け"
+          "url": "https://drive.google.com/file/d/1oKcJtSXGn1cEfBS6Cokj79Ebwpy0nf3e/view?usp=drivesdk"
         },
         {
           "type": "PDF",
@@ -8067,15 +8165,27 @@
           "url": "調理工程写真URL③貼り付け"
         }
       ],
-      "plating": [],
-      "related": [],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "呑水"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH047",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "手動"
+        }
+      ],
       "comments": [],
       "suggested": [
+        "CO024",
         "CO025",
-        "CO026",
-        "CO027",
-        "CO028",
-        "CO031"
+        "CO026"
       ]
     },
     {
@@ -8169,11 +8279,113 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "CO024",
         "CO025",
         "CO026",
         "CO027",
-        "CO028",
-        "CO030"
+        "CO028"
+      ]
+    },
+    {
+      "id": "CO032",
+      "brand": "坊っちゃん",
+      "name": "赤棒（２本）",
+      "furigana": "アカボウ（２ホン）",
+      "category": "調理",
+      "time": "5分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 83,
+      "ingredients": [
+        {
+          "label": "仕込み_おでん赤棒",
+          "amt": "2",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_おでん出汁",
+          "amt": "適量",
+          "unit": "",
+          "linkId": "SH002"
+        },
+        {
+          "label": "鶏油",
+          "amt": "2",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "仕込んでおいたおでん用の赤棒を2本お皿に盛る",
+          "note": false
+        },
+        {
+          "text": "おでん出汁を入れる",
+          "note": false
+        },
+        {
+          "text": "鶏油を少量入れる",
+          "note": false
+        },
+        {
+          "text": "完成",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1POP0_LIobrNHUxpHAw-7EJ0EWzSx0h9Q/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1P0Qv27mwvXfhy2Zuinwwu3IQVaX63K6t/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1gkyY19yiM_uX3Ln9hYOqV0Ne97mB8Erd/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "呑水"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH049",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CO024",
+        "CO025",
+        "CO026"
       ]
     },
     {
@@ -8267,11 +8479,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "CO024",
         "CO025",
         "CO026",
         "CO027",
-        "CO028",
-        "CO030"
+        "CO028"
       ]
     },
     {
@@ -8373,11 +8585,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "CO024",
         "CO025",
         "CO026",
         "CO027",
-        "CO028",
-        "CO030"
+        "CO028"
       ]
     },
     {
@@ -8479,11 +8691,121 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "CO024",
         "CO025",
         "CO026",
         "CO027",
-        "CO028",
-        "CO030"
+        "CO028"
+      ]
+    },
+    {
+      "id": "CO036",
+      "brand": "坊っちゃん",
+      "name": "コロッケ（１個）",
+      "furigana": "コロッケ（１コ）",
+      "category": "調理",
+      "time": "6分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 83,
+      "ingredients": [
+        {
+          "label": "コロッケ",
+          "amt": "1",
+          "unit": "個",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_おでん出汁",
+          "amt": "適量",
+          "unit": "",
+          "linkId": "SH002"
+        },
+        {
+          "label": "鶏油",
+          "amt": "2",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "170～175°のフライヤーでコロッケを１個揚げる",
+          "note": false
+        },
+        {
+          "text": "揚げ時間目安：４分",
+          "note": true
+        },
+        {
+          "text": "お皿にコロッケを入れる",
+          "note": false
+        },
+        {
+          "text": "おでん出汁を入れる",
+          "note": false
+        },
+        {
+          "text": "鶏油を少量入れる",
+          "note": false
+        },
+        {
+          "text": "完成",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1uwpFBGQZpG94_s2DrqdN4CiQK2AgBohK/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1uwpFBGQZpG94_s2DrqdN4CiQK2AgBohK/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/11o9EkoDUD0BS9mVE3otwrMzG4Wrpn2K4/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1TnNMIIreJN4WUGjz8WvQDVz9Z883fO3P/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "ホルモン皿"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO036",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "使用する仕込み（仕込み_おでん出汁）"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CO024",
+        "CO025",
+        "CO026"
       ]
     },
     {
@@ -8583,11 +8905,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "CO024",
         "CO025",
         "CO026",
         "CO027",
-        "CO028",
-        "CO030"
+        "CO028"
       ]
     },
     {
@@ -8681,11 +9003,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "CO024",
         "CO025",
         "CO026",
         "CO027",
-        "CO028",
-        "CO030"
+        "CO028"
       ]
     },
     {
@@ -8791,11 +9113,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "CO024",
         "CO025",
         "CO026",
         "CO027",
-        "CO028",
-        "CO030"
+        "CO028"
       ]
     },
     {
@@ -8976,6 +9298,84 @@
         "CO050",
         "CO061",
         "CO001"
+      ]
+    },
+    {
+      "id": "CO042",
+      "brand": "坊っちゃん",
+      "name": "やわらかピリ辛メンマ",
+      "furigana": "ヤワラカピリカラメンマ",
+      "category": "調理",
+      "time": "3分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 83,
+      "ingredients": [
+        {
+          "label": "仕込み_ピリ辛メンマ",
+          "amt": "40",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "仕込んだメンマ４０ｇをお皿に盛る",
+          "note": false
+        },
+        {
+          "text": "完成",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵4日",
+          "note": false
+        },
+        {
+          "text": "保存推奨容器：2,440mlタッパ",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "完成写真URL貼り付け"
+        },
+        {
+          "type": "お皿写真",
+          "url": "お皿写真URL貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "動画URL貼り付け"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [],
+      "related": [],
+      "comments": [],
+      "suggested": [
+        "CO001",
+        "CO002",
+        "CO003",
+        "CO004",
+        "CO005"
       ]
     },
     {
@@ -11045,6 +11445,112 @@
       ]
     },
     {
+      "id": "CO066",
+      "brand": "坊っちゃん",
+      "name": "鶏チャーシュー（２個）",
+      "furigana": "トリチャーシュー（２コ）",
+      "category": "調理",
+      "time": "3分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 83,
+      "ingredients": [
+        {
+          "label": "仕込み_おでん鶏チャーシュー",
+          "amt": "2",
+          "unit": "個",
+          "linkId": "SH039"
+        },
+        {
+          "label": "仕込み_おでん出汁",
+          "amt": "適量",
+          "unit": "",
+          "linkId": "SH002"
+        },
+        {
+          "label": "鶏油",
+          "amt": "2",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "仕込んでおいた鶏チャーシューを2個お皿に盛る",
+          "note": false
+        },
+        {
+          "text": "おでん出汁を入れる",
+          "note": false
+        },
+        {
+          "text": "鶏油を少量入れる",
+          "note": false
+        },
+        {
+          "text": "完成",
+          "note": false
+        },
+        {
+          "text": "おでんウォーマーに入れていると煮崩れるなら仕込んだチャーシューの保管は出汁に漬けて冷蔵庫でもいいです。\nその場合はオーダーが通れば出汁と一緒にレンジにかけるか、お鍋で温めて提供してください",
+          "note": true
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1Y0ycTXmKqSrcomsC7EzD8_04rOiOZku7/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1P0Qv27mwvXfhy2Zuinwwu3IQVaX63K6t/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1Hk45FVUmFUL-B55MTzyeT7nGN7OSgCa3/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "呑水"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH039",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CO024",
+        "CO025",
+        "CO026"
+      ]
+    },
+    {
       "id": "CO067",
       "brand": "坊っちゃん",
       "name": "うなぎ釜飯",
@@ -11596,10 +12102,10 @@
       "comments": [],
       "suggested": [
         "SH034",
-        "SH010",
         "SH001",
+        "SH002",
         "SH005",
-        "SH002"
+        "SH010"
       ]
     },
     {
@@ -12109,504 +12615,6 @@
       ]
     },
     {
-      "id": "CO042",
-      "brand": "坊っちゃん",
-      "name": "やわらかピリ辛メンマ",
-      "furigana": "ヤワラカピリカラメンマ",
-      "category": "調理",
-      "time": "3分",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "仕込み_ピリ辛メンマ",
-          "amt": "40",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "仕込んだメンマ４０ｇをお皿に盛る",
-          "note": false
-        },
-        {
-          "text": "完成",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO001",
-        "CO002",
-        "CO003",
-        "CO004",
-        "CO005"
-      ]
-    },
-    {
-      "id": "CO036",
-      "brand": "坊っちゃん",
-      "name": "コロッケ（１個）",
-      "furigana": "コロッケ（１コ）",
-      "category": "調理",
-      "time": "6分",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "コロッケ",
-          "amt": "1",
-          "unit": "個",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_おでん出汁",
-          "amt": "適量",
-          "unit": "",
-          "linkId": "SH002"
-        },
-        {
-          "label": "鶏油",
-          "amt": "2",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "170～175°のフライヤーでコロッケを１個揚げる",
-          "note": false
-        },
-        {
-          "text": "揚げ時間目安：４分",
-          "note": true
-        },
-        {
-          "text": "お皿にコロッケを入れる",
-          "note": false
-        },
-        {
-          "text": "おでん出汁を入れる",
-          "note": false
-        },
-        {
-          "text": "鶏油を少量入れる",
-          "note": false
-        },
-        {
-          "text": "完成",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1uwpFBGQZpG94_s2DrqdN4CiQK2AgBohK/view?usp=drivesdk"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1uwpFBGQZpG94_s2DrqdN4CiQK2AgBohK/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/11o9EkoDUD0BS9mVE3otwrMzG4Wrpn2K4/view?usp=drivesdk"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1TnNMIIreJN4WUGjz8WvQDVz9Z883fO3P/view?usp=drivesdk"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [
-        {
-          "item": "皿",
-          "content": "ホルモン皿"
-        }
-      ],
-      "related": [
-        {
-          "id": "CO036",
-          "reason": "手動"
-        },
-        {
-          "id": "SH002",
-          "reason": "使用する仕込み（仕込み_おでん出汁）"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "CO025",
-        "CO026",
-        "CO027"
-      ]
-    },
-    {
-      "id": "CO066",
-      "brand": "坊っちゃん",
-      "name": "鶏チャーシュー（２個）",
-      "furigana": "トリチャーシュー（２コ）",
-      "category": "調理",
-      "time": "3分",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "仕込み_おでん鶏チャーシュー",
-          "amt": "2",
-          "unit": "個",
-          "linkId": "SH039"
-        },
-        {
-          "label": "仕込み_おでん出汁",
-          "amt": "適量",
-          "unit": "",
-          "linkId": "SH002"
-        },
-        {
-          "label": "鶏油",
-          "amt": "2",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "仕込んでおいた鶏チャーシューを2個お皿に盛る",
-          "note": false
-        },
-        {
-          "text": "おでん出汁を入れる",
-          "note": false
-        },
-        {
-          "text": "鶏油を少量入れる",
-          "note": false
-        },
-        {
-          "text": "完成",
-          "note": false
-        },
-        {
-          "text": "おでんウォーマーに入れていると煮崩れるなら仕込んだチャーシューの保管は出汁に漬けて冷蔵庫でもいいです。\nその場合はオーダーが通れば出汁と一緒にレンジにかけるか、お鍋で温めて提供してください",
-          "note": true
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1Y0ycTXmKqSrcomsC7EzD8_04rOiOZku7/view?usp=drivesdk"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1P0Qv27mwvXfhy2Zuinwwu3IQVaX63K6t/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1Hk45FVUmFUL-B55MTzyeT7nGN7OSgCa3/view?usp=drivesdk"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [
-        {
-          "item": "皿",
-          "content": "呑水"
-        }
-      ],
-      "related": [
-        {
-          "id": "SH039",
-          "reason": "手動"
-        },
-        {
-          "id": "SH002",
-          "reason": "手動"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "CO025",
-        "CO026",
-        "CO027"
-      ]
-    },
-    {
-      "id": "CO032",
-      "brand": "坊っちゃん",
-      "name": "赤棒（２本）",
-      "furigana": "アカボウ（２ホン）",
-      "category": "調理",
-      "time": "5分",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "仕込み_おでん赤棒",
-          "amt": "2",
-          "unit": "本",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_おでん出汁",
-          "amt": "適量",
-          "unit": "",
-          "linkId": "SH002"
-        },
-        {
-          "label": "鶏油",
-          "amt": "2",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "仕込んでおいたおでん用の赤棒を2本お皿に盛る",
-          "note": false
-        },
-        {
-          "text": "おでん出汁を入れる",
-          "note": false
-        },
-        {
-          "text": "鶏油を少量入れる",
-          "note": false
-        },
-        {
-          "text": "完成",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1POP0_LIobrNHUxpHAw-7EJ0EWzSx0h9Q/view?usp=drivesdk"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1P0Qv27mwvXfhy2Zuinwwu3IQVaX63K6t/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1gkyY19yiM_uX3Ln9hYOqV0Ne97mB8Erd/view?usp=drivesdk"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [
-        {
-          "item": "皿",
-          "content": "呑水"
-        }
-      ],
-      "related": [
-        {
-          "id": "SH049",
-          "reason": "手動"
-        },
-        {
-          "id": "SH002",
-          "reason": "手動"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "CO025",
-        "CO026",
-        "CO027"
-      ]
-    },
-    {
-      "id": "CO024",
-      "brand": "坊っちゃん",
-      "name": "大根（１個）",
-      "furigana": "ダイコン（１コ）",
-      "category": "調理",
-      "time": "5分",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "仕込み_おでん大根",
-          "amt": "1",
-          "unit": "個",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_おでん出汁",
-          "amt": "適量",
-          "unit": "",
-          "linkId": "SH002"
-        },
-        {
-          "label": "鶏油",
-          "amt": "2",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "仕込んでおいたおでん用の大根を1個お皿に盛る",
-          "note": false
-        },
-        {
-          "text": "おでん出汁を入れる",
-          "note": false
-        },
-        {
-          "text": "鶏油を少量入れる",
-          "note": false
-        },
-        {
-          "text": "完成",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1en_uTux9-5ZU_geQKgobizg159Y13NJI/view?usp=drivesdk"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1P0Qv27mwvXfhy2Zuinwwu3IQVaX63K6t/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1OPcwzY-ZTQ6ugGY3YFQXrx8vffNwyEut/view?usp=drivesdk"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [
-        {
-          "item": "皿",
-          "content": "呑水"
-        }
-      ],
-      "related": [
-        {
-          "id": "SH019",
-          "reason": "手動"
-        },
-        {
-          "id": "SH002",
-          "reason": "手動"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "CO025",
-        "CO026",
-        "CO027"
-      ]
-    },
-    {
       "id": "SH053",
       "brand": "坊っちゃん",
       "name": "仕込み_雲仙ハム",
@@ -12708,7 +12716,7 @@
         "SH014",
         "SH015",
         "CO014",
-        "SH003"
+        "SH001"
       ]
     },
     {
