@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T11:58:28.042Z",
+  "generatedAt": "2026-08-11T12:26:24.061Z",
   "count": 122,
   "recipes": [
     {
@@ -140,7 +140,7 @@
       "suggested": [
         "SH032",
         "SH005",
-        "SH010"
+        "SH016"
       ]
     },
     {
@@ -1020,118 +1020,6 @@
         "SH006",
         "SH007",
         "SH008"
-      ]
-    },
-    {
-      "id": "SH010",
-      "brand": "坊っちゃん",
-      "name": "仕込み_みんち串",
-      "furigana": "シコミ_ミンチクシ",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "みんち",
-          "amt": "1000",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "水",
-          "amt": "3000",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "水を火にかけて沸騰させる",
-          "note": false
-        },
-        {
-          "text": "沸騰したら弱火にする",
-          "note": false
-        },
-        {
-          "text": "弱火にした後は沸いてなくてOK",
-          "note": true
-        },
-        {
-          "text": "みんちを50gにポーションして楕円の小判型にする",
-          "note": false
-        },
-        {
-          "text": "1PCで20人前取れるようにしてください",
-          "note": true
-        },
-        {
-          "text": "②の中に入れて1分ほど放置",
-          "note": false
-        },
-        {
-          "text": "軽く触っても型崩れしない程度に表面が固まれば水を切って粗熱が取れるまで放置",
-          "note": false
-        },
-        {
-          "text": "中まで火が通ってなくてもOK！むしろその方がいいです",
-          "note": true
-        },
-        {
-          "text": "粗熱取れたら冷蔵保存",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：2,440mlタッパ",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH001",
-        "SH002",
-        "SH005",
-        "SH021",
-        "SH032"
       ]
     },
     {
@@ -2134,6 +2022,115 @@
         "SH044",
         "SH045",
         "SH046"
+      ]
+    },
+    {
+      "id": "SH010",
+      "brand": "坊っちゃん",
+      "name": "仕込み_みんち下茹で",
+      "furigana": "シコミ_ミンチシタユデ",
+      "category": "仕込み",
+      "time": "10分",
+      "yieldAmt": 20,
+      "yieldUnit": "人前",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "みんち",
+          "amt": "1000",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "水",
+          "amt": "3000",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "みんちを前日に冷蔵解凍しておく",
+          "note": false
+        },
+        {
+          "text": "14番のディッシャーでミンチを取り成型して水の中に入れる",
+          "note": false
+        },
+        {
+          "text": "1個目安：50g",
+          "note": true
+        },
+        {
+          "text": "成型時には小判型にする俵型にすると焼く際に中まで火が通るのに時間がかかり仕上げ工程が重くなります",
+          "note": true
+        },
+        {
+          "text": "全て成型し終えたら火にかける",
+          "note": false
+        },
+        {
+          "text": "内火、外火共に中火くらいで火にかける",
+          "note": false
+        },
+        {
+          "text": "沸騰する手前で火を止め粗熱が取れるまで放置",
+          "note": false
+        },
+        {
+          "text": "粗熱が取れたら容器に移し冷蔵保管",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1SB9jrQ8_R1cTMw0AQ-ibpxUr8eEvDPnp/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/11E4ktCLdustoOrAIi_m_mckF7FkjcogF/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1-GnXAAEpoanInLY4a_sOfjdcHlXhLcoz/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/11JMiPcA1l20WUEZSD-9KNd7LonllthiA/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [],
+      "comments": [],
+      "suggested": [
+        "SH001",
+        "SH002",
+        "SH005",
+        "SH021",
+        "SH032"
       ]
     },
     {
