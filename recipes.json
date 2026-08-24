@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T06:25:46.782Z",
+  "generatedAt": "2026-08-24T06:57:15.818Z",
   "count": 125,
   "recipes": [
     {
@@ -13134,7 +13134,7 @@
       "time": "30分",
       "yieldAmt": 16,
       "yieldUnit": "人前前後",
-      "appOrder": 108,
+      "appOrder": 109,
       "ingredients": [
         {
           "label": "牛ハツ",
@@ -13167,6 +13167,10 @@
         }
       ],
       "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1QFlKeI2HQMUXFKHfoSUjB1E_KgVHT9Nf/view?usp=drivesdk"
+        },
         {
           "type": "お皿写真",
           "url": "https://drive.google.com/file/d/1aBKKR4sKz7sTb0dyUClCahRt7JimH2bj/view?usp=drivesdk"
