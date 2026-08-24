@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T09:36:25.479Z",
+  "generatedAt": "2026-08-24T09:54:46.746Z",
   "count": 125,
   "recipes": [
     {
@@ -12628,14 +12628,18 @@
           "content": "ホルモン皿"
         }
       ],
-      "related": [],
+      "related": [
+        {
+          "id": "CU006",
+          "reason": "手動"
+        }
+      ],
       "comments": [],
       "suggested": [
         "CO003",
         "CO004",
         "CO005",
-        "CO006",
-        "CO008"
+        "CO006"
       ]
     },
     {
