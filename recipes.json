@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T06:09:25.906Z",
-  "count": 123,
+  "generatedAt": "2026-08-24T06:15:42.126Z",
+  "count": 124,
   "recipes": [
     {
       "id": "SH001",
@@ -12823,7 +12823,8 @@
       "comments": [],
       "suggested": [
         "CU002",
-        "CU003"
+        "CU003",
+        "CU004"
       ]
     },
     {
@@ -13044,7 +13045,82 @@
       "comments": [],
       "suggested": [
         "CU001",
-        "CU002"
+        "CU002",
+        "CU004"
+      ]
+    },
+    {
+      "id": "CU004",
+      "brand": "坊っちゃん",
+      "name": "切り物_ガツ",
+      "furigana": "キリモノ_ガツ",
+      "category": "切り物",
+      "time": "20分",
+      "yieldAmt": 8,
+      "yieldUnit": "人前前後",
+      "appOrder": 106,
+      "ingredients": [
+        {
+          "label": "ガツ",
+          "amt": "1",
+          "unit": "PC",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "前日にガツを冷蔵解凍しておく",
+          "note": false
+        },
+        {
+          "text": "2cm角目安でカットしていく",
+          "note": false
+        },
+        {
+          "text": "大きくしすぎると嚙むのがしんどいです",
+          "note": true
+        },
+        {
+          "text": "6g前後/個。を目安にカットしていく",
+          "note": false
+        },
+        {
+          "text": "ポーション袋に60gずつ入れて保存",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1TgmZmGk61zLyvUpIsnFnKzW923JJKroK/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1aBKKR4sKz7sTb0dyUClCahRt7JimH2bj/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1i2eiLTJOJX_Jx6zQRziS3NiIDE1MNT7x/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "ポーション袋"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO021",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CU001",
+        "CU002",
+        "CU003"
       ]
     }
   ]
