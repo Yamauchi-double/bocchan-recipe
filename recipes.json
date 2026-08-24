@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:01:36.785Z",
+  "generatedAt": "2026-08-24T09:36:25.479Z",
   "count": 125,
   "recipes": [
     {
@@ -6655,140 +6655,6 @@
       ]
     },
     {
-      "id": "CO019",
-      "brand": "坊っちゃん",
-      "name": "牛ハツ（牛の心臓）",
-      "furigana": "ウシハツ（ウシノシンゾウ）",
-      "category": "調理",
-      "time": "5分",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "牛ハツ",
-          "amt": "60",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "焼き鳥のたれ",
-          "amt": "10",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "赤みそだれ",
-          "amt": "10",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "塩の場合",
-          "note": true
-        },
-        {
-          "text": "フライパンを軽く温める",
-          "note": false
-        },
-        {
-          "text": "油を少し引く",
-          "note": false
-        },
-        {
-          "text": "ポーションしておいた牛ハツを６０ｇフライパンに入れる",
-          "note": false
-        },
-        {
-          "text": "中～強火",
-          "note": true
-        },
-        {
-          "text": "軽く塩コショウして２～３分ほど炒める",
-          "note": false
-        },
-        {
-          "text": "お皿に盛って完成",
-          "note": false
-        },
-        {
-          "text": "タレ、みその場合",
-          "note": true
-        },
-        {
-          "text": "フライパンを軽く温める",
-          "note": false
-        },
-        {
-          "text": "油を少し引く",
-          "note": false
-        },
-        {
-          "text": "ポーションしておいた牛ハツを６０ｇフライパンに入れる",
-          "note": false
-        },
-        {
-          "text": "中～強火",
-          "note": true
-        },
-        {
-          "text": "２～３分ほど炒める",
-          "note": false
-        },
-        {
-          "text": "ある程度炒まったらタレ or みそを入れて火を止めてソースと馴染ませる",
-          "note": false
-        },
-        {
-          "text": "お皿に盛って完成",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO003",
-        "CO004",
-        "CO005",
-        "CO006",
-        "CO008"
-      ]
-    },
-    {
       "id": "CO020",
       "brand": "坊っちゃん",
       "name": "アカセン（牛の4番目の胃袋）",
@@ -9715,9 +9581,9 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "CO019",
         "CO052",
         "CO063",
+        "CO019",
         "SH030",
         "CU006"
       ]
@@ -12615,6 +12481,145 @@
         {
           "type": "工程写真",
           "url": "https://drive.google.com/file/d/14f4oD-KmJ5Q_iJxAPimZmpIKEEj8eSVh/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "ホルモン皿"
+        }
+      ],
+      "related": [],
+      "comments": [],
+      "suggested": [
+        "CO003",
+        "CO004",
+        "CO005",
+        "CO006",
+        "CO008"
+      ]
+    },
+    {
+      "id": "CO019",
+      "brand": "坊っちゃん",
+      "name": "牛ハツ（牛の心臓）",
+      "furigana": "ウシハツ（ウシノシンゾウ）ギュウ",
+      "category": "調理",
+      "time": "5分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 83,
+      "ingredients": [
+        {
+          "label": "牛ハツ",
+          "amt": "60",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "焼き鳥のたれ",
+          "amt": "10",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "赤みそだれ",
+          "amt": "10",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "塩の場合",
+          "note": true
+        },
+        {
+          "text": "フライパンを軽く温める",
+          "note": false
+        },
+        {
+          "text": "油を少し引く",
+          "note": false
+        },
+        {
+          "text": "ポーションしておいた牛ハツを６０ｇフライパンに入れる",
+          "note": false
+        },
+        {
+          "text": "中～強火",
+          "note": true
+        },
+        {
+          "text": "軽く塩コショウして２～３分ほど炒める",
+          "note": false
+        },
+        {
+          "text": "お皿に盛って完成",
+          "note": false
+        },
+        {
+          "text": "タレ、みその場合",
+          "note": true
+        },
+        {
+          "text": "フライパンを軽く温める",
+          "note": false
+        },
+        {
+          "text": "油を少し引く",
+          "note": false
+        },
+        {
+          "text": "ポーションしておいた牛ハツを６０ｇフライパンに入れる",
+          "note": false
+        },
+        {
+          "text": "中～強火",
+          "note": true
+        },
+        {
+          "text": "２～３分ほど炒める",
+          "note": false
+        },
+        {
+          "text": "ある程度炒まったらタレ or みそを入れて火を止めてソースと馴染ませる",
+          "note": false
+        },
+        {
+          "text": "お皿に盛って完成",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1K4n_MdkeV1wtq69_SO5kseAhJeVGlT3J/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1hvgH2mey-Li4CoHPHrMj8fpYTRz2jhAP/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1vPt_7PfUN3LAHxTvj__RcC6rQHLuaygS/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1syRyC9Os5fBJUKyFfizHK_F6HpZei-qH/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1e-VHkjoGEFwEA1NFNXFwJRYDbjvJoh4B/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1t-srNq_hzoWmpQGrwGlQZ9I9izR5GDQb/view?usp=drivesdk"
         }
       ],
       "plating": [
