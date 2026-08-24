@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T12:26:24.061Z",
-  "count": 122,
+  "generatedAt": "2026-08-24T06:09:25.906Z",
+  "count": 123,
   "recipes": [
     {
       "id": "SH001",
@@ -12822,7 +12822,8 @@
       ],
       "comments": [],
       "suggested": [
-        "CU002"
+        "CU002",
+        "CU003"
       ]
     },
     {
@@ -12963,6 +12964,87 @@
       "comments": [],
       "suggested": [
         "CU001"
+      ]
+    },
+    {
+      "id": "CU003",
+      "brand": "坊っちゃん",
+      "name": "切り物_おっぱい",
+      "furigana": "キリモノ_オッパイ",
+      "category": "切り物",
+      "time": "20分",
+      "yieldAmt": 16,
+      "yieldUnit": "人前前後",
+      "appOrder": 105,
+      "ingredients": [
+        {
+          "label": "おっぱい",
+          "amt": "1",
+          "unit": "pc",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "おっぱいを前日解凍しておく",
+          "note": false
+        },
+        {
+          "text": "解凍できたおっぱいを3cm前後の幅感になる様にサク取りする",
+          "note": false
+        },
+        {
+          "text": "サクの大きさにもよりますが少し斜めにして薄くスライスしていく",
+          "note": false
+        },
+        {
+          "text": "5mm厚くらいにカットしていく",
+          "note": false
+        },
+        {
+          "text": "10g以内/枚。を目安にする\nある程度の大きさの盤を取れるようにサク取り出来れば",
+          "note": true
+        },
+        {
+          "text": "60g目安でポーションして保存",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/136xBBUMZ9AAPpdfJTnsciqfSbin2651E/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1aBKKR4sKz7sTb0dyUClCahRt7JimH2bj/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1wCl2OeGdtEfvXn0un5EGF4zORAnjnISe/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/19y9RjxLy4n56aPhIDRjPvRicBlo5e6-Y/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "ポーション袋"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO018",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CU001",
+        "CU002"
       ]
     }
   ]
