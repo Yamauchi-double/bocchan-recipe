@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T06:20:25.860Z",
-  "count": 124,
+  "generatedAt": "2026-08-24T06:25:46.782Z",
+  "count": 125,
   "recipes": [
     {
       "id": "SH001",
@@ -9853,7 +9853,7 @@
         "CO052",
         "CO063",
         "SH030",
-        "CO001"
+        "CU006"
       ]
     },
     {
@@ -13046,7 +13046,8 @@
       "suggested": [
         "CU001",
         "CU002",
-        "CU004"
+        "CU004",
+        "CU006"
       ]
     },
     {
@@ -13118,6 +13119,78 @@
       ],
       "comments": [],
       "suggested": [
+        "CU001",
+        "CU002",
+        "CU003",
+        "CU006"
+      ]
+    },
+    {
+      "id": "CU006",
+      "brand": "坊っちゃん",
+      "name": "切り物_牛ハツ",
+      "furigana": "キリモノ_ギュウハツ",
+      "category": "切り物",
+      "time": "30分",
+      "yieldAmt": 16,
+      "yieldUnit": "人前前後",
+      "appOrder": 108,
+      "ingredients": [
+        {
+          "label": "牛ハツ",
+          "amt": "1",
+          "unit": "PC",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "前日に解凍しておく",
+          "note": false
+        },
+        {
+          "text": "3～4㎝前後でサク取りをする",
+          "note": false
+        },
+        {
+          "text": "不要なハツはサク取り後にしっかりとラップして冷凍保存",
+          "note": true
+        },
+        {
+          "text": "過剰な脂を外しながら、5mm厚目安でスライスしていく",
+          "note": false
+        },
+        {
+          "text": "脂は盤の中の2/3量が最大値。を目安にしてください",
+          "note": true
+        }
+      ],
+      "media": [
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1aBKKR4sKz7sTb0dyUClCahRt7JimH2bj/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/19QQ-t72aVdTKhrP2nPYLuwqx2oxqGwk-/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "ポーション袋"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO019",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CO051",
         "CU001",
         "CU002",
         "CU003"
