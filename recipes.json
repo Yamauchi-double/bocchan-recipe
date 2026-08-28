@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T17:07:30.072Z",
-  "count": 125,
+  "generatedAt": "2026-08-28T05:19:10.261Z",
+  "count": 126,
   "recipes": [
     {
       "id": "SH001",
@@ -45,13 +45,13 @@
         }
       ],
       "allergens": [
+        "牛肉",
         "鶏肉",
         "大豆",
         "豚肉",
         "乳製品",
         "さば",
         "小麦",
-        "牛肉",
         "ゼラチン"
       ],
       "steps": [
@@ -331,7 +331,12 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "鶏肉",
+        "小麦",
+        "大豆",
+        "豚肉"
+      ],
       "steps": [
         {
           "text": "もも肉を事前に解凍しておく",
@@ -1002,7 +1007,9 @@
           "linkId": "SH009"
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "鶏肉"
+      ],
       "steps": [
         {
           "text": "漬けダレに砂肝串を漬ける",
@@ -1311,7 +1318,9 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "鶏肉"
+      ],
       "steps": [
         {
           "text": "ふりそでを解凍する",
@@ -1671,7 +1680,9 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "牛肉"
+      ],
       "steps": [
         {
           "text": "ムキタンを前日に冷蔵解凍しておく",
@@ -2008,106 +2019,6 @@
       ]
     },
     {
-      "id": "SH020",
-      "brand": "坊っちゃん",
-      "name": "仕込み_おでんこんにゃく",
-      "furigana": "シコミ_オデンコンニャク",
-      "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "おでんこんにゃく",
-          "amt": "40",
-          "unit": "個",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_おでん出汁",
-          "amt": "1000",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [],
-      "steps": [
-        {
-          "text": "おでん出汁を用意する",
-          "note": false
-        },
-        {
-          "text": "②の中に①を入れる",
-          "note": false
-        },
-        {
-          "text": "火にかける",
-          "note": false
-        },
-        {
-          "text": "沸いたら中～弱火でコトコト炊く",
-          "note": false
-        },
-        {
-          "text": "沸いてから３０分経過したら火を止めて放置",
-          "note": false
-        },
-        {
-          "text": "粗熱が取れたら容器に入れて保存",
-          "note": false
-        },
-        {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：13cmポット",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "SH001",
-        "SH019",
-        "SH044",
-        "SH045",
-        "SH046"
-      ]
-    },
-    {
       "id": "SH010",
       "brand": "坊っちゃん",
       "name": "仕込み_みんち下茹で",
@@ -2217,37 +2128,48 @@
       ]
     },
     {
-      "id": "SH044",
+      "id": "SH020",
       "brand": "坊っちゃん",
-      "name": "仕込み_おでん厚揚げ",
-      "furigana": "シコミ_オデンアツアゲ",
+      "name": "仕込み_おでんこんにゃく",
+      "furigana": "シコミ_オデンコンニャク",
       "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 44,
+      "time": "30分",
+      "yieldAmt": 15,
+      "yieldUnit": "人前前後",
+      "appOrder": 43,
       "ingredients": [
         {
-          "label": "厚揚げ",
-          "amt": "25",
-          "unit": "個",
+          "label": "おでんこんにゃく",
+          "amt": "1",
+          "unit": "PC",
           "linkId": ""
         },
         {
           "label": "仕込み_おでん出汁",
           "amt": "1000",
           "unit": "g",
-          "linkId": ""
+          "linkId": "SH002"
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "鶏肉",
+        "大豆",
+        "豚肉",
+        "乳製品",
+        "さば",
+        "小麦"
+      ],
       "steps": [
         {
           "text": "おでん出汁を用意する",
           "note": false
         },
         {
-          "text": "②の中に①を入れる",
+          "text": "こんにゃくの袋を開けて汁気を切る",
+          "note": false
+        },
+        {
+          "text": "おでん出汁の中にこんにゃくを入れる",
           "note": false
         },
         {
@@ -2267,22 +2189,18 @@
           "note": false
         },
         {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：13cmポット",
+          "text": "保存期間：冷蔵3日",
           "note": false
         }
       ],
       "media": [
         {
           "type": "料理写真",
-          "url": "完成写真URL貼り付け"
+          "url": "https://drive.google.com/file/d/1beB_O_DjGG2apSPcwl6bzF_KUeCjG3N7/view?usp=drivesdk"
         },
         {
           "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
         },
         {
           "type": "工程写真",
@@ -2290,7 +2208,7 @@
         },
         {
           "type": "動画",
-          "url": "動画URL貼り付け"
+          "url": "https://drive.google.com/file/d/1zYP842McV6ilZXHtefg12LqBaUZeNqzK/view?usp=drivesdk"
         },
         {
           "type": "PDF",
@@ -2305,15 +2223,142 @@
           "url": "調理工程写真URL③貼り付け"
         }
       ],
-      "plating": [],
-      "related": [],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO025",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "使用する仕込み（仕込み_おでん出汁）"
+        }
+      ],
       "comments": [],
       "suggested": [
         "SH001",
         "SH019",
-        "SH020",
-        "SH045",
-        "SH046"
+        "SH044"
+      ]
+    },
+    {
+      "id": "SH044",
+      "brand": "坊っちゃん",
+      "name": "仕込み_おでん厚揚げ",
+      "furigana": "シコミ_オデンアツアゲ",
+      "category": "仕込み",
+      "time": "30分",
+      "yieldAmt": 12,
+      "yieldUnit": "人前前後",
+      "appOrder": 44,
+      "ingredients": [
+        {
+          "label": "厚揚げ",
+          "amt": "1",
+          "unit": "PC",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_おでん出汁",
+          "amt": "1000",
+          "unit": "g",
+          "linkId": "SH002"
+        }
+      ],
+      "allergens": [
+        "大豆",
+        "鶏肉",
+        "豚肉",
+        "乳製品",
+        "さば",
+        "小麦"
+      ],
+      "steps": [
+        {
+          "text": "おでん出汁を用意する",
+          "note": false
+        },
+        {
+          "text": "解凍しておいた厚揚げをおでん出汁の中に入れる",
+          "note": false
+        },
+        {
+          "text": "火にかける",
+          "note": false
+        },
+        {
+          "text": "沸いたら中～弱火でコトコト炊く",
+          "note": false
+        },
+        {
+          "text": "沸いてから３０分経過したら火を止めて放置",
+          "note": false
+        },
+        {
+          "text": "粗熱が取れたら容器に入れて保存",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1qwG_bqL8QUoj5u0ddIqqwmhlnB_UHx_9/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL①貼り付け"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1hKBwXH7DdKo4Vc8PqE_wZwsxGTsmrLNR/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO026",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "使用する仕込み（仕込み_おでん出汁）"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH001",
+        "SH019",
+        "SH020"
       ]
     },
     {
@@ -2322,32 +2367,39 @@
       "name": "仕込み_おでん餅巾着",
       "furigana": "シコミ_オデンモチキンチャク",
       "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
+      "time": "30分",
+      "yieldAmt": 25,
+      "yieldUnit": "人前",
       "appOrder": 45,
       "ingredients": [
         {
           "label": "餅巾着",
-          "amt": "25",
-          "unit": "個",
+          "amt": "1",
+          "unit": "PC",
           "linkId": ""
         },
         {
           "label": "仕込み_おでん出汁",
           "amt": "1000",
           "unit": "g",
-          "linkId": ""
+          "linkId": "SH002"
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "大豆",
+        "鶏肉",
+        "豚肉",
+        "乳製品",
+        "さば",
+        "小麦"
+      ],
       "steps": [
         {
           "text": "おでん出汁を用意する",
           "note": false
         },
         {
-          "text": "②の中に①を入れる",
+          "text": "解凍しておいた餅巾着をおでん出汁の中に入れる",
           "note": false
         },
         {
@@ -2367,22 +2419,18 @@
           "note": false
         },
         {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：13cmポット",
+          "text": "保存期間：冷蔵3日",
           "note": false
         }
       ],
       "media": [
         {
           "type": "料理写真",
-          "url": "完成写真URL貼り付け"
+          "url": "https://drive.google.com/file/d/17UbqowtRUh7A9gMa_otlDiwpvQtR5XP1/view?usp=drivesdk"
         },
         {
           "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
         },
         {
           "type": "工程写真",
@@ -2390,7 +2438,7 @@
         },
         {
           "type": "動画",
-          "url": "動画URL貼り付け"
+          "url": "https://drive.google.com/file/d/1c8DUkZ-q2NwSUBbKb5xZiPKB-XP_JRTV/view?usp=drivesdk"
         },
         {
           "type": "PDF",
@@ -2405,15 +2453,27 @@
           "url": "調理工程写真URL③貼り付け"
         }
       ],
-      "plating": [],
-      "related": [],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO027",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "使用する仕込み（仕込み_おでん出汁）"
+        }
+      ],
       "comments": [],
       "suggested": [
         "SH001",
         "SH019",
-        "SH020",
-        "SH044",
-        "SH046"
+        "SH020"
       ]
     },
     {
@@ -2554,9 +2614,9 @@
         }
       ],
       "allergens": [
+        "豚肉",
         "鶏肉",
         "大豆",
-        "豚肉",
         "乳製品",
         "さば",
         "小麦"
@@ -2661,7 +2721,11 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "小麦",
+        "大豆",
+        "豚肉"
+      ],
       "steps": [
         {
           "text": "おでん出汁を用意する",
@@ -2762,12 +2826,13 @@
         }
       ],
       "allergens": [
-        "鶏肉",
         "大豆",
+        "卵",
+        "小麦",
+        "鶏肉",
         "豚肉",
         "乳製品",
-        "さば",
-        "小麦"
+        "さば"
       ],
       "steps": [
         {
@@ -3626,7 +3691,9 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "小麦"
+      ],
       "steps": [
         {
           "text": "バケットを解凍する",
@@ -3823,7 +3890,12 @@
       "allergens": [
         "卵",
         "小麦",
-        "大豆"
+        "大豆",
+        "乳成分",
+        "豚肉",
+        "りんご",
+        "さば",
+        "さけ"
       ],
       "steps": [
         {
@@ -3921,10 +3993,10 @@
         }
       ],
       "allergens": [
-        "鶏肉",
-        "大豆",
-        "豚肉",
         "乳製品",
+        "大豆",
+        "鶏肉",
+        "豚肉",
         "さば",
         "小麦"
       ],
@@ -4029,7 +4101,9 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "大豆"
+      ],
       "steps": [
         {
           "text": "焼豆腐を１／２にカットする",
@@ -4262,6 +4336,7 @@
       ],
       "allergens": [
         "小麦",
+        "乳製品",
         "大豆"
       ],
       "steps": [
@@ -4755,12 +4830,15 @@
         }
       ],
       "allergens": [
-        "鶏肉",
+        "小麦",
+        "卵",
+        "乳成分",
+        "ごま",
         "大豆",
+        "鶏肉",
         "豚肉",
         "乳製品",
-        "さば",
-        "小麦"
+        "さば"
       ],
       "steps": [
         {
@@ -4885,7 +4963,15 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "鶏肉",
+        "小麦",
+        "ごま",
+        "大豆",
+        "乳",
+        "豚肉",
+        "牛肉"
+      ],
       "steps": [
         {
           "text": "もも肉を事前に解凍しておく",
@@ -5177,9 +5263,9 @@
       "name": "仕込み_おでんチーズ天",
       "furigana": "シコミ_オデンチーズテン",
       "category": "仕込み",
-      "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
+      "time": "30分",
+      "yieldAmt": 20,
+      "yieldUnit": "人前",
       "appOrder": 52,
       "ingredients": [
         {
@@ -5192,21 +5278,26 @@
           "label": "仕込み_おでん出汁",
           "amt": "1000",
           "unit": "g",
-          "linkId": ""
+          "linkId": "SH002"
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "乳成分",
+        "卵",
+        "小麦",
+        "大豆",
+        "鶏肉",
+        "豚肉",
+        "乳製品",
+        "さば"
+      ],
       "steps": [
-        {
-          "text": "仕込んでおいたみんちを用意する",
-          "note": false
-        },
         {
           "text": "おでん出汁を用意する",
           "note": false
         },
         {
-          "text": "②の中に①を入れる",
+          "text": "解凍しておいたチーズ天のパックを開けおでん出汁の中に入れる",
           "note": false
         },
         {
@@ -5226,11 +5317,7 @@
           "note": false
         },
         {
-          "text": "保存期間：冷蔵4日",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：13cmポット",
+          "text": "保存期間：冷蔵3日",
           "note": false
         }
       ],
@@ -5241,7 +5328,7 @@
         },
         {
           "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
         },
         {
           "type": "工程写真",
@@ -5264,15 +5351,27 @@
           "url": "調理工程写真URL③貼り付け"
         }
       ],
-      "plating": [],
-      "related": [],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO038",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "使用する仕込み（仕込み_おでん出汁）"
+        }
+      ],
       "comments": [],
       "suggested": [
         "SH001",
         "SH019",
-        "SH020",
-        "SH044",
-        "SH045"
+        "SH020"
       ]
     },
     {
@@ -5956,7 +6055,9 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "鶏肉"
+      ],
       "steps": [
         {
           "text": "解凍した串を175°のフライヤーに入れる",
@@ -6901,6 +7002,7 @@
         }
       ],
       "allergens": [
+        "牛肉",
         "大豆",
         "小麦",
         "ごま",
@@ -7040,6 +7142,7 @@
         }
       ],
       "allergens": [
+        "豚肉",
         "大豆",
         "小麦",
         "ごま",
@@ -7179,6 +7282,7 @@
         }
       ],
       "allergens": [
+        "豚肉",
         "大豆",
         "小麦",
         "ごま",
@@ -7844,9 +7948,9 @@
         }
       ],
       "allergens": [
+        "豚肉",
         "鶏肉",
         "大豆",
-        "豚肉",
         "乳製品",
         "さば",
         "小麦",
@@ -8390,12 +8494,13 @@
         }
       ],
       "allergens": [
-        "鶏肉",
-        "大豆",
-        "豚肉",
-        "乳製品",
-        "さば",
         "小麦",
+        "乳製品",
+        "牛肉",
+        "大豆",
+        "鶏肉",
+        "豚肉",
+        "さば",
         "ごま"
       ],
       "steps": [
@@ -8722,6 +8827,7 @@
         }
       ],
       "allergens": [
+        "卵",
         "小麦",
         "大豆",
         "鶏肉",
@@ -9556,7 +9662,14 @@
         }
       ],
       "allergens": [
-        "豚肉"
+        "豚肉",
+        "牛肉",
+        "小麦",
+        "乳成分",
+        "大豆",
+        "りんご",
+        "さば",
+        "さけ"
       ],
       "steps": [
         {
@@ -9876,7 +9989,10 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "小麦",
+        "乳製品"
+      ],
       "steps": [
         {
           "text": "トルティーヤの上にコーン、オニオンスライスを盛る",
@@ -9976,7 +10092,10 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "小麦",
+        "乳製品"
+      ],
       "steps": [
         {
           "text": "トルティーヤの上に明太ポテサラを盛る",
@@ -10075,7 +10194,8 @@
         "ごま",
         "大豆",
         "鶏肉",
-        "豚肉"
+        "豚肉",
+        "乳製品"
       ],
       "steps": [
         {
@@ -10193,6 +10313,7 @@
         }
       ],
       "allergens": [
+        "牛肉",
         "卵"
       ],
       "steps": [
@@ -10587,6 +10708,7 @@
         }
       ],
       "allergens": [
+        "鶏肉",
         "ごま"
       ],
       "steps": [
@@ -10945,13 +11067,15 @@
         }
       ],
       "allergens": [
-        "鶏肉",
+        "小麦",
+        "卵",
+        "乳成分",
+        "ごま",
         "大豆",
+        "鶏肉",
         "豚肉",
         "乳製品",
-        "さば",
-        "小麦",
-        "ごま"
+        "さば"
       ],
       "steps": [
         {
@@ -11076,7 +11200,11 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "大豆",
+        "小麦",
+        "ごま"
+      ],
       "steps": [
         {
           "text": "仕込んでおいた米が入った釜の中にうなぎを入れる",
@@ -11143,9 +11271,9 @@
       "suggested": [
         "CO070",
         "CO074",
+        "CU007",
         "CO001",
-        "CO002",
-        "CO003"
+        "CO002"
       ]
     },
     {
@@ -11190,7 +11318,9 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "かに"
+      ],
       "steps": [
         {
           "text": "仕込んでおいた米が入った釜の中にかにを入れる",
@@ -11294,7 +11424,11 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "卵",
+        "小麦",
+        "大豆"
+      ],
       "steps": [
         {
           "text": "１パックを１２カットした出汁巻き玉子を４個用意する",
@@ -11526,7 +11660,10 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "小麦",
+        "乳製品"
+      ],
       "steps": [
         {
           "text": "水を沸かしておく",
@@ -11622,7 +11759,11 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "小麦",
+        "乳製品",
+        "大豆"
+      ],
       "steps": [
         {
           "text": "チーズポテト餅を１７５°に熱しておいたフライヤーに７５ｇ入れる",
@@ -11805,7 +11946,10 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "卵",
+        "乳製品"
+      ],
       "steps": [
         {
           "text": "冷凍されている雪見大福を３個お皿に盛る",
@@ -12061,12 +12205,14 @@
         }
       ],
       "allergens": [
-        "鶏肉",
+        "卵",
+        "小麦",
+        "いか",
         "大豆",
+        "鶏肉",
         "豚肉",
         "乳製品",
         "さば",
-        "小麦",
         "ごま"
       ],
       "steps": [
@@ -12264,6 +12410,8 @@
         }
       ],
       "allergens": [
+        "卵",
+        "豚肉",
         "大豆",
         "小麦",
         "ごま",
@@ -12390,6 +12538,9 @@
         }
       ],
       "allergens": [
+        "小麦",
+        "卵",
+        "大豆",
         "ごま"
       ],
       "steps": [
@@ -12487,6 +12638,7 @@
         }
       ],
       "allergens": [
+        "牛肉",
         "大豆",
         "小麦",
         "ごま",
@@ -12635,6 +12787,7 @@
         }
       ],
       "allergens": [
+        "豚肉",
         "大豆",
         "小麦",
         "ごま",
@@ -12967,6 +13120,7 @@
         }
       ],
       "allergens": [
+        "豚肉",
         "大豆",
         "小麦",
         "ごま",
@@ -13108,7 +13262,10 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "卵",
+        "豚肉"
+      ],
       "steps": [
         {
           "text": "雲仙ハムのパックを開けてハムを取り出す",
@@ -13207,7 +13364,11 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "卵",
+        "小麦",
+        "大豆"
+      ],
       "steps": [
         {
           "text": "パックを開けて出汁巻き玉子を取り出す",
@@ -13441,7 +13602,9 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "豚肉"
+      ],
       "steps": [
         {
           "text": "おっぱいを前日解凍しておく",
@@ -13524,7 +13687,9 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "豚肉"
+      ],
       "steps": [
         {
           "text": "前日にガツを冷蔵解凍しておく",
@@ -13599,7 +13764,9 @@
           "linkId": ""
         }
       ],
-      "allergens": [],
+      "allergens": [
+        "牛肉"
+      ],
       "steps": [
         {
           "text": "前日に解凍しておく",
@@ -13651,6 +13818,107 @@
       "comments": [],
       "suggested": [
         "CO051",
+        "CU001",
+        "CU002",
+        "CU003"
+      ]
+    },
+    {
+      "id": "CU007",
+      "brand": "坊っちゃん",
+      "name": "切り物_うなぎ",
+      "furigana": "キリモノ_ウナギ",
+      "category": "切り物",
+      "time": "15分",
+      "yieldAmt": 60,
+      "yieldUnit": "個前後",
+      "appOrder": 110,
+      "ingredients": [
+        {
+          "label": "鰻蒲焼",
+          "amt": "1",
+          "unit": "箱",
+          "linkId": ""
+        }
+      ],
+      "allergens": [
+        "大豆",
+        "小麦"
+      ],
+      "steps": [
+        {
+          "text": "鰻を前日解凍しておく",
+          "note": false
+        },
+        {
+          "text": "解凍出来た鰻をまな板に置きカットしていく",
+          "note": false
+        },
+        {
+          "text": "鰻の頭と尻尾の先を切り落とす",
+          "note": false
+        },
+        {
+          "text": "頭部分には鎖骨の様な硬い骨があるのでそれは切り落とす",
+          "note": true
+        },
+        {
+          "text": "尻尾は先のくるっとなっている部分を落とす程度で大丈夫です。",
+          "note": true
+        },
+        {
+          "text": "鰻の総量を計り70gが何個取れるかを確認する",
+          "note": false
+        },
+        {
+          "text": "例：総量260g→70g×3個→50gあまり",
+          "note": true
+        },
+        {
+          "text": "70gにカットした物はうな玉で優先的に使う。\n70gに満たない物は釜飯で使う",
+          "note": false
+        },
+        {
+          "text": "1つずつラップをして冷凍保存",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1RR9JPTmLYuNv4-8bzGqKSz8B8dKxcUHh/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/13QkutnXvJVMLn2fbA3JoPpGTbPzqlCng/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1QhRwo07ek0v--MAH0U0x22NbZWXycvGE/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1hidTt1jmbCOI44uVe9_CkkEFMCjAXVrp/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "ラップ"
+        }
+      ],
+      "related": [
+        {
+          "id": "CO067",
+          "reason": "手動"
+        },
+        {
+          "id": "CO074",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
         "CU001",
         "CU002",
         "CU003"
