@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T05:25:52.575Z",
+  "generatedAt": "2026-08-28T05:47:39.168Z",
   "count": 126,
   "recipes": [
     {
@@ -5324,7 +5324,7 @@
       "media": [
         {
           "type": "料理写真",
-          "url": "完成写真URL貼り付け"
+          "url": "https://drive.google.com/file/d/1caOntIKK0KpujiMYWDz7QFFaSlwO5rDo/view?usp=drivesdk"
         },
         {
           "type": "お皿写真",
@@ -5336,7 +5336,7 @@
         },
         {
           "type": "動画",
-          "url": "動画URL貼り付け"
+          "url": "https://drive.google.com/file/d/1sBpPtt8tFrna-5JF-XLa68HkU48GCujm/view?usp=drivesdk"
         },
         {
           "type": "PDF",
