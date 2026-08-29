@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T11:47:18.900Z",
+  "generatedAt": "2026-08-29T11:54:57.426Z",
   "count": 125,
   "recipes": [
     {
@@ -5360,7 +5360,7 @@
         "CO070",
         "CO082",
         "CO081",
-        "CO080"
+        "CO079"
       ]
     },
     {
@@ -5461,9 +5461,9 @@
       "suggested": [
         "CO083",
         "CO081",
-        "CO080",
         "CO079",
-        "CO078"
+        "CO078",
+        "CO077"
       ]
     },
     {
@@ -5531,82 +5531,9 @@
       "suggested": [
         "CO083",
         "CO082",
-        "CO080",
         "CO079",
-        "CO078"
-      ]
-    },
-    {
-      "id": "CO080",
-      "brand": "坊っちゃん",
-      "name": "ミニ雪見大福（３個）",
-      "furigana": "ミニユキミダイフク（３コ）",
-      "category": "調理",
-      "time": "",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 83,
-      "ingredients": [
-        {
-          "label": "雪見大福",
-          "amt": "3",
-          "unit": "個",
-          "linkId": ""
-        }
-      ],
-      "allergens": [
-        "卵",
-        "乳製品"
-      ],
-      "steps": [
-        {
-          "text": "冷凍されている雪見大福を３個お皿に盛る",
-          "note": false
-        },
-        {
-          "text": "完成",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "完成写真URL貼り付け"
-        },
-        {
-          "type": "お皿写真",
-          "url": "お皿写真URL貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL①貼り付け"
-        },
-        {
-          "type": "動画",
-          "url": "動画URL貼り付け"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL②貼り付け"
-        },
-        {
-          "type": "工程写真",
-          "url": "調理工程写真URL③貼り付け"
-        }
-      ],
-      "plating": [],
-      "related": [],
-      "comments": [],
-      "suggested": [
-        "CO083",
-        "CO082",
-        "CO081",
-        "CO079",
-        "CO078"
+        "CO078",
+        "CO077"
       ]
     },
     {
@@ -6258,7 +6185,7 @@
         "CO083",
         "CO082",
         "CO081",
-        "CO080"
+        "CO079"
       ]
     },
     {
@@ -7054,7 +6981,7 @@
         "CO083",
         "CO082",
         "CO081",
-        "CO080"
+        "CO079"
       ]
     },
     {
@@ -7801,7 +7728,7 @@
         "CO083",
         "CO082",
         "CO081",
-        "CO080"
+        "CO079"
       ]
     },
     {
@@ -8457,8 +8384,8 @@
         "CO083",
         "CO082",
         "CO081",
-        "CO080",
-        "CO079"
+        "CO079",
+        "CO078"
       ]
     },
     {
@@ -8634,8 +8561,8 @@
         "CO083",
         "CO082",
         "CO081",
-        "CO080",
-        "CO079"
+        "CO079",
+        "CO078"
       ]
     },
     {
@@ -8722,7 +8649,7 @@
         "CO083",
         "CO082",
         "CO081",
-        "CO080"
+        "CO079"
       ]
     },
     {
@@ -8912,8 +8839,8 @@
         "CO083",
         "CO082",
         "CO081",
-        "CO080",
-        "CO079"
+        "CO079",
+        "CO078"
       ]
     },
     {
@@ -12502,8 +12429,8 @@
         "CO083",
         "CO082",
         "CO081",
-        "CO080",
-        "CO079"
+        "CO079",
+        "CO078"
       ]
     },
     {
@@ -13167,6 +13094,84 @@
         "CO083",
         "CO082",
         "CO081"
+      ]
+    },
+    {
+      "id": "CO080",
+      "brand": "坊っちゃん",
+      "name": "ミニ雪見大福（３個）",
+      "furigana": "ミニユキミダイフク（３コ）",
+      "category": "調理",
+      "time": "1分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 83,
+      "ingredients": [
+        {
+          "label": "雪見大福",
+          "amt": "3",
+          "unit": "個",
+          "linkId": ""
+        }
+      ],
+      "allergens": [
+        "卵",
+        "乳製品"
+      ],
+      "steps": [
+        {
+          "text": "冷凍されている雪見大福を３個お皿に盛る",
+          "note": false
+        },
+        {
+          "text": "完成",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1lDTnQDPhha3BbIvgUzFjF-UxzPyJ7M-k/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "お皿写真URL貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1V9MO_2WkXM54bPhZJc-r2pRC8Q32O_kD/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1oRsQ6eHRTdrH5o8FEnCDQSKMlnujYxVZ/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL②貼り付け"
+        },
+        {
+          "type": "工程写真",
+          "url": "調理工程写真URL③貼り付け"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "ガラス皿"
+        }
+      ],
+      "related": [],
+      "comments": [],
+      "suggested": [
+        "CO083",
+        "CO082",
+        "CO081",
+        "CO079",
+        "CO078"
       ]
     },
     {
