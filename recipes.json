@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T12:08:06.458Z",
+  "generatedAt": "2026-08-30T12:18:50.419Z",
   "count": 130,
   "recipes": [
     {
@@ -14123,11 +14123,20 @@
           "note": false
         }
       ],
-      "media": [],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1bPpsXXhnNO1Bx3IFmOmo5FwQmiYH_jm_/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1lMwrR1RHyxEZsVf6e5XyfJQFca2Usy97/view?usp=drivesdk"
+        }
+      ],
       "plating": [
         {
-          "item": "皿",
-          "content": "スープ碗"
+          "item": "",
+          "content": "[object Object]"
         }
       ],
       "related": [
