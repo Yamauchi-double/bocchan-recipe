@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T09:36:09.673Z",
-  "count": 127,
+  "generatedAt": "2026-08-30T11:08:00.951Z",
+  "count": 128,
   "recipes": [
     {
       "id": "SH020",
@@ -4470,7 +4470,7 @@
         "SH002",
         "SH032",
         "SH030",
-        "SH020"
+        "LU002"
       ]
     },
     {
@@ -5151,9 +5151,9 @@
       "suggested": [
         "SH035",
         "CO050",
+        "LU002",
         "SH020",
-        "SH019",
-        "SH018"
+        "SH019"
       ]
     },
     {
@@ -14068,6 +14068,80 @@
         "SH020",
         "SH019",
         "SH018"
+      ]
+    },
+    {
+      "id": "LU002",
+      "brand": "坊っちゃん",
+      "name": "ランチスープ",
+      "furigana": "ランチスープ",
+      "category": "ランチ",
+      "time": "2分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 115,
+      "ingredients": [
+        {
+          "label": "おでん出汁",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "SH002"
+        },
+        {
+          "label": "カットネギ",
+          "amt": "適量",
+          "unit": "",
+          "linkId": ""
+        },
+        {
+          "label": "鶏油",
+          "amt": "5",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [
+        "鶏肉",
+        "大豆",
+        "豚肉",
+        "乳製品",
+        "さば",
+        "小麦",
+        "ごま"
+      ],
+      "steps": [
+        {
+          "text": "鍋で仕込んだおでん出汁を温める",
+          "note": false
+        },
+        {
+          "text": "スープ碗にカットネギ、鶏油を入れておく",
+          "note": false
+        },
+        {
+          "text": "スープ碗に沸かしたおでん出汁を入れて完成",
+          "note": false
+        }
+      ],
+      "media": [],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "スープ碗"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH002",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH005",
+        "SH035",
+        "SH031",
+        "SH022"
       ]
     }
   ]
