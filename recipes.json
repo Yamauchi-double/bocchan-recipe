@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T09:24:29.365Z",
+  "generatedAt": "2026-08-30T09:26:33.198Z",
   "count": 127,
   "recipes": [
     {
@@ -13863,9 +13863,9 @@
     {
       "id": "LU001",
       "brand": "坊っちゃん",
-      "name": "仕_カレー_ランチ",
-      "furigana": "シ_カレー_ランチ",
-      "category": "ランチ",
+      "name": "仕込み_カレー_ランチ",
+      "furigana": "シコミ_カレー_ランチ",
+      "category": "仕込み",
       "time": "10分",
       "yieldAmt": 1,
       "yieldUnit": "人前前後",
@@ -13976,13 +13976,13 @@
     {
       "id": "SH054",
       "brand": "坊っちゃん",
-      "name": "仕_むね唐_ランチ",
-      "furigana": "シ_ムネカラ_ランチ",
+      "name": "仕込み_むね唐_ランチ",
+      "furigana": "シコミ_ムネカラ_ランチ",
       "category": "仕込み",
       "time": "20分",
       "yieldAmt": 30,
       "yieldUnit": "人前前後",
-      "appOrder": 113,
+      "appOrder": 114,
       "ingredients": [
         {
           "label": "むね唐_坊",
