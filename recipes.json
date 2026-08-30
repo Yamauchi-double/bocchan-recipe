@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T11:43:10.609Z",
-  "count": 129,
+  "generatedAt": "2026-08-30T12:02:09.299Z",
+  "count": 130,
   "recipes": [
     {
       "id": "SH020",
@@ -3710,20 +3710,20 @@
       "furigana": "シコミ_コメ",
       "category": "仕込み",
       "time": "1時間半",
-      "yieldAmt": null,
-      "yieldUnit": "",
+      "yieldAmt": 3520,
+      "yieldUnit": "g",
       "appOrder": 52,
       "ingredients": [
         {
           "label": "米",
-          "amt": "1",
-          "unit": "升",
+          "amt": "1600",
+          "unit": "g",
           "linkId": ""
         },
         {
           "label": "水",
-          "amt": "適量",
-          "unit": "",
+          "amt": "1600",
+          "unit": "g",
           "linkId": ""
         }
       ],
@@ -6070,10 +6070,10 @@
       "comments": [],
       "suggested": [
         "CO067",
+        "LU004",
         "CO053",
         "CO050",
-        "CO049",
-        "CO039"
+        "CO049"
       ]
     },
     {
@@ -6307,9 +6307,9 @@
       "suggested": [
         "CO070",
         "CO074",
+        "LU004",
         "CU007",
-        "CO083",
-        "CO082"
+        "CO083"
       ]
     },
     {
@@ -13855,9 +13855,9 @@
       ],
       "comments": [],
       "suggested": [
+        "LU004",
         "CU001",
-        "CU002",
-        "CU003"
+        "CU002"
       ]
     },
     {
@@ -14296,6 +14296,96 @@
       "suggested": [
         "CO078",
         "CO075"
+      ]
+    },
+    {
+      "id": "LU004",
+      "brand": "坊っちゃん",
+      "name": "うな丼",
+      "furigana": "ウナドン",
+      "category": "ランチ",
+      "time": "8分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 117,
+      "ingredients": [
+        {
+          "label": "鰻蒲焼",
+          "amt": "140",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "米",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "SH037"
+        },
+        {
+          "label": "蒲焼のたれ",
+          "amt": "適量",
+          "unit": "",
+          "linkId": ""
+        }
+      ],
+      "allergens": [
+        "大豆",
+        "小麦"
+      ],
+      "steps": [
+        {
+          "text": "鰻2切れ/140g分をレンジにかける",
+          "note": false
+        },
+        {
+          "text": "600w/40秒",
+          "note": true
+        },
+        {
+          "text": "丼にご飯200gを盛る",
+          "note": false
+        },
+        {
+          "text": "蒲焼のたれをかける",
+          "note": false
+        },
+        {
+          "text": "温めた鰻をご飯の上に乗せる",
+          "note": false
+        },
+        {
+          "text": "完成",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1DIRbKg7bUKM8KdfRs8CVXGPaX5x1vJp3/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1gjt4xHLG4_3mxbxg1G9NZKhowx8MW38i/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "",
+          "content": "[object Object]"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH037",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CO074",
+        "CO067",
+        "CU007",
+        "LU003"
       ]
     }
   ]
