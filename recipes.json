@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T12:02:09.299Z",
+  "generatedAt": "2026-08-30T12:08:06.458Z",
   "count": 130,
   "recipes": [
     {
@@ -14294,8 +14294,8 @@
       ],
       "comments": [],
       "suggested": [
-        "CO078",
-        "CO075"
+        "LU004",
+        "CO078"
       ]
     },
     {
@@ -14326,11 +14326,22 @@
           "amt": "適量",
           "unit": "",
           "linkId": ""
+        },
+        {
+          "label": "仕込み_ランチスープ",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "LU002"
         }
       ],
       "allergens": [
         "大豆",
-        "小麦"
+        "小麦",
+        "鶏肉",
+        "豚肉",
+        "乳製品",
+        "さば",
+        "ごま"
       ],
       "steps": [
         {
@@ -14354,11 +14365,15 @@
           "note": false
         },
         {
-          "text": "完成",
+          "text": "温めておいたランチスープを盛って丼と一緒に提供する",
           "note": false
         }
       ],
       "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1goRb0yFp3wbktgd8uD0M-tWgxR0Mz2lY/view?usp=drivesdk"
+        },
         {
           "type": "お皿写真",
           "url": "https://drive.google.com/file/d/1DIRbKg7bUKM8KdfRs8CVXGPaX5x1vJp3/view?usp=drivesdk"
@@ -14378,13 +14393,16 @@
         {
           "id": "SH037",
           "reason": "手動"
+        },
+        {
+          "id": "LU002",
+          "reason": "使用する仕込み（仕込み_ランチスープ）"
         }
       ],
       "comments": [],
       "suggested": [
         "CO074",
         "CO067",
-        "CU007",
         "LU003"
       ]
     }
