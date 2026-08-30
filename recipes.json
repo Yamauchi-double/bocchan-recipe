@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T11:08:00.951Z",
+  "generatedAt": "2026-08-30T11:19:27.403Z",
   "count": 128,
   "recipes": [
     {
@@ -4013,9 +4013,9 @@
       "suggested": [
         "CO050",
         "SH022",
+        "LU002",
         "CO074",
-        "CO057",
-        "CO053"
+        "CO057"
       ]
     },
     {
@@ -5150,8 +5150,8 @@
       "comments": [],
       "suggested": [
         "SH035",
-        "CO050",
         "LU002",
+        "CO050",
         "SH020",
         "SH019"
       ]
@@ -14073,9 +14073,9 @@
     {
       "id": "LU002",
       "brand": "坊っちゃん",
-      "name": "ランチスープ",
-      "furigana": "ランチスープ",
-      "category": "ランチ",
+      "name": "仕込み_ランチスープ",
+      "furigana": "シコミ_ランチスープ",
+      "category": "仕込み",
       "time": "2分",
       "yieldAmt": null,
       "yieldUnit": "",
