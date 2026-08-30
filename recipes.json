@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T11:19:27.403Z",
-  "count": 128,
+  "generatedAt": "2026-08-30T11:30:33.340Z",
+  "count": 129,
   "recipes": [
     {
       "id": "SH020",
@@ -5948,8 +5948,8 @@
         "CO002",
         "CO063",
         "CO060",
-        "CO083",
-        "CO082"
+        "LU003",
+        "CO083"
       ]
     },
     {
@@ -7087,7 +7087,7 @@
         "CO055",
         "CO054",
         "CO047",
-        "CO083"
+        "LU003"
       ]
     },
     {
@@ -8558,11 +8558,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "LU003",
         "CO083",
         "CO082",
         "CO081",
-        "CO079",
-        "CO078"
+        "CO079"
       ]
     },
     {
@@ -13042,7 +13042,7 @@
         "CO063",
         "CO060",
         "CO049",
-        "CO083"
+        "LU003"
       ]
     },
     {
@@ -14142,6 +14142,160 @@
         "SH035",
         "SH031",
         "SH022"
+      ]
+    },
+    {
+      "id": "LU003",
+      "brand": "坊っちゃん",
+      "name": "タルタル唐揚げ定食",
+      "furigana": "タルタルカラアゲテイショク_ランチ",
+      "category": "ランチ",
+      "time": "6分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 116,
+      "ingredients": [
+        {
+          "label": "仕込み_むね唐揚げ",
+          "amt": "5",
+          "unit": "個",
+          "linkId": "SH054"
+        },
+        {
+          "label": "タルタルソース",
+          "amt": "70",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "キャベツ",
+          "amt": "30",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "キムチ",
+          "amt": "25",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_ランチスープ",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "LU002"
+        },
+        {
+          "label": "パセリ",
+          "amt": "適量",
+          "unit": "",
+          "linkId": ""
+        }
+      ],
+      "allergens": [
+        "卵",
+        "乳製品",
+        "大豆",
+        "えび",
+        "さけ",
+        "さば",
+        "鶏肉",
+        "豚肉",
+        "小麦",
+        "ごま"
+      ],
+      "steps": [
+        {
+          "text": "170～175°のフライヤーで仕込んでおいたむねから揚げを3分半揚げる",
+          "note": false
+        },
+        {
+          "text": "その間にお皿にキャベツ30gを盛る",
+          "note": false
+        },
+        {
+          "text": "揚がったむね唐揚げを盛る",
+          "note": false
+        },
+        {
+          "text": "タルタルソース70gをかける",
+          "note": false
+        },
+        {
+          "text": "キムチを25g盛る",
+          "note": false
+        },
+        {
+          "text": "定食系の小鉢は通常の半量でいいです\n内容はスピード系なら特に指定は無しです",
+          "note": true
+        },
+        {
+          "text": "スープを温めてスープ碗に盛る",
+          "note": false
+        },
+        {
+          "text": "ライス碗にご飯を180g盛る",
+          "note": false
+        },
+        {
+          "text": "全てお盆に乗せて完成",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1J7ja69Iqn2RGbdi5DljjnszDFh_fSN44/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1m9WPZ7VDaiqqA8elSuHIQC18ZYKTSYfW/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1DgbDbwJ0Cvgz2yWceWjyS2EJU9_USaq9/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1YZKPPF2ql-7YFIPQ_6_tw5CcC2zfdQO5/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1lMwrR1RHyxEZsVf6e5XyfJQFca2Usy97/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1NLekWesl570CepgiLwbWMn5hYiaNQ6RR/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1ZoelFbUZp2KyijpJd8IHjHdh0ar9E8We/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "お盆"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH054",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "手動"
+        },
+        {
+          "id": "LU002",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CO078",
+        "CO075"
       ]
     }
   ]
