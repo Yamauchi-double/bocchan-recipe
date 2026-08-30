@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T11:54:57.426Z",
-  "count": 125,
+  "generatedAt": "2026-08-30T09:24:29.365Z",
+  "count": 127,
   "recipes": [
     {
       "id": "SH020",
@@ -4229,11 +4229,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "SH054",
         "CO060",
         "CO059",
         "SH020",
-        "SH019",
-        "SH018"
+        "SH019"
       ]
     },
     {
@@ -5459,11 +5459,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "LU001",
         "CO083",
         "CO081",
         "CO079",
-        "CO078",
-        "CO077"
+        "CO078"
       ]
     },
     {
@@ -6897,7 +6897,7 @@
         "CO063",
         "CO002",
         "SH033",
-        "CO083"
+        "SH054"
       ]
     },
     {
@@ -13161,7 +13161,7 @@
       "plating": [
         {
           "item": "皿",
-          "content": "ガラス皿"
+          "content": "デザート皿"
         }
       ],
       "related": [],
@@ -13858,6 +13858,216 @@
         "CU001",
         "CU002",
         "CU003"
+      ]
+    },
+    {
+      "id": "LU001",
+      "brand": "坊っちゃん",
+      "name": "仕_カレー_ランチ",
+      "furigana": "シ_カレー_ランチ",
+      "category": "ランチ",
+      "time": "10分",
+      "yieldAmt": 1,
+      "yieldUnit": "人前前後",
+      "appOrder": 112,
+      "ingredients": [
+        {
+          "label": "カレーフレーク",
+          "amt": "40",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_おでん出汁",
+          "amt": "40",
+          "unit": "g",
+          "linkId": "SH002"
+        },
+        {
+          "label": "はちみつ",
+          "amt": "5",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "鶏油",
+          "amt": "5",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [
+        "乳製品",
+        "小麦",
+        "大豆",
+        "鶏肉",
+        "豚肉",
+        "さば",
+        "ごま"
+      ],
+      "steps": [
+        {
+          "text": "カレーフレークをボウルに入れる",
+          "note": false
+        },
+        {
+          "text": "温めたおでん出汁を少量入れて泡だて器で混ざて出汁の中にカレーフレークを溶かす",
+          "note": false
+        },
+        {
+          "text": "ダマが無くなったら残りのおでん出汁を入れて混ぜる",
+          "note": false
+        },
+        {
+          "text": "はちみつ、鶏油を入れて冷蔵保存",
+          "note": false
+        },
+        {
+          "text": "タッパでの保存は色移りするので避けた方がいいです",
+          "note": true
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1vrDe-3OEN8_bp3NuewuGpG1Kt9FEAgPt/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1ZIlVBkd5eyIXvJ2aXzuoeYDqgzLQV54z/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1oOKuLLv4yN-hs6uneDrB1cBLc-K1v3kH/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1EvIuKGDr-7bQ_gjbtlzpwBdcwZxf4g9p/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1VVnwScTq9AxRegWYNS5W-56hjPt4PRW9/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1Z88Kl967ORowImr0II70-bdCbZbC00kP/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "キッチンポット：13.5cm"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH002",
+          "reason": "使用する仕込み（仕込み_おでん出汁）"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CO066",
+        "CO039",
+        "CO038",
+        "CO037"
+      ]
+    },
+    {
+      "id": "SH054",
+      "brand": "坊っちゃん",
+      "name": "仕_むね唐_ランチ",
+      "furigana": "シ_ムネカラ_ランチ",
+      "category": "仕込み",
+      "time": "20分",
+      "yieldAmt": 30,
+      "yieldUnit": "人前前後",
+      "appOrder": 113,
+      "ingredients": [
+        {
+          "label": "むね唐_坊",
+          "amt": "1",
+          "unit": "PC",
+          "linkId": ""
+        },
+        {
+          "label": "片栗粉",
+          "amt": "750",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [],
+      "steps": [
+        {
+          "text": "前日にむね唐を冷蔵解凍しておく",
+          "note": false
+        },
+        {
+          "text": "ボウルを2つ用意して、むね唐と片栗粉を入れる",
+          "note": false
+        },
+        {
+          "text": "むね唐を棒状にして片栗粉をまぶす",
+          "note": false
+        },
+        {
+          "text": "1個目安：30～35g",
+          "note": true
+        },
+        {
+          "text": "余分な片栗粉は落としておく",
+          "note": true
+        },
+        {
+          "text": "片栗粉をまぶしたむね唐をタッパに入れて冷蔵保管",
+          "note": false
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1ycc23mLF2WwN0lCL7EFmTZtvkaUf7oAI/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1wFoyNu5cU_sQHJZbpfl96bLNtkGQi6mV/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1omQEuHHpjYmezWuoi3FPFdgYEHGcDMpP/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1f8oZA4e6ZzwJRy9uBgZ-0MWOy9lIjZQN/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1p07akgNhpcxxehIHtn31y4r3E1qbZBIT/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [],
+      "comments": [],
+      "suggested": [
+        "SH033",
+        "CO060",
+        "SH020",
+        "SH019",
+        "SH018"
       ]
     }
   ]
