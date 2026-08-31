@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:27:33.277Z",
+  "generatedAt": "2026-08-31T13:31:39.295Z",
   "count": 136,
   "recipes": [
     {
@@ -369,8 +369,8 @@
         "SH020",
         "SH019",
         "SH016",
-        "SH014",
-        "SH013"
+        "SH015",
+        "SH014"
       ]
     },
     {
@@ -476,11 +476,131 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "SH015",
         "SH013",
         "SH012",
         "SH011",
-        "SH009",
-        "SH008"
+        "SH009"
+      ]
+    },
+    {
+      "id": "SH015",
+      "brand": "坊っちゃん",
+      "name": "仕込み_豚タン串",
+      "furigana": "シコミ_ブタタンクシ",
+      "category": "仕込み",
+      "time": "10分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 43,
+      "ingredients": [
+        {
+          "label": "豚タン",
+          "amt": "1/3",
+          "unit": "PC",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_焼き鳥漬けダレ",
+          "amt": "850",
+          "unit": "g",
+          "linkId": "SH005"
+        },
+        {
+          "label": "竹串",
+          "amt": "",
+          "unit": "",
+          "linkId": ""
+        }
+      ],
+      "allergens": [
+        "豚肉",
+        "鶏肉",
+        "大豆",
+        "乳製品",
+        "さば",
+        "小麦",
+        "ごま",
+        "ゼラチン"
+      ],
+      "steps": [
+        {
+          "text": "豚タンを解凍する",
+          "note": false
+        },
+        {
+          "text": "豚タンを1/3ずつくらいにカットし使わない物はしっかりラップして再冷凍",
+          "note": false
+        },
+        {
+          "text": "動画の手順でカットして串に刺す",
+          "note": false
+        },
+        {
+          "text": "漬けダレに串打ち出来た豚タンを漬ける",
+          "note": false
+        },
+        {
+          "text": "翌日～使用可能",
+          "note": false
+        },
+        {
+          "text": "液体からはみ出してる物が無いように注意",
+          "note": true
+        },
+        {
+          "text": "保存期間：冷蔵3日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1m3TgqCyV3PEPY4vDvhiQAewfFTugOyO5/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1Rwpmf2CnLdvnPsMlU4XgsrDM0TiiRnYd/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/11hQ4WJxpiu1fUfYX5M1UGKKY5Dd-7kT2/view?usp=drivesdk"
+        },
+        {
+          "type": "PDF",
+          "url": "調理工程分解写真pdfのURLを入力"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1CLevkxIlhgCLHEgbVlVETP2R4tuAw9R7/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1Ov_YOA9s40KErAxeee2gvSsw5PoPH7-h/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：2,440ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH005",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH016",
+        "SH014",
+        "SH013",
+        "SH012"
       ]
     },
     {
@@ -731,10 +851,10 @@
       "comments": [],
       "suggested": [
         "SH016",
+        "SH015",
         "SH012",
         "SH011",
-        "SH009",
-        "SH008"
+        "SH009"
       ]
     },
     {
@@ -834,9 +954,9 @@
       "comments": [],
       "suggested": [
         "SH016",
+        "SH015",
         "SH013",
-        "SH011",
-        "SH009"
+        "SH011"
       ]
     },
     {
@@ -942,8 +1062,8 @@
       "comments": [],
       "suggested": [
         "SH016",
-        "SH013",
-        "SH012"
+        "SH015",
+        "SH013"
       ]
     },
     {
@@ -1159,8 +1279,8 @@
       "comments": [],
       "suggested": [
         "SH016",
-        "SH013",
-        "SH012"
+        "SH015",
+        "SH013"
       ]
     },
     {
@@ -1264,9 +1384,9 @@
       "comments": [],
       "suggested": [
         "SH016",
+        "SH015",
         "SH013",
-        "SH012",
-        "SH011"
+        "SH012"
       ]
     },
     {
@@ -1368,9 +1488,9 @@
       "comments": [],
       "suggested": [
         "SH016",
+        "SH015",
         "SH013",
-        "SH012",
-        "SH011"
+        "SH012"
       ]
     },
     {
@@ -1476,8 +1596,8 @@
       "comments": [],
       "suggested": [
         "SH016",
-        "SH013",
-        "SH012"
+        "SH015",
+        "SH013"
       ]
     },
     {
@@ -2142,126 +2262,6 @@
         "SH032",
         "SH055",
         "SH020"
-      ]
-    },
-    {
-      "id": "SH015",
-      "brand": "坊っちゃん",
-      "name": "仕込み_豚タン串",
-      "furigana": "シコミ_ブタタンクシ",
-      "category": "仕込み",
-      "time": "10分",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 43,
-      "ingredients": [
-        {
-          "label": "豚タン",
-          "amt": "1/3",
-          "unit": "PC",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_焼き鳥漬けダレ",
-          "amt": "850",
-          "unit": "g",
-          "linkId": "SH005"
-        },
-        {
-          "label": "竹串",
-          "amt": "",
-          "unit": "",
-          "linkId": ""
-        }
-      ],
-      "allergens": [
-        "豚肉",
-        "鶏肉",
-        "大豆",
-        "乳製品",
-        "さば",
-        "小麦",
-        "ごま",
-        "ゼラチン"
-      ],
-      "steps": [
-        {
-          "text": "豚タンを解凍する",
-          "note": false
-        },
-        {
-          "text": "豚タンを1/3ずつくらいにカットし使わない物はしっかりラップして再冷凍",
-          "note": false
-        },
-        {
-          "text": "動画の手順でカットして串に刺す",
-          "note": false
-        },
-        {
-          "text": "漬けダレに串打ち出来た豚タンを漬ける",
-          "note": false
-        },
-        {
-          "text": "翌日～使用可能",
-          "note": false
-        },
-        {
-          "text": "液体からはみ出してる物が無いように注意",
-          "note": true
-        },
-        {
-          "text": "保存期間：冷蔵3日",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1m3TgqCyV3PEPY4vDvhiQAewfFTugOyO5/view?usp=drivesdk"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1qjrWOZmfdU6rLWmnF_BQD1NY5O_ZRcm6/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1Rwpmf2CnLdvnPsMlU4XgsrDM0TiiRnYd/view?usp=drivesdk"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/11hQ4WJxpiu1fUfYX5M1UGKKY5Dd-7kT2/view?usp=drivesdk"
-        },
-        {
-          "type": "PDF",
-          "url": "調理工程分解写真pdfのURLを入力"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1CLevkxIlhgCLHEgbVlVETP2R4tuAw9R7/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1Ov_YOA9s40KErAxeee2gvSsw5PoPH7-h/view?usp=drivesdk"
-        }
-      ],
-      "plating": [
-        {
-          "item": "ソース容器",
-          "content": "タッパ：2,440ml"
-        }
-      ],
-      "related": [
-        {
-          "id": "SH005",
-          "reason": "手動"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "SH016",
-        "SH014",
-        "SH013",
-        "SH012"
       ]
     },
     {
@@ -4009,7 +4009,7 @@
       "suggested": [
         "CO050",
         "SH022",
-        "LU002",
+        "SH057",
         "CO074",
         "CO057"
       ]
@@ -4661,7 +4661,7 @@
         "SH019",
         "SH018",
         "SH016",
-        "SH014"
+        "SH015"
       ]
     },
     {
@@ -4749,7 +4749,7 @@
         "SH019",
         "SH018",
         "SH016",
-        "SH014"
+        "SH015"
       ]
     },
     {
@@ -5146,7 +5146,7 @@
       "comments": [],
       "suggested": [
         "SH035",
-        "LU002",
+        "SH057",
         "CO050",
         "LU006",
         "SH020"
@@ -5455,7 +5455,7 @@
       "related": [],
       "comments": [],
       "suggested": [
-        "LU001",
+        "SH056",
         "CO083",
         "CO081",
         "CO079",
@@ -11593,8 +11593,8 @@
         "SH014",
         "CO063",
         "CO017",
-        "SH003",
-        "SH015"
+        "SH015",
+        "SH003"
       ]
     },
     {
@@ -13272,8 +13272,8 @@
       ],
       "comments": [],
       "suggested": [
-        "SH014",
         "SH015",
+        "SH014",
         "CO014",
         "SH020"
       ]
@@ -13889,7 +13889,7 @@
           "label": "仕込み_ランチスープ",
           "amt": "180",
           "unit": "g",
-          "linkId": "LU002"
+          "linkId": "SH057"
         },
         {
           "label": "キムチ",
@@ -14013,7 +14013,7 @@
           "reason": "手動"
         },
         {
-          "id": "LU002",
+          "id": "SH057",
           "reason": "手動"
         },
         {
@@ -14178,7 +14178,7 @@
           "label": "仕込み_ランチスープ",
           "amt": "180",
           "unit": "g",
-          "linkId": "LU002"
+          "linkId": "SH057"
         },
         {
           "label": "仕込み_米",
@@ -14307,7 +14307,7 @@
           "reason": "手動"
         },
         {
-          "id": "LU002",
+          "id": "SH057",
           "reason": "手動"
         },
         {
@@ -14371,7 +14371,7 @@
           "label": "仕込み_ランチスープ",
           "amt": "180",
           "unit": "g",
-          "linkId": "LU002"
+          "linkId": "SH057"
         },
         {
           "label": "キムチ",
@@ -14494,7 +14494,7 @@
       ],
       "related": [
         {
-          "id": "LU002",
+          "id": "SH057",
           "reason": "手動"
         },
         {
@@ -14545,7 +14545,7 @@
           "label": "仕込み_ランチスープ",
           "amt": "180",
           "unit": "g",
-          "linkId": "LU002"
+          "linkId": "SH057"
         }
       ],
       "allergens": [
@@ -14621,7 +14621,7 @@
           "reason": "手動"
         },
         {
-          "id": "LU002",
+          "id": "SH057",
           "reason": "使用する仕込み（仕込み_ランチスープ）"
         }
       ],
@@ -14632,7 +14632,7 @@
       ]
     },
     {
-      "id": "LU001",
+      "id": "SH056",
       "brand": "坊っちゃん",
       "name": "仕込み_カレー_ランチ",
       "furigana": "シコミ_カレー_ランチ",
@@ -14876,7 +14876,7 @@
       ]
     },
     {
-      "id": "LU002",
+      "id": "SH057",
       "brand": "坊っちゃん",
       "name": "仕込み_ランチスープ",
       "furigana": "シコミ_ランチスープ",
@@ -15011,7 +15011,7 @@
           "label": "仕込み_ランチスープ",
           "amt": "180",
           "unit": "g",
-          "linkId": "LU002"
+          "linkId": "SH057"
         }
       ],
       "allergens": [
@@ -15096,7 +15096,7 @@
           "reason": "手動"
         },
         {
-          "id": "LU002",
+          "id": "SH057",
           "reason": "手動"
         },
         {
@@ -15128,7 +15128,7 @@
           "label": "仕込み_カレー_ランチ",
           "amt": "220",
           "unit": "g",
-          "linkId": "LU001"
+          "linkId": "SH056"
         },
         {
           "label": "仕込み_米",
@@ -15140,7 +15140,7 @@
           "label": "仕込み_ランチスープ",
           "amt": "180",
           "unit": "g",
-          "linkId": "LU002"
+          "linkId": "SH057"
         }
       ],
       "allergens": [
@@ -15200,7 +15200,7 @@
       ],
       "related": [
         {
-          "id": "LU001",
+          "id": "SH056",
           "reason": "手動"
         },
         {
@@ -15208,7 +15208,7 @@
           "reason": "手動"
         },
         {
-          "id": "LU002",
+          "id": "SH057",
           "reason": "手動"
         }
       ],
