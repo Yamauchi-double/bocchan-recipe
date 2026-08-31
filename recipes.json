@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T12:18:50.419Z",
+  "generatedAt": "2026-08-31T03:27:54.328Z",
   "count": 130,
   "recipes": [
     {
@@ -14285,6 +14285,22 @@
         {
           "item": "皿",
           "content": "銀皿大：楕円"
+        },
+        {
+          "item": "皿",
+          "content": "ライス碗"
+        },
+        {
+          "item": "皿",
+          "content": "スープ碗"
+        },
+        {
+          "item": "皿",
+          "content": "八角珍味"
+        },
+        {
+          "item": "皿",
+          "content": "お盆"
         }
       ],
       "related": [
