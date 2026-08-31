@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:51:44.448Z",
+  "generatedAt": "2026-08-31T12:53:42.368Z",
   "count": 133,
   "recipes": [
     {
@@ -4466,7 +4466,7 @@
         "SH002",
         "SH032",
         "SH030",
-        "LU002"
+        "SH055"
       ]
     },
     {
@@ -6179,9 +6179,9 @@
       "suggested": [
         "CO067",
         "CO083",
+        "LU007",
         "LU003",
-        "LU006",
-        "LU007"
+        "LU006"
       ]
     },
     {
@@ -6305,7 +6305,7 @@
         "CO074",
         "LU004",
         "CU007",
-        "LU003"
+        "LU007"
       ]
     },
     {
@@ -6893,7 +6893,7 @@
         "CO063",
         "CO002",
         "SH033",
-        "SH054"
+        "LU007"
       ]
     },
     {
@@ -8554,9 +8554,9 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "LU007",
         "LU003",
         "LU006",
-        "LU007",
         "CO083",
         "CO082"
       ]
@@ -13035,8 +13035,8 @@
       "comments": [],
       "suggested": [
         "CO075",
-        "LU003",
         "LU007",
+        "LU003",
         "CO063",
         "CO060"
       ]
@@ -13857,116 +13857,177 @@
       ]
     },
     {
-      "id": "LU001",
+      "id": "LU007",
       "brand": "坊っちゃん",
-      "name": "仕込み_カレー_ランチ",
-      "furigana": "シコミ_カレー_ランチ",
-      "category": "仕込み",
+      "name": "スパイシー骨付きもも焼き定食",
+      "furigana": "スパイシーホネツキモモヤキテイショク_ランチ",
+      "category": "ランチ",
       "time": "10分",
-      "yieldAmt": 1,
-      "yieldUnit": "人前前後",
+      "yieldAmt": null,
+      "yieldUnit": "",
       "appOrder": 112,
       "ingredients": [
         {
-          "label": "カレーフレーク",
-          "amt": "40",
+          "label": "仕込み_骨付きもも肉スパイシー",
+          "amt": "1",
+          "unit": "本",
+          "linkId": "SH040"
+        },
+        {
+          "label": "キャベツ",
+          "amt": "30",
           "unit": "g",
           "linkId": ""
         },
         {
-          "label": "仕込み_おでん出汁",
-          "amt": "40",
+          "label": "仕込み_米",
+          "amt": "180",
           "unit": "g",
-          "linkId": "SH002"
+          "linkId": "SH037"
         },
         {
-          "label": "はちみつ",
-          "amt": "5",
+          "label": "仕込み_ランチスープ",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "LU002"
+        },
+        {
+          "label": "キムチ",
+          "amt": "25",
           "unit": "g",
           "linkId": ""
         },
         {
-          "label": "鶏油",
-          "amt": "5",
-          "unit": "g",
+          "label": "レモン",
+          "amt": "1/8",
+          "unit": "個",
           "linkId": ""
         }
       ],
       "allergens": [
-        "乳製品",
-        "小麦",
-        "大豆",
         "鶏肉",
+        "小麦",
+        "ごま",
+        "大豆",
+        "乳",
         "豚肉",
+        "牛肉",
+        "乳製品",
         "さば",
-        "ごま"
+        "えび",
+        "さけ"
       ],
       "steps": [
         {
-          "text": "カレーフレークをボウルに入れる",
+          "text": "ランチ用に味付けした骨付きもも肉をオーブンで9分前焼しておく",
           "note": false
         },
         {
-          "text": "温めたおでん出汁を少量入れて泡だて器で混ざて出汁の中にカレーフレークを溶かす",
-          "note": false
-        },
-        {
-          "text": "ダマが無くなったら残りのおでん出汁を入れて混ぜる",
-          "note": false
-        },
-        {
-          "text": "はちみつ、鶏油を入れて冷蔵保存",
-          "note": false
-        },
-        {
-          "text": "タッパでの保存は色移りするので避けた方がいいです",
+          "text": "230°/9分\n店舗によりオーブンの状態が少し違うので時間と温度は前後してください",
           "note": true
+        },
+        {
+          "text": "10人前/日。にしてるので最大でも10本焼いておけば大丈夫です。",
+          "note": true
+        },
+        {
+          "text": "ここからはオーダーが入った後にする事",
+          "note": false
+        },
+        {
+          "text": "前焼しておいた骨付きもも肉をオーブンに5分入れる",
+          "note": false
+        },
+        {
+          "text": "その間にご飯180g、スープ180g、小鉢を用意しておく",
+          "note": false
+        },
+        {
+          "text": "骨付きもも肉用のお皿にキャベツとレモンを盛っておく",
+          "note": false
+        },
+        {
+          "text": "焼きあがったらお皿に骨付きもも肉を盛って、お盆に全て乗せて提供",
+          "note": false
         }
       ],
       "media": [
         {
           "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1vrDe-3OEN8_bp3NuewuGpG1Kt9FEAgPt/view?usp=drivesdk"
+          "url": "https://drive.google.com/file/d/1MmTMcX7pYkXUaidLMlcZ96eBiF-fizDY/view?usp=drivesdk"
         },
         {
           "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1ZIlVBkd5eyIXvJ2aXzuoeYDqgzLQV54z/view?usp=drivesdk"
+          "url": "https://drive.google.com/file/d/1m9WPZ7VDaiqqA8elSuHIQC18ZYKTSYfW/view?usp=drivesdk"
         },
         {
           "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1oOKuLLv4yN-hs6uneDrB1cBLc-K1v3kH/view?usp=drivesdk"
+          "url": "https://drive.google.com/file/d/1DgbDbwJ0Cvgz2yWceWjyS2EJU9_USaq9/view?usp=drivesdk"
         },
         {
           "type": "動画",
-          "url": "https://drive.google.com/file/d/1EvIuKGDr-7bQ_gjbtlzpwBdcwZxf4g9p/view?usp=drivesdk"
+          "url": "https://drive.google.com/file/d/1nv70pIIUBHh4HZjKujkEknUe8eqRrpD9/view?usp=drivesdk"
         },
         {
           "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1VVnwScTq9AxRegWYNS5W-56hjPt4PRW9/view?usp=drivesdk"
+          "url": "https://drive.google.com/file/d/1lMwrR1RHyxEZsVf6e5XyfJQFca2Usy97/view?usp=drivesdk"
         },
         {
           "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1Z88Kl967ORowImr0II70-bdCbZbC00kP/view?usp=drivesdk"
+          "url": "https://drive.google.com/file/d/1ZSUgsqmye1Uazh0WexCVjtB_CmMfh6Po/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1NLekWesl570CepgiLwbWMn5hYiaNQ6RR/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1-e0muSFpHehZ8xJtlOVfnftMXRxkgqfB/view?usp=drivesdk"
         }
       ],
       "plating": [
         {
-          "item": "ソース容器",
-          "content": "キッチンポット：13.5cm"
+          "item": "皿",
+          "content": "銀皿大：楕円"
+        },
+        {
+          "item": "皿",
+          "content": "ライス碗"
+        },
+        {
+          "item": "皿",
+          "content": "スープ碗"
+        },
+        {
+          "item": "皿",
+          "content": "八角珍味"
+        },
+        {
+          "item": "皿",
+          "content": "お盆"
         }
       ],
       "related": [
         {
+          "id": "SH040",
+          "reason": "手動"
+        },
+        {
+          "id": "LU002",
+          "reason": "手動"
+        },
+        {
           "id": "SH002",
-          "reason": "使用する仕込み（仕込み_おでん出汁）"
+          "reason": "手動"
+        },
+        {
+          "id": "SH037",
+          "reason": "手動"
         }
       ],
       "comments": [],
       "suggested": [
-        "CO066",
-        "CO039",
-        "CO038",
-        "CO037"
+        "LU003"
       ]
     },
     {
@@ -14067,97 +14128,6 @@
       ]
     },
     {
-      "id": "LU002",
-      "brand": "坊っちゃん",
-      "name": "仕込み_ランチスープ",
-      "furigana": "シコミ_ランチスープ",
-      "category": "仕込み",
-      "time": "2分",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 115,
-      "ingredients": [
-        {
-          "label": "おでん出汁",
-          "amt": "180",
-          "unit": "g",
-          "linkId": "SH002"
-        },
-        {
-          "label": "カットネギ",
-          "amt": "適量",
-          "unit": "",
-          "linkId": ""
-        },
-        {
-          "label": "鶏油",
-          "amt": "5",
-          "unit": "g",
-          "linkId": ""
-        }
-      ],
-      "allergens": [
-        "鶏肉",
-        "大豆",
-        "豚肉",
-        "乳製品",
-        "さば",
-        "小麦",
-        "ごま"
-      ],
-      "steps": [
-        {
-          "text": "鍋で仕込んだおでん出汁を温める",
-          "note": false
-        },
-        {
-          "text": "スープ碗にカットネギ、鶏油を入れておく",
-          "note": false
-        },
-        {
-          "text": "スープ碗に沸かしたおでん出汁を入れて完成",
-          "note": false
-        },
-        {
-          "text": "仕込み段階ではおでん出汁を用意しておくだけでいいです。\nオーダーが入ったら出汁を温め、ネギ、鶏油を入れてください",
-          "note": true
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1bPpsXXhnNO1Bx3IFmOmo5FwQmiYH_jm_/view?usp=drivesdk"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1lMwrR1RHyxEZsVf6e5XyfJQFca2Usy97/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1PEI1eUd4wJyUcxsF9RtoXAd4tOPcv7u1/view?usp=drivesdk"
-        }
-      ],
-      "plating": [
-        {
-          "item": "ソース容器",
-          "content": "キッチンポット：16.5cm"
-        }
-      ],
-      "related": [
-        {
-          "id": "SH002",
-          "reason": "手動"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "SH005",
-        "SH035",
-        "SH031",
-        "SH022"
-      ]
-    },
-    {
       "id": "LU003",
       "brand": "坊っちゃん",
       "name": "タルタル唐揚げ定食",
@@ -14166,7 +14136,7 @@
       "time": "6分",
       "yieldAmt": null,
       "yieldUnit": "",
-      "appOrder": 116,
+      "appOrder": 115,
       "ingredients": [
         {
           "label": "仕込み_むね唐揚げ",
@@ -14351,125 +14321,6 @@
       ]
     },
     {
-      "id": "LU004",
-      "brand": "坊っちゃん",
-      "name": "うな丼",
-      "furigana": "ウナドン",
-      "category": "ランチ",
-      "time": "8分",
-      "yieldAmt": null,
-      "yieldUnit": "",
-      "appOrder": 117,
-      "ingredients": [
-        {
-          "label": "鰻蒲焼",
-          "amt": "140",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "米",
-          "amt": "180",
-          "unit": "g",
-          "linkId": "SH037"
-        },
-        {
-          "label": "蒲焼のたれ",
-          "amt": "適量",
-          "unit": "",
-          "linkId": ""
-        },
-        {
-          "label": "仕込み_ランチスープ",
-          "amt": "180",
-          "unit": "g",
-          "linkId": "LU002"
-        }
-      ],
-      "allergens": [
-        "大豆",
-        "小麦",
-        "鶏肉",
-        "豚肉",
-        "乳製品",
-        "さば",
-        "ごま"
-      ],
-      "steps": [
-        {
-          "text": "鰻2切れ/140g分をレンジにかける",
-          "note": false
-        },
-        {
-          "text": "600w/40秒",
-          "note": true
-        },
-        {
-          "text": "丼にご飯200gを盛る",
-          "note": false
-        },
-        {
-          "text": "蒲焼のたれをかける",
-          "note": false
-        },
-        {
-          "text": "温めた鰻をご飯の上に乗せる",
-          "note": false
-        },
-        {
-          "text": "温めておいたランチスープを盛って丼と一緒に提供する",
-          "note": false
-        }
-      ],
-      "media": [
-        {
-          "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1goRb0yFp3wbktgd8uD0M-tWgxR0Mz2lY/view?usp=drivesdk"
-        },
-        {
-          "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1DIRbKg7bUKM8KdfRs8CVXGPaX5x1vJp3/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1lMwrR1RHyxEZsVf6e5XyfJQFca2Usy97/view?usp=drivesdk"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1gjt4xHLG4_3mxbxg1G9NZKhowx8MW38i/view?usp=drivesdk"
-        }
-      ],
-      "plating": [
-        {
-          "item": "皿",
-          "content": "丼"
-        },
-        {
-          "item": "皿",
-          "content": "スープ碗"
-        }
-      ],
-      "related": [
-        {
-          "id": "SH037",
-          "reason": "手動"
-        },
-        {
-          "id": "CU007",
-          "reason": "手動"
-        },
-        {
-          "id": "LU002",
-          "reason": "使用する仕込み（仕込み_ランチスープ）"
-        }
-      ],
-      "comments": [],
-      "suggested": [
-        "CO074",
-        "CO067"
-      ]
-    },
-    {
       "id": "LU006",
       "brand": "坊っちゃん",
       "name": "鉄板ホルモン定食",
@@ -14478,7 +14329,7 @@
       "time": "10分",
       "yieldAmt": null,
       "yieldUnit": "",
-      "appOrder": 119,
+      "appOrder": 116,
       "ingredients": [
         {
           "label": "ホルモン_坊",
@@ -14657,8 +14508,240 @@
       ],
       "comments": [],
       "suggested": [
-        "LU003",
-        "LU007"
+        "LU007",
+        "LU003"
+      ]
+    },
+    {
+      "id": "LU004",
+      "brand": "坊っちゃん",
+      "name": "うな丼",
+      "furigana": "ウナドン",
+      "category": "ランチ",
+      "time": "8分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 117,
+      "ingredients": [
+        {
+          "label": "鰻蒲焼",
+          "amt": "140",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "米",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "SH037"
+        },
+        {
+          "label": "蒲焼のたれ",
+          "amt": "適量",
+          "unit": "",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_ランチスープ",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "LU002"
+        }
+      ],
+      "allergens": [
+        "大豆",
+        "小麦",
+        "鶏肉",
+        "豚肉",
+        "乳製品",
+        "さば",
+        "ごま"
+      ],
+      "steps": [
+        {
+          "text": "鰻2切れ/140g分をレンジにかける",
+          "note": false
+        },
+        {
+          "text": "600w/40秒",
+          "note": true
+        },
+        {
+          "text": "丼にご飯200gを盛る",
+          "note": false
+        },
+        {
+          "text": "蒲焼のたれをかける",
+          "note": false
+        },
+        {
+          "text": "温めた鰻をご飯の上に乗せる",
+          "note": false
+        },
+        {
+          "text": "温めておいたランチスープを盛って丼と一緒に提供する",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1goRb0yFp3wbktgd8uD0M-tWgxR0Mz2lY/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1DIRbKg7bUKM8KdfRs8CVXGPaX5x1vJp3/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1lMwrR1RHyxEZsVf6e5XyfJQFca2Usy97/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1gjt4xHLG4_3mxbxg1G9NZKhowx8MW38i/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "丼"
+        },
+        {
+          "item": "皿",
+          "content": "スープ碗"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH037",
+          "reason": "手動"
+        },
+        {
+          "id": "CU007",
+          "reason": "手動"
+        },
+        {
+          "id": "LU002",
+          "reason": "使用する仕込み（仕込み_ランチスープ）"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CO074",
+        "CO067"
+      ]
+    },
+    {
+      "id": "LU001",
+      "brand": "坊っちゃん",
+      "name": "仕込み_カレー_ランチ",
+      "furigana": "シコミ_カレー_ランチ",
+      "category": "仕込み",
+      "time": "10分",
+      "yieldAmt": 1,
+      "yieldUnit": "人前前後",
+      "appOrder": 119,
+      "ingredients": [
+        {
+          "label": "カレーフレーク",
+          "amt": "40",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_おでん出汁",
+          "amt": "40",
+          "unit": "g",
+          "linkId": "SH002"
+        },
+        {
+          "label": "はちみつ",
+          "amt": "5",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "鶏油",
+          "amt": "5",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [
+        "乳製品",
+        "小麦",
+        "大豆",
+        "鶏肉",
+        "豚肉",
+        "さば",
+        "ごま"
+      ],
+      "steps": [
+        {
+          "text": "カレーフレークをボウルに入れる",
+          "note": false
+        },
+        {
+          "text": "温めたおでん出汁を少量入れて泡だて器で混ざて出汁の中にカレーフレークを溶かす",
+          "note": false
+        },
+        {
+          "text": "ダマが無くなったら残りのおでん出汁を入れて混ぜる",
+          "note": false
+        },
+        {
+          "text": "はちみつ、鶏油を入れて冷蔵保存",
+          "note": false
+        },
+        {
+          "text": "タッパでの保存は色移りするので避けた方がいいです",
+          "note": true
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1vrDe-3OEN8_bp3NuewuGpG1Kt9FEAgPt/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1ZIlVBkd5eyIXvJ2aXzuoeYDqgzLQV54z/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1oOKuLLv4yN-hs6uneDrB1cBLc-K1v3kH/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1EvIuKGDr-7bQ_gjbtlzpwBdcwZxf4g9p/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1VVnwScTq9AxRegWYNS5W-56hjPt4PRW9/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1Z88Kl967ORowImr0II70-bdCbZbC00kP/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "キッチンポット：13.5cm"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH002",
+          "reason": "使用する仕込み（仕込み_おでん出汁）"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "CO066",
+        "CO039",
+        "CO038",
+        "CO037"
       ]
     },
     {
@@ -14793,177 +14876,94 @@
       ]
     },
     {
-      "id": "LU007",
+      "id": "LU002",
       "brand": "坊っちゃん",
-      "name": "スパイシー骨付きもも焼き定食",
-      "furigana": "スパイシーホネツキモモヤキテイショク_ランチ",
-      "category": "ランチ",
-      "time": "10分",
+      "name": "仕込み_ランチスープ",
+      "furigana": "シコミ_ランチスープ",
+      "category": "仕込み",
+      "time": "2分",
       "yieldAmt": null,
       "yieldUnit": "",
       "appOrder": 122,
       "ingredients": [
         {
-          "label": "仕込み_骨付きもも肉スパイシー",
-          "amt": "1",
-          "unit": "本",
-          "linkId": "SH040"
+          "label": "おでん出汁",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "SH002"
         },
         {
-          "label": "キャベツ",
-          "amt": "30",
-          "unit": "g",
+          "label": "カットネギ",
+          "amt": "適量",
+          "unit": "",
           "linkId": ""
         },
         {
-          "label": "仕込み_米",
-          "amt": "180",
+          "label": "鶏油",
+          "amt": "5",
           "unit": "g",
-          "linkId": "SH037"
-        },
-        {
-          "label": "仕込み_ランチスープ",
-          "amt": "180",
-          "unit": "g",
-          "linkId": "LU002"
-        },
-        {
-          "label": "キムチ",
-          "amt": "25",
-          "unit": "g",
-          "linkId": ""
-        },
-        {
-          "label": "レモン",
-          "amt": "1/8",
-          "unit": "個",
           "linkId": ""
         }
       ],
       "allergens": [
         "鶏肉",
-        "小麦",
-        "ごま",
         "大豆",
-        "乳",
         "豚肉",
-        "牛肉",
         "乳製品",
         "さば",
-        "えび",
-        "さけ"
+        "小麦",
+        "ごま"
       ],
       "steps": [
         {
-          "text": "ランチ用に味付けした骨付きもも肉をオーブンで9分前焼しておく",
+          "text": "鍋で仕込んだおでん出汁を温める",
           "note": false
         },
         {
-          "text": "230°/9分\n店舗によりオーブンの状態が少し違うので時間と温度は前後してください",
+          "text": "スープ碗にカットネギ、鶏油を入れておく",
+          "note": false
+        },
+        {
+          "text": "スープ碗に沸かしたおでん出汁を入れて完成",
+          "note": false
+        },
+        {
+          "text": "仕込み段階ではおでん出汁を用意しておくだけでいいです。\nオーダーが入ったら出汁を温め、ネギ、鶏油を入れてください",
           "note": true
-        },
-        {
-          "text": "10人前/日。にしてるので最大でも10本焼いておけば大丈夫です。",
-          "note": true
-        },
-        {
-          "text": "ここからはオーダーが入った後にする事",
-          "note": false
-        },
-        {
-          "text": "前焼しておいた骨付きもも肉をオーブンに5分入れる",
-          "note": false
-        },
-        {
-          "text": "その間にご飯180g、スープ180g、小鉢を用意しておく",
-          "note": false
-        },
-        {
-          "text": "骨付きもも肉用のお皿にキャベツとレモンを盛っておく",
-          "note": false
-        },
-        {
-          "text": "焼きあがったらお皿に骨付きもも肉を盛って、お盆に全て乗せて提供",
-          "note": false
         }
       ],
       "media": [
         {
           "type": "料理写真",
-          "url": "https://drive.google.com/file/d/1MmTMcX7pYkXUaidLMlcZ96eBiF-fizDY/view?usp=drivesdk"
+          "url": "https://drive.google.com/file/d/1bPpsXXhnNO1Bx3IFmOmo5FwQmiYH_jm_/view?usp=drivesdk"
         },
         {
           "type": "お皿写真",
-          "url": "https://drive.google.com/file/d/1m9WPZ7VDaiqqA8elSuHIQC18ZYKTSYfW/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1DgbDbwJ0Cvgz2yWceWjyS2EJU9_USaq9/view?usp=drivesdk"
-        },
-        {
-          "type": "動画",
-          "url": "https://drive.google.com/file/d/1nv70pIIUBHh4HZjKujkEknUe8eqRrpD9/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
           "url": "https://drive.google.com/file/d/1lMwrR1RHyxEZsVf6e5XyfJQFca2Usy97/view?usp=drivesdk"
         },
         {
           "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1ZSUgsqmye1Uazh0WexCVjtB_CmMfh6Po/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1NLekWesl570CepgiLwbWMn5hYiaNQ6RR/view?usp=drivesdk"
-        },
-        {
-          "type": "工程写真",
-          "url": "https://drive.google.com/file/d/1-e0muSFpHehZ8xJtlOVfnftMXRxkgqfB/view?usp=drivesdk"
+          "url": "https://drive.google.com/file/d/1PEI1eUd4wJyUcxsF9RtoXAd4tOPcv7u1/view?usp=drivesdk"
         }
       ],
       "plating": [
         {
-          "item": "皿",
-          "content": "銀皿大：楕円"
-        },
-        {
-          "item": "皿",
-          "content": "ライス碗"
-        },
-        {
-          "item": "皿",
-          "content": "スープ碗"
-        },
-        {
-          "item": "皿",
-          "content": "八角珍味"
-        },
-        {
-          "item": "皿",
-          "content": "お盆"
+          "item": "ソース容器",
+          "content": "キッチンポット：16.5cm"
         }
       ],
       "related": [
         {
-          "id": "SH040",
-          "reason": "手動"
-        },
-        {
-          "id": "LU002",
-          "reason": "手動"
-        },
-        {
           "id": "SH002",
-          "reason": "手動"
-        },
-        {
-          "id": "SH037",
           "reason": "手動"
         }
       ],
       "comments": [],
       "suggested": [
-        "LU003"
+        "SH005",
+        "SH035",
+        "SH031",
+        "SH022"
       ]
     }
   ]
