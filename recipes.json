@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T03:27:54.328Z",
-  "count": 130,
+  "generatedAt": "2026-08-31T11:36:39.337Z",
+  "count": 132,
   "recipes": [
     {
       "id": "SH020",
@@ -5152,8 +5152,8 @@
         "SH035",
         "LU002",
         "CO050",
-        "SH020",
-        "SH019"
+        "LU005",
+        "LU006"
       ]
     },
     {
@@ -5949,7 +5949,7 @@
         "CO063",
         "CO060",
         "LU003",
-        "CO083"
+        "LU005"
       ]
     },
     {
@@ -7197,8 +7197,8 @@
         "CO050",
         "CO001",
         "SH035",
-        "CO083",
-        "CO082"
+        "LU005",
+        "LU006"
       ]
     },
     {
@@ -7993,7 +7993,7 @@
         "CO049",
         "CO046",
         "SH035",
-        "CO074"
+        "LU005"
       ]
     },
     {
@@ -10516,7 +10516,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -10656,7 +10656,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -10796,7 +10796,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -10945,7 +10945,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -11085,7 +11085,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -11234,7 +11234,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -11389,7 +11389,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -11625,7 +11625,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -11748,7 +11748,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -11871,7 +11871,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -11994,7 +11994,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -12117,7 +12117,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -12240,7 +12240,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -12457,7 +12457,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -12588,7 +12588,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -12719,7 +12719,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -12850,7 +12850,7 @@
           "linkId": ""
         },
         {
-          "label": "赤みそだれ",
+          "label": "辛みそだれ",
           "amt": "10",
           "unit": "g",
           "linkId": ""
@@ -14320,7 +14320,7 @@
       "comments": [],
       "suggested": [
         "LU004",
-        "CO078"
+        "LU005"
       ]
     },
     {
@@ -14429,6 +14429,338 @@
         "CO074",
         "CO067",
         "LU003"
+      ]
+    },
+    {
+      "id": "LU005",
+      "brand": "坊っちゃん",
+      "name": "鉄板ホルモン定食",
+      "furigana": "テッパンホルモンテイショク",
+      "category": "ランチ",
+      "time": "10分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 118,
+      "ingredients": [
+        {
+          "label": "ホルモン_坊",
+          "amt": "120",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "キャベツ",
+          "amt": "30",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "カットネギ",
+          "amt": "10",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "玉子",
+          "amt": "1",
+          "unit": "個",
+          "linkId": ""
+        },
+        {
+          "label": "辛みそだれ",
+          "amt": "30",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "米",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "SH037"
+        }
+      ],
+      "allergens": [
+        "牛肉",
+        "卵",
+        "大豆",
+        "小麦",
+        "ごま",
+        "ゼラチン"
+      ],
+      "steps": [
+        {
+          "text": "フライパンと鉄板を温め油を引く",
+          "note": false
+        },
+        {
+          "text": "ホルモンミックス120gをフライパンに入れて焼く",
+          "note": false
+        },
+        {
+          "text": "ホルモンが少し焼けてきたら鉄板にキャベツ30gを入れる",
+          "note": false
+        },
+        {
+          "text": "ホルモンが焼けてきたら辛みそだれ30gを入れる",
+          "note": false
+        },
+        {
+          "text": "タレをよく絡めてからキャベツの上に炒めたホルモンを盛る",
+          "note": false
+        },
+        {
+          "text": "ホルモンの上にカットネギを盛る",
+          "note": false
+        },
+        {
+          "text": "別のフライパンで玉子1つを焼いて目玉焼きを作る",
+          "note": false
+        },
+        {
+          "text": "30秒ほど蓋をして焼くと綺麗にできやすい",
+          "note": true
+        },
+        {
+          "text": "ホルモンの上に玉子を乗せたら鉄板を木板に移す",
+          "note": false
+        },
+        {
+          "text": "お盆にご飯180g、小鉢、スープ180g、ホルモンを乗せて完成",
+          "note": false
+        },
+        {
+          "text": "定食系の小鉢は通常の半量でいいです\n内容はスピード系なら特に指定は無しです",
+          "note": true
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1HWmuHNmogruS9PsKubvv_Jb1JjYSz4VX/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1xVctw1jz7t1zkP2tRSbdq4vpl0OIINao/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1DgbDbwJ0Cvgz2yWceWjyS2EJU9_USaq9/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1tH7blhOzJMWi1_71Au0lMbS9_czr6Rco/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1lMwrR1RHyxEZsVf6e5XyfJQFca2Usy97/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1NLekWesl570CepgiLwbWMn5hYiaNQ6RR/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "鉄板＆木板"
+        },
+        {
+          "item": "皿",
+          "content": "ライス碗"
+        },
+        {
+          "item": "皿",
+          "content": "スープ碗"
+        },
+        {
+          "item": "皿",
+          "content": "お盆"
+        }
+      ],
+      "related": [
+        {
+          "id": "LU002",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "手動"
+        },
+        {
+          "id": "SH037",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "LU006",
+        "CO050"
+      ]
+    },
+    {
+      "id": "LU006",
+      "brand": "坊っちゃん",
+      "name": "鉄板ホルモン定食",
+      "furigana": "テッパンホルモンテイショク",
+      "category": "ランチ",
+      "time": "10分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 119,
+      "ingredients": [
+        {
+          "label": "ホルモン_坊",
+          "amt": "120",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "キャベツ",
+          "amt": "30",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "カットネギ",
+          "amt": "10",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "玉子",
+          "amt": "1",
+          "unit": "個",
+          "linkId": ""
+        },
+        {
+          "label": "辛みそだれ",
+          "amt": "30",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "米",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "SH037"
+        }
+      ],
+      "allergens": [
+        "牛肉",
+        "卵",
+        "大豆",
+        "小麦",
+        "ごま",
+        "ゼラチン"
+      ],
+      "steps": [
+        {
+          "text": "フライパンと鉄板を温め油を引く",
+          "note": false
+        },
+        {
+          "text": "ホルモンミックス120gをフライパンに入れて焼く",
+          "note": false
+        },
+        {
+          "text": "ホルモンが少し焼けてきたら鉄板にキャベツ30gを入れる",
+          "note": false
+        },
+        {
+          "text": "ホルモンが焼けてきたら辛みそだれ30gを入れる",
+          "note": false
+        },
+        {
+          "text": "タレをよく絡めてからキャベツの上に炒めたホルモンを盛る",
+          "note": false
+        },
+        {
+          "text": "ホルモンの上にカットネギを盛る",
+          "note": false
+        },
+        {
+          "text": "別のフライパンで玉子1つを焼いて目玉焼きを作る",
+          "note": false
+        },
+        {
+          "text": "30秒ほど蓋をして焼くと綺麗にできやすい",
+          "note": true
+        },
+        {
+          "text": "ホルモンの上に玉子を乗せたら鉄板を木板に移す",
+          "note": false
+        },
+        {
+          "text": "お盆にご飯180g、小鉢、スープ180g、ホルモンを乗せて完成",
+          "note": false
+        },
+        {
+          "text": "定食系の小鉢は通常の半量でいいです\n内容はスピード系なら特に指定は無しです",
+          "note": true
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1HWmuHNmogruS9PsKubvv_Jb1JjYSz4VX/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1xVctw1jz7t1zkP2tRSbdq4vpl0OIINao/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1DgbDbwJ0Cvgz2yWceWjyS2EJU9_USaq9/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1tH7blhOzJMWi1_71Au0lMbS9_czr6Rco/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1lMwrR1RHyxEZsVf6e5XyfJQFca2Usy97/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1NLekWesl570CepgiLwbWMn5hYiaNQ6RR/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "鉄板＆木板"
+        },
+        {
+          "item": "皿",
+          "content": "ライス碗"
+        },
+        {
+          "item": "皿",
+          "content": "スープ碗"
+        },
+        {
+          "item": "皿",
+          "content": "お盆"
+        }
+      ],
+      "related": [
+        {
+          "id": "LU002",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "手動"
+        },
+        {
+          "id": "SH037",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "LU005",
+        "CO050"
       ]
     }
   ]
