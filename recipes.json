@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:32:02.056Z",
+  "generatedAt": "2026-08-31T12:47:21.452Z",
   "count": 133,
   "recipes": [
     {
@@ -6179,9 +6179,9 @@
       "suggested": [
         "CO067",
         "CO083",
+        "LU006",
         "LU007",
-        "CO082",
-        "CO081"
+        "CO082"
       ]
     },
     {
@@ -6305,7 +6305,7 @@
         "CO074",
         "LU004",
         "CU007",
-        "LU007"
+        "LU006"
       ]
     },
     {
@@ -8555,10 +8555,10 @@
       "comments": [],
       "suggested": [
         "LU003",
+        "LU006",
         "LU007",
         "CO083",
-        "CO082",
-        "CO081"
+        "CO082"
       ]
     },
     {
@@ -14323,8 +14323,8 @@
       ],
       "comments": [],
       "suggested": [
-        "LU007",
-        "LU004"
+        "LU006",
+        "LU007"
       ]
     },
     {
@@ -14488,10 +14488,22 @@
           "linkId": ""
         },
         {
-          "label": "米",
+          "label": "仕込み_米",
           "amt": "180",
           "unit": "g",
           "linkId": "SH037"
+        },
+        {
+          "label": "仕込み_ランチスープ",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "LU002"
+        },
+        {
+          "label": "キムチ",
+          "amt": "25",
+          "unit": "g",
+          "linkId": ""
         }
       ],
       "allergens": [
@@ -14500,7 +14512,13 @@
         "大豆",
         "小麦",
         "ごま",
-        "ゼラチン"
+        "ゼラチン",
+        "鶏肉",
+        "豚肉",
+        "乳製品",
+        "さば",
+        "えび",
+        "さけ"
       ],
       "steps": [
         {
@@ -14571,6 +14589,10 @@
         },
         {
           "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1ZSUgsqmye1Uazh0WexCVjtB_CmMfh6Po/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
           "url": "https://drive.google.com/file/d/1NLekWesl570CepgiLwbWMn5hYiaNQ6RR/view?usp=drivesdk"
         }
       ],
@@ -14586,6 +14608,10 @@
         {
           "item": "皿",
           "content": "スープ碗"
+        },
+        {
+          "item": "皿",
+          "content": "八角珍味"
         },
         {
           "item": "皿",
@@ -14608,7 +14634,7 @@
       ],
       "comments": [],
       "suggested": [
-        "CO050",
+        "LU007",
         "LU003"
       ]
     },
@@ -14914,7 +14940,7 @@
       ],
       "comments": [],
       "suggested": [
-        "LU003"
+        "LU006"
       ]
     }
   ]
