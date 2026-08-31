@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T12:53:42.368Z",
-  "count": 133,
+  "generatedAt": "2026-08-31T13:09:33.259Z",
+  "count": 134,
   "recipes": [
     {
       "id": "SH020",
@@ -12422,11 +12422,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "LU008",
         "CO083",
         "CO082",
         "CO081",
-        "CO079",
-        "CO078"
+        "CO079"
       ]
     },
     {
@@ -14964,6 +14964,153 @@
         "SH035",
         "SH031",
         "SH022"
+      ]
+    },
+    {
+      "id": "LU008",
+      "brand": "坊っちゃん",
+      "name": "焼き鳥丼",
+      "furigana": "ヤキトリドン_ランチ",
+      "category": "ランチ",
+      "time": "8分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 123,
+      "ingredients": [
+        {
+          "label": "仕込み_もも串",
+          "amt": "2",
+          "unit": "本",
+          "linkId": "SH006"
+        },
+        {
+          "label": "皮串",
+          "amt": "1",
+          "unit": "本",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_みんち串",
+          "amt": "1",
+          "unit": "個",
+          "linkId": "SH010"
+        },
+        {
+          "label": "仕込み_米",
+          "amt": "200",
+          "unit": "g",
+          "linkId": "SH037"
+        },
+        {
+          "label": "きざみのり",
+          "amt": "適量",
+          "unit": "",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_ランチスープ",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "LU002"
+        }
+      ],
+      "allergens": [
+        "鶏肉",
+        "大豆",
+        "豚肉",
+        "乳製品",
+        "さば",
+        "小麦",
+        "卵",
+        "ごま"
+      ],
+      "steps": [
+        {
+          "text": "もも串2本、みんち1個をタレ焼にする",
+          "note": false
+        },
+        {
+          "text": "170～175°のフライヤーで皮串を1本揚げる",
+          "note": false
+        },
+        {
+          "text": "上記をしている間に丼にご飯200gを盛る",
+          "note": false
+        },
+        {
+          "text": "ご飯の上にきざみのりを全体にかける",
+          "note": false
+        },
+        {
+          "text": "焼き鳥のたれをご飯全体に軽くかける",
+          "note": false
+        },
+        {
+          "text": "焼きあがったもも串を串から外してご飯の上に盛る",
+          "note": false
+        },
+        {
+          "text": "同様に焼きあがったみんちもご飯の上に盛る",
+          "note": false
+        },
+        {
+          "text": "上げた皮串はタレに一度漬けてから串を外しご飯の上に盛る",
+          "note": false
+        },
+        {
+          "text": "スープと一緒に提供する",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1eAElrG-ikx0Y4NiIRAgr2BCkM73FceOn/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1DIRbKg7bUKM8KdfRs8CVXGPaX5x1vJp3/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1lMwrR1RHyxEZsVf6e5XyfJQFca2Usy97/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1TaAC1Y0K47lyqAtTukUEgZxcr5_8JxoK/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "丼"
+        },
+        {
+          "item": "皿",
+          "content": "スープ碗"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH037",
+          "reason": "手動"
+        },
+        {
+          "id": "LU002",
+          "reason": "手動"
+        },
+        {
+          "id": "SH006",
+          "reason": "手動"
+        },
+        {
+          "id": "SH010",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "LU007"
       ]
     }
   ]
