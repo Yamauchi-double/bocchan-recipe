@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T11:36:39.337Z",
-  "count": 132,
+  "generatedAt": "2026-08-31T11:55:46.313Z",
+  "count": 133,
   "recipes": [
     {
       "id": "SH020",
@@ -1725,7 +1725,7 @@
       "plating": [
         {
           "item": "ソース容器",
-          "content": "ハイパック：S-31/2,440ml"
+          "content": "タッパ：2,440ml"
         }
       ],
       "related": [
@@ -2140,8 +2140,8 @@
       "comments": [],
       "suggested": [
         "SH032",
-        "SH020",
-        "SH019"
+        "SH055",
+        "SH020"
       ]
     },
     {
@@ -2247,7 +2247,7 @@
       "plating": [
         {
           "item": "ソース容器",
-          "content": "2,440mlタッパ"
+          "content": "タッパ：2,440ml"
         }
       ],
       "related": [
@@ -3603,7 +3603,7 @@
       "plating": [
         {
           "item": "ソース容器",
-          "content": "2,440mlタッパ"
+          "content": "タッパ：2,440ml"
         }
       ],
       "related": [
@@ -4364,10 +4364,10 @@
       ],
       "comments": [],
       "suggested": [
+        "SH055",
         "SH001",
         "SH010",
-        "SH005",
-        "SH002"
+        "SH005"
       ]
     },
     {
@@ -4568,8 +4568,8 @@
         "SH032",
         "SH031",
         "SH024",
-        "CO051",
-        "SH020"
+        "SH055",
+        "CO051"
       ]
     },
     {
@@ -4842,10 +4842,10 @@
       "comments": [],
       "suggested": [
         "SH034",
+        "SH055",
         "SH004",
         "SH043",
-        "SH032",
-        "SH020"
+        "SH032"
       ]
     },
     {
@@ -14761,6 +14761,137 @@
       "suggested": [
         "LU005",
         "CO050"
+      ]
+    },
+    {
+      "id": "SH055",
+      "brand": "坊っちゃん",
+      "name": "仕込み_タンそぼろ",
+      "furigana": "シコミ＿タンソボロ",
+      "category": "仕込み",
+      "time": "45分",
+      "yieldAmt": 500,
+      "yieldUnit": "g",
+      "appOrder": 121,
+      "ingredients": [
+        {
+          "label": "ムキタン",
+          "amt": "400",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "焼き鳥のたれ",
+          "amt": "200",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "上白糖",
+          "amt": "50",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "おろし生姜",
+          "amt": "15",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "おろしにんにく",
+          "amt": "5",
+          "unit": "g",
+          "linkId": ""
+        }
+      ],
+      "allergens": [
+        "牛肉",
+        "小麦",
+        "大豆"
+      ],
+      "steps": [
+        {
+          "text": "タン下とタン先を動画を参考にカットする",
+          "note": false
+        },
+        {
+          "text": "レアタン用の余りを使う。\nタン下とタン先はラップして冷凍保存しておく",
+          "note": true
+        },
+        {
+          "text": "鍋にたっぷりの水を張りカットしたタンを入れて火にかける",
+          "note": false
+        },
+        {
+          "text": "沸いたら火から外して表面のアクなどを流水で洗い流す",
+          "note": false
+        },
+        {
+          "text": "一口大にカットしていく",
+          "note": false
+        },
+        {
+          "text": "茹で→カットしたタンをブレンダーを使い細かくそぼろ状にする",
+          "note": false
+        },
+        {
+          "text": "鍋の中に焼き鳥のたれ、上白糖、おろし生姜、おろしにんにくを入れて火にかける",
+          "note": false
+        },
+        {
+          "text": "中～弱火で火にかけ水分を飛ばしていく",
+          "note": false
+        },
+        {
+          "text": "水分が飛んだら容器などに移し粗熱を取り保存",
+          "note": false
+        },
+        {
+          "text": "ポーション袋に入れて冷凍保存も可能",
+          "note": true
+        },
+        {
+          "text": "保存期間：冷蔵5日",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1Hhg7_U2DD0i1DH_uXuZ-Q3RxilJGwTHO/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1aBKKR4sKz7sTb0dyUClCahRt7JimH2bj/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/18gzpB06oOaacEuazGEYKCqoUbtv-2wgn/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1Dy3j_vqd0dlFlzoHVW3Zp-K-JGwV7_Bi/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "ソース容器",
+          "content": "タッパ：1,550ml"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH016",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "SH032",
+        "SH001",
+        "SH027",
+        "SH034"
       ]
     }
   ]
