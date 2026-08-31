@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:47:21.452Z",
+  "generatedAt": "2026-08-31T12:51:44.448Z",
   "count": 133,
   "recipes": [
     {
@@ -5943,9 +5943,9 @@
       "suggested": [
         "LU007",
         "CO002",
+        "LU003",
         "CO063",
-        "CO060",
-        "LU003"
+        "CO060"
       ]
     },
     {
@@ -6179,9 +6179,9 @@
       "suggested": [
         "CO067",
         "CO083",
+        "LU003",
         "LU006",
-        "LU007",
-        "CO082"
+        "LU007"
       ]
     },
     {
@@ -6305,7 +6305,7 @@
         "CO074",
         "LU004",
         "CU007",
-        "LU006"
+        "LU003"
       ]
     },
     {
@@ -13035,10 +13035,10 @@
       "comments": [],
       "suggested": [
         "CO075",
+        "LU003",
         "LU007",
         "CO063",
-        "CO060",
-        "CO049"
+        "CO060"
       ]
     },
     {
@@ -14175,15 +14175,27 @@
           "linkId": "SH054"
         },
         {
+          "label": "キャベツ",
+          "amt": "30",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
           "label": "タルタルソース",
           "amt": "70",
           "unit": "g",
           "linkId": ""
         },
         {
-          "label": "キャベツ",
-          "amt": "30",
-          "unit": "g",
+          "label": "レモン",
+          "amt": "1/8",
+          "unit": "個",
+          "linkId": ""
+        },
+        {
+          "label": "パセリ",
+          "amt": "適量",
+          "unit": "",
           "linkId": ""
         },
         {
@@ -14199,10 +14211,10 @@
           "linkId": "LU002"
         },
         {
-          "label": "パセリ",
-          "amt": "適量",
-          "unit": "",
-          "linkId": ""
+          "label": "仕込み_米",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "SH037"
         }
       ],
       "allergens": [
@@ -14232,6 +14244,10 @@
         },
         {
           "text": "タルタルソース70gをかける",
+          "note": false
+        },
+        {
+          "text": "1/8にカットしたレモンを盛る",
           "note": false
         },
         {
@@ -14282,6 +14298,10 @@
         },
         {
           "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1ZSUgsqmye1Uazh0WexCVjtB_CmMfh6Po/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
           "url": "https://drive.google.com/file/d/1ZoelFbUZp2KyijpJd8IHjHdh0ar9E8We/view?usp=drivesdk"
         }
       ],
@@ -14319,11 +14339,14 @@
         {
           "id": "LU002",
           "reason": "手動"
+        },
+        {
+          "id": "SH037",
+          "reason": "使用する仕込み（仕込み_米）"
         }
       ],
       "comments": [],
       "suggested": [
-        "LU006",
         "LU007"
       ]
     },
@@ -14634,8 +14657,8 @@
       ],
       "comments": [],
       "suggested": [
-        "LU007",
-        "LU003"
+        "LU003",
+        "LU007"
       ]
     },
     {
@@ -14940,7 +14963,7 @@
       ],
       "comments": [],
       "suggested": [
-        "LU006"
+        "LU003"
       ]
     }
   ]
