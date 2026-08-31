@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:26:32.596Z",
+  "generatedAt": "2026-08-31T13:27:33.277Z",
   "count": 136,
   "recipes": [
     {
@@ -15221,13 +15221,13 @@
     {
       "id": "LU010",
       "brand": "坊っちゃん",
-      "name": "タンそぼろ",
-      "furigana": "タンソボロ_ランチ",
+      "name": "タンそぼろ_トッピング用",
+      "furigana": "タンソボロ_ランチ_トッピングヨウ",
       "category": "ランチ",
       "time": "3分",
       "yieldAmt": null,
       "yieldUnit": "",
-      "appOrder": 125,
+      "appOrder": 126,
       "ingredients": [
         {
           "label": "仕込み_タンそぼろ",
