@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T13:19:39.854Z",
-  "count": 135,
+  "generatedAt": "2026-08-31T13:26:32.596Z",
+  "count": 136,
   "recipes": [
     {
       "id": "SH020",
@@ -15216,6 +15216,77 @@
       "suggested": [
         "LU007",
         "LU003"
+      ]
+    },
+    {
+      "id": "LU010",
+      "brand": "坊っちゃん",
+      "name": "タンそぼろ",
+      "furigana": "タンソボロ_ランチ",
+      "category": "ランチ",
+      "time": "3分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 125,
+      "ingredients": [
+        {
+          "label": "仕込み_タンそぼろ",
+          "amt": "80",
+          "unit": "g",
+          "linkId": "SH055"
+        }
+      ],
+      "allergens": [
+        "牛肉",
+        "小麦",
+        "大豆"
+      ],
+      "steps": [
+        {
+          "text": "仕込んでおいたタンそぼろ80gをレンジで温める",
+          "note": false
+        },
+        {
+          "text": "600w/30秒",
+          "note": true
+        },
+        {
+          "text": "温まったらお皿を盛り替えて提供",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1SmGXJXprV32u2-QVRu1nUMajbuD6sOZ2/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1IeQlWjgniT9CsBKNUhtYhiCXbnS2VeYB/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1veFrP50RjavuMuH7PdZWpzrwfVkzBZP3/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "友禅小鉢"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH055",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "LU007",
+        "LU003",
+        "LU006",
+        "LU004"
       ]
     }
   ]
