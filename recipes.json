@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T13:11:31.109Z",
-  "count": 134,
+  "generatedAt": "2026-08-31T13:19:39.854Z",
+  "count": 135,
   "recipes": [
     {
       "id": "SH020",
@@ -15111,6 +15111,111 @@
       "comments": [],
       "suggested": [
         "LU007"
+      ]
+    },
+    {
+      "id": "LU009",
+      "brand": "坊っちゃん",
+      "name": "おでん出汁のカレー丼",
+      "furigana": "オデンダシノカレードン_ランチ",
+      "category": "ランチ",
+      "time": "5分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 124,
+      "ingredients": [
+        {
+          "label": "仕込み_カレー_ランチ",
+          "amt": "220",
+          "unit": "g",
+          "linkId": "LU001"
+        },
+        {
+          "label": "仕込み_米",
+          "amt": "200",
+          "unit": "g",
+          "linkId": "SH037"
+        },
+        {
+          "label": "仕込み_ランチスープ",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "LU002"
+        }
+      ],
+      "allergens": [
+        "乳製品",
+        "小麦",
+        "大豆",
+        "鶏肉",
+        "豚肉",
+        "さば",
+        "ごま"
+      ],
+      "steps": [
+        {
+          "text": "仕込んでおいたカレー220gを鍋で温める",
+          "note": false
+        },
+        {
+          "text": "混ぜながら温めないと焦げ付くので注意！！",
+          "note": true
+        },
+        {
+          "text": "丼にご飯200gを盛る",
+          "note": false
+        },
+        {
+          "text": "カレーが温まればご飯の上にカレーをかける",
+          "note": false
+        },
+        {
+          "text": "スープと一緒に提供",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1xyGnMF2Pz2KAEtm5nuYf0ENnkEeoJzVn/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1DIRbKg7bUKM8KdfRs8CVXGPaX5x1vJp3/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1b3VNcQmTxL8GJsaaoWIjrO7Iwc2bbZiI/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "丼"
+        },
+        {
+          "item": "皿",
+          "content": "スープ碗"
+        }
+      ],
+      "related": [
+        {
+          "id": "LU001",
+          "reason": "手動"
+        },
+        {
+          "id": "SH037",
+          "reason": "手動"
+        },
+        {
+          "id": "LU002",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "LU007",
+        "LU003"
       ]
     }
   ]
