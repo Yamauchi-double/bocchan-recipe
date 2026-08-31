@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T12:04:36.195Z",
-  "count": 132,
+  "generatedAt": "2026-08-31T12:32:02.056Z",
+  "count": 133,
   "recipes": [
     {
       "id": "SH020",
@@ -3782,11 +3782,7 @@
           "note": false
         },
         {
-          "text": "保存期間：仕込み翌日廃棄",
-          "note": false
-        },
-        {
-          "text": "保存推奨容器：１合に対し釜飯１台",
+          "text": "保存期間：冷蔵保存_仕込み翌日廃棄",
           "note": false
         }
       ],
@@ -5945,11 +5941,11 @@
       "related": [],
       "comments": [],
       "suggested": [
+        "LU007",
         "CO002",
         "CO063",
         "CO060",
-        "LU003",
-        "LU006"
+        "LU003"
       ]
     },
     {
@@ -6183,9 +6179,9 @@
       "suggested": [
         "CO067",
         "CO083",
+        "LU007",
         "CO082",
-        "CO081",
-        "CO079"
+        "CO081"
       ]
     },
     {
@@ -6309,7 +6305,7 @@
         "CO074",
         "LU004",
         "CU007",
-        "CO083"
+        "LU007"
       ]
     },
     {
@@ -8559,10 +8555,10 @@
       "comments": [],
       "suggested": [
         "LU003",
+        "LU007",
         "CO083",
         "CO082",
-        "CO081",
-        "CO079"
+        "CO081"
       ]
     },
     {
@@ -13039,10 +13035,10 @@
       "comments": [],
       "suggested": [
         "CO075",
+        "LU007",
         "CO063",
         "CO060",
-        "CO049",
-        "LU003"
+        "CO049"
       ]
     },
     {
@@ -14327,8 +14323,8 @@
       ],
       "comments": [],
       "suggested": [
-        "LU004",
-        "LU006"
+        "LU007",
+        "LU004"
       ]
     },
     {
@@ -14745,6 +14741,180 @@
         "SH001",
         "SH027",
         "SH034"
+      ]
+    },
+    {
+      "id": "LU007",
+      "brand": "坊っちゃん",
+      "name": "スパイシー骨付きもも焼き定食",
+      "furigana": "スパイシーホネツキモモヤキテイショク_ランチ",
+      "category": "ランチ",
+      "time": "10分",
+      "yieldAmt": null,
+      "yieldUnit": "",
+      "appOrder": 122,
+      "ingredients": [
+        {
+          "label": "仕込み_骨付きもも肉スパイシー",
+          "amt": "1",
+          "unit": "本",
+          "linkId": "SH040"
+        },
+        {
+          "label": "キャベツ",
+          "amt": "30",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "仕込み_米",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "SH037"
+        },
+        {
+          "label": "仕込み_ランチスープ",
+          "amt": "180",
+          "unit": "g",
+          "linkId": "LU002"
+        },
+        {
+          "label": "キムチ",
+          "amt": "25",
+          "unit": "g",
+          "linkId": ""
+        },
+        {
+          "label": "レモン",
+          "amt": "1/8",
+          "unit": "個",
+          "linkId": ""
+        }
+      ],
+      "allergens": [
+        "鶏肉",
+        "小麦",
+        "ごま",
+        "大豆",
+        "乳",
+        "豚肉",
+        "牛肉",
+        "乳製品",
+        "さば",
+        "えび",
+        "さけ"
+      ],
+      "steps": [
+        {
+          "text": "ランチ用に味付けした骨付きもも肉をオーブンで9分前焼しておく",
+          "note": false
+        },
+        {
+          "text": "230°/9分\n店舗によりオーブンの状態が少し違うので時間と温度は前後してください",
+          "note": true
+        },
+        {
+          "text": "10人前/日。にしてるので最大でも10本焼いておけば大丈夫です。",
+          "note": true
+        },
+        {
+          "text": "ここからはオーダーが入った後にする事",
+          "note": false
+        },
+        {
+          "text": "前焼しておいた骨付きもも肉をオーブンに5分入れる",
+          "note": false
+        },
+        {
+          "text": "その間にご飯180g、スープ180g、小鉢を用意しておく",
+          "note": false
+        },
+        {
+          "text": "骨付きもも肉用のお皿にキャベツとレモンを盛っておく",
+          "note": false
+        },
+        {
+          "text": "焼きあがったらお皿に骨付きもも肉を盛って、お盆に全て乗せて提供",
+          "note": false
+        }
+      ],
+      "media": [
+        {
+          "type": "料理写真",
+          "url": "https://drive.google.com/file/d/1MmTMcX7pYkXUaidLMlcZ96eBiF-fizDY/view?usp=drivesdk"
+        },
+        {
+          "type": "お皿写真",
+          "url": "https://drive.google.com/file/d/1m9WPZ7VDaiqqA8elSuHIQC18ZYKTSYfW/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1DgbDbwJ0Cvgz2yWceWjyS2EJU9_USaq9/view?usp=drivesdk"
+        },
+        {
+          "type": "動画",
+          "url": "https://drive.google.com/file/d/1nv70pIIUBHh4HZjKujkEknUe8eqRrpD9/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1lMwrR1RHyxEZsVf6e5XyfJQFca2Usy97/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1ZSUgsqmye1Uazh0WexCVjtB_CmMfh6Po/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1NLekWesl570CepgiLwbWMn5hYiaNQ6RR/view?usp=drivesdk"
+        },
+        {
+          "type": "工程写真",
+          "url": "https://drive.google.com/file/d/1-e0muSFpHehZ8xJtlOVfnftMXRxkgqfB/view?usp=drivesdk"
+        }
+      ],
+      "plating": [
+        {
+          "item": "皿",
+          "content": "銀皿大：楕円"
+        },
+        {
+          "item": "皿",
+          "content": "ライス碗"
+        },
+        {
+          "item": "皿",
+          "content": "スープ碗"
+        },
+        {
+          "item": "皿",
+          "content": "八角珍味"
+        },
+        {
+          "item": "皿",
+          "content": "お盆"
+        }
+      ],
+      "related": [
+        {
+          "id": "SH040",
+          "reason": "手動"
+        },
+        {
+          "id": "LU002",
+          "reason": "手動"
+        },
+        {
+          "id": "SH002",
+          "reason": "手動"
+        },
+        {
+          "id": "SH037",
+          "reason": "手動"
+        }
+      ],
+      "comments": [],
+      "suggested": [
+        "LU003"
       ]
     }
   ]
