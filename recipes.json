@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:31:39.295Z",
+  "generatedAt": "2026-08-31T13:36:26.247Z",
   "count": 136,
   "recipes": [
     {
@@ -13174,7 +13174,7 @@
       "id": "SH053",
       "brand": "坊っちゃん",
       "name": "仕込み_雲仙ハム",
-      "furigana": "しこみ",
+      "furigana": "シコミ_ウンゼンハム",
       "category": "仕込み",
       "time": "10分",
       "yieldAmt": 25,
@@ -14324,7 +14324,7 @@
       "id": "LU006",
       "brand": "坊っちゃん",
       "name": "鉄板ホルモン定食",
-      "furigana": "テッパンホルモンテイショク",
+      "furigana": "テッパンホルモンテイショク_ランチ",
       "category": "ランチ",
       "time": "10分",
       "yieldAmt": null,
@@ -14747,8 +14747,8 @@
     {
       "id": "SH055",
       "brand": "坊っちゃん",
-      "name": "仕込み_タンそぼろ",
-      "furigana": "シコミ＿タンソボロ",
+      "name": "仕込み_タンそぼろ_ランチ",
+      "furigana": "シコミ＿タンソボロ_ランチ",
       "category": "仕込み",
       "time": "45分",
       "yieldAmt": 500,
