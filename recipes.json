@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:09:33.259Z",
+  "generatedAt": "2026-08-31T13:11:31.109Z",
   "count": 134,
   "recipes": [
     {
@@ -6302,8 +6302,8 @@
       "comments": [],
       "suggested": [
         "CO070",
-        "CO074",
         "LU004",
+        "CO074",
         "CU007",
         "LU007"
       ]
@@ -14516,7 +14516,7 @@
       "id": "LU004",
       "brand": "坊っちゃん",
       "name": "うな丼",
-      "furigana": "ウナドン",
+      "furigana": "ウナドン_ランチ",
       "category": "ランチ",
       "time": "8分",
       "yieldAmt": null,
@@ -14530,8 +14530,8 @@
           "linkId": ""
         },
         {
-          "label": "米",
-          "amt": "180",
+          "label": "仕込み_米",
+          "amt": "200",
           "unit": "g",
           "linkId": "SH037"
         },
@@ -14627,8 +14627,8 @@
       ],
       "comments": [],
       "suggested": [
-        "CO074",
-        "CO067"
+        "CO067",
+        "LU007"
       ]
     },
     {
